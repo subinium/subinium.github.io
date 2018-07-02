@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "SUBINIUM"
+title                    : "SUBINIUM's Coding Diary"
 title_separator          : "-"
 name                     : "수비니움의 코딩일지"
 description              : "I am subinium."
@@ -27,7 +27,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               :  "disqus"
+  provider               : "disqus"
   disqus:
     shortname            : www-subinium-github-io
   discourse:
