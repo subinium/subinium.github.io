@@ -15,21 +15,21 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "SUBINIUM"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "수비니움의 코딩일지"
+description              : "I am subinium."
+url                      : "https://subinium.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "subinium/subinium.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               :  "disqus"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : www-subinium-github-io
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -58,8 +58,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : false
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "An Subin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul,Korea"
+  email            : "me@ansubin.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "subinium"
   gitlab           :
   google_plus      :
   keybase          :
@@ -265,7 +265,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
