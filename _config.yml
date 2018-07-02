@@ -106,7 +106,7 @@ author:
   location         : "Seoul,Korea"
   email            : "me@ansubin.com"
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "#" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
