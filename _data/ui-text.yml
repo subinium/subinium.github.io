@@ -42,7 +42,6 @@ en: &DEFAULT_EN
   loading_label              : "Loading..."
   search_placeholder_text    : "Enter your search term..."
   results_found              : "Result(s) found"
-  back_to_top                : "Back to top"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -53,7 +52,7 @@ en-AU:
   <<: *DEFAULT_EN
 
 # Spanish
-# -------
+# --------------
 es: &DEFAULT_ES
   page                       : "Página"
   pagination_previous        : "Anterior"
@@ -98,7 +97,7 @@ es-CO:
   <<: *DEFAULT_ES
 
 # French
-# ------
+# -----------------
 fr: &DEFAULT_FR
   page                       : "Page"
   pagination_previous        : "Précédent"
@@ -146,7 +145,7 @@ fr-CH:
   <<: *DEFAULT_FR
 
 # Turkish
-# -------
+# -----------------
 tr: &DEFAULT_TR
   page                       : "Sayfa"
   pagination_previous        : "Önceki"
@@ -189,7 +188,6 @@ tr-TR:
   <<: *DEFAULT_TR
 
 # Portuguese
-# ----------
 pt: &DEFAULT_PT
   page                       : "Página"
   pagination_previous        : "Anterior"
@@ -230,6 +228,7 @@ pt: &DEFAULT_PT
   loading_label              : "A carregar..."
 pt-PT:
   <<: *DEFAULT_PT
+
 # Brazilian Portuguese
 pt-BR:
   page                       : "Página"
@@ -271,7 +270,7 @@ pt-BR:
   loading_label              : "Carregando..."
 
 # Italian
-# -------
+# -----------------
 it: &DEFAULT_IT
   page                       : "Pagina"
   pagination_previous        : "Precedente"
@@ -314,7 +313,7 @@ it-IT:
   <<: *DEFAULT_IT
 
 # Chinese  (zh-CN Chinese - China)
-# --------------------------------
+# -----------------
 zh: &DEFAULT_ZH_HANS
   page                       : "页面"
   pagination_previous        : "向前"
@@ -398,16 +397,15 @@ zh-TW: &DEFAULT_ZH_HANT
   loading_label              : "載入中..."
 zh-HK:
   <<: *DEFAULT_ZH_HANT
-
 # German / Deutsch
-# ----------------
+# -----------------
 de: &DEFAULT_DE
   page                       : "Seite"
   pagination_previous        : "Vorherige"
   pagination_next            : "Nächste"
-  breadcrumb_home_label      : "Start"
+  breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
-  menu_label                 : "Menü ein-/ausschalten"
+  menu_label                 :
   toc_label                  : "Auf dieser Seite"
   ext_link_label             : "Direkter Link"
   less_than                  : "weniger als"
@@ -417,13 +415,13 @@ de: &DEFAULT_DE
   tags_label                 : "Tags:"
   categories_label           : "Kategorien:"
   date_label                 : "Aktualisiert:"
-  comments_label             : "Hinterlassen Sie einen Kommentar"
+  comments_label             : "Hinterlassen sie einen Kommentar"
   comments_title             : "Kommentare"
   more_label                 : "Mehr anzeigen"
   related_label              : "Ihnen gefällt vielleicht auch"
   follow_label               : "Folgen:"
   feed_label                 : "Feed"
-  powered_by                 : "Möglich durch"
+  powered_by                 : "Powered by"
   website_label              : "Webseite"
   email_label                : "E-Mail"
   recent_posts               : "Aktuelle Beiträge"
@@ -432,15 +430,13 @@ de: &DEFAULT_DE
   comment_form_comment_label : "Kommentar"
   comment_form_md_info       : "Markdown wird unterstützt."
   comment_form_name_label    : "Name"
-  comment_form_email_label   : "E-Mail-Addresse"
+  comment_form_email_label   : "E-Mail Addresse"
   comment_form_website_label : "Webseite (optional)"
   comment_btn_submit         : "Kommentar absenden"
   comment_btn_submitted      : "Versendet"
-  comment_success_msg        : "Danke für Ihren Kommentar! Er wird auf der Seite angezeigt, nachdem er geprüft wurde."
-  comment_error_msg          : "Entschuldigung, es gab einen Fehler. Bitte füllen Sie alle benötigten Felder aus und versuchen Sie es erneut."
+  comment_success_msg        : "Danke für ihren Kommentar! Er wird auf der Seite angezeigt, nachdem er geprüft wurde."
+  comment_error_msg          : "Entschuldigung, es gab einen Fehler. Bitte füllen sie alle benötigten Felder aus und versuchen sie es erneut."
   loading_label              : "Lade..."
-  search_placeholder_text    : "Suchbegriff eingeben..."
-  results_found              : "Ergebnis(se) gefunden"
 de-DE:
   <<: *DEFAULT_DE
 de-AT:
@@ -455,7 +451,7 @@ de-LU:
   <<: *DEFAULT_DE
 
 # Nepali (Nepal)
-# --------------
+# -----------------
 ne: &DEFAULT_NE
   page                       : "पृष्‍ठ"
   pagination_previous        : "अघिल्लो"
@@ -498,7 +494,7 @@ ne-NP:
   <<: *DEFAULT_NE
 
 # Korean
-# ------
+# --------------
 ko: &DEFAULT_KO
   page                       : "페이지"
   pagination_previous        : "이전"
@@ -522,8 +518,8 @@ ko: &DEFAULT_KO
   follow_label               : "팔로우:"
   feed_label                 : "피드"
   powered_by                 : "Powered by"
-  website_label              : "웹사이트"
-  email_label                : "이메일"
+  website_label              : "Website"
+  email_label                : "Email"
   recent_posts               : "최근 포스트"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "이메일은 공개되지 않습니다. 작성 필요 필드:"
@@ -580,13 +576,11 @@ ru: &DEFAULT_RU
   comment_success_msg        : "Спасибо за Ваш комментарий! Он будет опубликован на сайте после проверки."
   comment_error_msg          : "К сожалению, произошла ошибка с отправкой комментария. Пожалуйста, убедитесь, что все обязательные поля заполнены и попытайтесь снова."
   loading_label              : "Отправка..."
-  search_placeholder_text    : "Введите поисковый запрос..."
-  results_found              : "Найдено"
 ru-RU:
   <<: *DEFAULT_RU
 
 # Lithuanian / Lietuviškai
-# ------------------------
+# -----------------
 lt: &DEFAULT_LT
   page                       : "Puslapis"
   pagination_previous        : "Ankstesnis"
@@ -629,7 +623,7 @@ lt-LT:
   <<: *DEFAULT_LT
 
 # Greek
-# -----
+# --------------
 gr: &DEFAULT_GR
   page                       : "Σελίδα"
   pagination_previous        : "Προηγούμενo"
@@ -674,7 +668,7 @@ gr-GR:
   <<: *DEFAULT_GR
 
 # Swedish
-# -------
+# -----------------
 sv: &DEFAULT_SV
   page                       : "Sidan"
   pagination_previous        : "Föregående"
@@ -719,7 +713,7 @@ sv-FI:
   <<: *DEFAULT_SV
 
 # Dutch
-# -----
+# -----------------
 nl: &DEFAULT_NL
   page                       : "Pagina"
   pagination_previous        : "Vorige"
@@ -764,7 +758,7 @@ nl-NL:
   <<: *DEFAULT_NL
 
 # Indonesian
-# ----------
+# -----------------
 id: &DEFAULT_ID
   page                       : "Halaman"
   pagination_previous        : "Kembali"
@@ -807,7 +801,7 @@ id-ID:
   <<: *DEFAULT_ID
 
 # Vietnamese
-# ----------
+# -----------------
 vi: &DEFAULT_VI
   page                       : "Trang"
   pagination_previous        : "Trước"
@@ -889,9 +883,6 @@ da: &DEFAULT_DA
   comment_success_msg        : "Tak for din kommentar! Den bliver vist på siden, så snart den er godkendt."
   comment_error_msg          : "Desværre skete der en fejl. Prøv igen, mens du sørger for at alle obligatoriske felter er udfyldt."
   loading_label              : "Indlæser..."
-  search_placeholder_text    : "Hvad leder du efter..."
-  results_found              : "Resultat(er) fundet"
-  back_to_top                : "Tilbage til toppen"
 da-DK:
   <<: *DEFAULT_DA
 
@@ -935,11 +926,11 @@ pl: &DEFAULT_PL
   comment_success_msg        : "Dziękuję za Twój komentarz! Zostanie dodany po akceptacji."
   comment_error_msg          : "Niestety wystąpił błąd. Proszę upewnij się, że wszystkie wymagane pola zostały wypełnione i spróbuj ponownie."
   loading_label              : "Trwa ładowanie strony..."
-pl-PL:
+da-PL:
   <<: *DEFAULT_PL
 
 # Japanese
-# --------
+# -----------------
 ja: &DEFAULT_JA
   page                       : "ページ"
   pagination_previous        : "前へ"
@@ -982,98 +973,6 @@ ja: &DEFAULT_JA
   results_found              : "件"
 ja-JP:
   <<: *DEFAULT_JA
-
-# Slovak
-# -----------------
-sk: &DEFAULT_SK
-  page                       : "Stránka"
-  pagination_previous        : "Predošlá"
-  pagination_next            : "Ďalšia"
-  breadcrumb_home_label      : "Domov"
-  breadcrumb_separator       : "/"
-  menu_label                 : "Menu"
-  toc_label                  : "Obsah"
-  ext_link_label             : "Priamy odkaz"
-  less_than                  : "menej ako"
-  minute_read                : "minút"
-  share_on_label             : "Zdieľaj na"
-  meta_label                 :
-  tags_label                 : "Tagy:"
-  categories_label           : "Kategórie:"
-  date_label                 : "Aktualizované:"
-  comments_label             : "Zanechaj odkaz"
-  comments_title             : "Komentáre"
-  more_label                 : "Dozvedieť sa viac"
-  related_label              : "Podobné články"
-  follow_label               : "Sleduj:"
-  feed_label                 : "Zoznam"
-  powered_by                 : "Stránka vytvorená pomocou"
-  website_label              : "Web stránka"
-  email_label                : "Email"
-  recent_posts               : "Najnovšie príspevky"
-  undefined_wpm              : "Nedefinovaný parameter words_per_minute v _config.yml"
-  comment_form_info          : "Tvoja emailová adresa nebude publikovaná. Požadované polia sú označené"
-  comment_form_comment_label : "Komentár"
-  comment_form_md_info       : "Markdown je podporovaný."
-  comment_form_name_label    : "Meno"
-  comment_form_email_label   : "Emailová adresa"
-  comment_form_website_label : "Webstránka (voliteľné)"
-  comment_btn_submit         : "Vlož komentár"
-  comment_btn_submitted      : "Vložený"
-  comment_success_msg        : "Ďakujem za tvoj komentár! Po schválení bude zobrazený na stránke."
-  comment_error_msg          : "Prepáč, pri ukladaní nastala chyba. Ubezpeč sa prosím, že si vyplnil všetky požadované polia a skús znova."
-  loading_label              : "Načítava sa..."
-  search_placeholder_text    : "Zadaj hľadaný výraz..."
-  results_found              : "Nájdených výsledkov"
-  back_to_top                : "Na začiatok stránky"
-sk-SK:
-  <<: *DEFAULT_SK
-
-# Hungarian
-# -----------------
-hu: &DEFAULT_HU
-  page                       : "Oldal"
-  pagination_previous        : "Előző"
-  pagination_next            : "Következő"
-  breadcrumb_home_label      : "Kezdőlap"
-  breadcrumb_separator       : "/"
-  menu_label                 : "Menü nyit/zár"
-  toc_label                  : "Ezen az oldalon"
-  ext_link_label             : "Közvetlen Link"
-  less_than                  : "kevesebb mint"
-  minute_read                : "eltöltött percek"
-  share_on_label             : "Megosztás"
-  meta_label                 :
-  tags_label                 : "Tagek:"
-  categories_label           : "Kategóriák:"
-  date_label                 : "Frissítve:"
-  comments_label             : "Szólj hozzá!"
-  comments_title             : "Hozzászólások"
-  more_label                 : "Tovább"
-  related_label              : "Ajánlások"
-  follow_label               : "Követés:"
-  feed_label                 : "Folyam"
-  powered_by                 : "Powered by"
-  website_label              : "Honlap"
-  email_label                : "Email"
-  recent_posts               : "Friss cikkek"
-  undefined_wpm              : "Ismeretlen paraméter words_per_minute : _config.yml"
-  comment_form_info          : "Az e-mail címed nem lesz publikus. A csillagozott mezők kitöltése kötelező."
-  comment_form_comment_label : "Hozzászólás"
-  comment_form_md_info       : "Támogatott formázási mód: Markdown"
-  comment_form_name_label    : "Név"
-  comment_form_email_label   : "Email cím"
-  comment_form_website_label : "Honlap (nem kötelező):"
-  comment_btn_submit         : "Hozzászólás elküldése"
-  comment_btn_submitted      : "Hozzászólás elküldve"
-  comment_success_msg        : "Köszönjük a Hozzászólást! A Hozzászólások csak előzetes moderáció után lesznek publikusak."
-  comment_error_msg          : "Hoppá, hiba történt a beküldés közben. Kérlek ellenőrizd hogy minden kötelező mező ki van-e töltve."
-  loading_label              : "Betöltés..."
-  search_placeholder_text    : "Keresendő szöveg..."
-  results_found              : "Találatok:"
-  back_to_top                : "Oldal tetejére"
-hu-HU:
-  <<: *DEFAULT_HU
 
 # Another locale
 # --------------
