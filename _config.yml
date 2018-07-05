@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "An Subin"
   avatar           : "/assets/images/sbnu.png"
-  bio              : "I am an amazing person."
+  bio              : "Fxxking Awesome Nerd. Subinium"
   location         : "Seoul,Korea"
   email            : "me@ansubin.com"
   uri              :
@@ -139,7 +139,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - vendor
+  - vendora
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache

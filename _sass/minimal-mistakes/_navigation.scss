@@ -309,16 +309,6 @@
   }
 }
 
-.no-js {
-  .greedy-nav {
-    .visible-links {
-      -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-      overflow: visible;
-    }
-  }
-}
-
 /*
      Navigation list
      ========================================================================== */
@@ -525,6 +515,12 @@
 
     &:hover {
       color: $text-color;
+    }
+  }
+
+  > li:last-child {
+    a {
+      border-bottom: none;
     }
   }
 

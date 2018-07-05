@@ -15,6 +15,11 @@
     width: calc(100% - #{$right-sidebar-width});
     padding-right: $right-sidebar-width;
   }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
 }
 
 .archive__subtitle {
@@ -35,10 +40,6 @@
   line-height: initial;
   overflow: hidden;
   text-overflow: ellipsis;
-
-  a {
-    color: inherit;
-  }
 
   a + a {
     opacity: 0.5;
@@ -63,37 +64,20 @@
 }
 
 .archive__item-teaser {
-  position: relative;
   border-radius: $border-radius;
   overflow: hidden;
-
   img {
     width: 100%;
   }
 }
 
-.archive__item-caption {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 0 auto;
-  padding: 2px 5px;
-  color: #fff;
-  font-family: $caption-font-family;
-  font-size: $type-size-8;
-  background: #000;
-  text-align: right;
-  z-index: 5;
-  opacity: 0.5;
-  border-radius: $border-radius 0 0 0;
-
-  @include breakpoint($large) {
-    padding: 5px 10px;
+.archive__item:hover {
+  .archive__item-teaser {
+    box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  a {
-    color: #fff;
-    text-decoration: none;
+  .archive__item-title {
+    text-decoration: underline;
   }
 }
 
@@ -104,7 +88,6 @@
 .list__item {
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
   }
 }
 
@@ -175,7 +158,6 @@
 
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
   }
 
   .archive__item-title {
@@ -323,40 +305,6 @@
         margin: 0 auto;
         width: span(7 of 12);
       }
-    }
-  }
-}
-
-/* Place inside an archive layout */
-
-.archive {
-  .feature__wrapper {
-    .archive__item-title {
-      margin-top: 0.25em;
-      font-size: 1em;
-    }
-  }
-
-  .feature__item,
-  .feature__item--left,
-  .feature__item--center,
-  .feature__item--right {
-    font-size: 1em;
-  }
-}
-
-/*
-   Wide Pages
-   ========================================================================== */
-
-  .wide {
-  .archive {
-    @include breakpoint($large) {
-      padding-right: 0;
-    }
-
-    @include breakpoint($x-large) {
-      padding-right: 0;
     }
   }
 }

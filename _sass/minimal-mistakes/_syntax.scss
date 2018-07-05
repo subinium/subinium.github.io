@@ -31,8 +31,7 @@ figure.highlight {
     border: 0;
 
     /* line numbers*/
-    &.gutter,
-    &.rouge-gutter {
+    &.gutter {
       padding-right: 1em;
       width: 1em;
       color: $base04;
@@ -41,8 +40,7 @@ figure.highlight {
     }
 
     /* code */
-    &.code,
-    &.rouge-code {
+    &.code {
       padding-left: 1em;
     }
   }
@@ -314,11 +312,5 @@ figure.highlight {
   .il {
     /* Literal.Number.Integer.Long */
     color: $base09;
-  }
-}
-
-.gist {
-  th, td {
-    border-bottom: 0;
   }
 }

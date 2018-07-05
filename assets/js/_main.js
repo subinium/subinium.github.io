@@ -57,7 +57,7 @@ $(document).ready(function() {
     $(".initial-content").toggleClass("is--hidden");
     // set focus on input
     setTimeout(function() {
-      $(".search-content input").focus();
+      $("#search").focus();
     }, 400);
   });
 
