@@ -1,0 +1,23 @@
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items" id="category_tag_menu">
+      <li>
+        <span class="nav__sub-title" v-on:click='togglec()'>Categories</span>
+        <ul v-show="flag_c">
+        {% for category in site.categories %}
+           <li><a href="/categories/{{category[0] | slugify}}" class="">{{category[0] | capitalize}} ({{category[1].size}})</a></li>
+        {% endfor %}
+        </ul>
+
+        <span class="nav__sub-title" v-on:click='togglet()'>tags</span>
+        <ul v-show="flag_t">
+        {% for tag in site.tags %}
+           <li><a href="/tags/#{{tag[0] | slugify}}" class="">{{tag[0] | capitalize }} ({{tag[1].size}})</a></li>
+        {% endfor %}
+        </ul>
+
+      </li>
+    
+  </ul>
+</nav>
