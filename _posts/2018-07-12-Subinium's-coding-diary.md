@@ -1,6 +1,8 @@
 ---
 category :
   - blog
+tag :
+  - blog
   - subinium
 ---
 
@@ -34,7 +36,8 @@ category :
 ### SUBINIUM의 정의
 
 컴퓨터를 공부하며 함께 시작한 제 2의 이름인 **subinium**
-형인 **dobestan** 이 vimium, selenium등을 생각하며 강력하게 추천한 닉네임이다.
+
+형인 **dobestan**(안씨가문의 자랑)이 vimium, selenium등을 생각하며 강력하게 추천한 닉네임이다.
 
 subinium은 어느새 본인을 대표하는 character가 됐다.
 이 닉네임과 함께 나를 정의하는 시간을 갖고자 한다.
@@ -56,10 +59,13 @@ subinium은 어떤 사람이고, 안수빈스러운것은 무엇일까.
 
 #### Problem Solving
 지난 2년반 동안 가장 초점을 뒀던 공부다.
+
 좀 새롭거나 좋은 풀이, 고급 알고리즘 등에 대해서 포스팅하고자 한다.
 
 #### 머신러닝, 딥러닝 등등
 트렌드에 맞는 공부를 시작할까 한다.
+
+아는게 하나도 없어서 가장 유명한 책 들을 읽으면서 정리하는 수준이 아닐까.
 
 ### Plugin & Tools
 
