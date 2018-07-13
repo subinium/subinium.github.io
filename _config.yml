@@ -23,7 +23,7 @@ description              : "I am subinium."
 url                      : "https://subinium.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "subinium/subinium.github.io"
-teaser                   : /assets/images/sbnu.png
+teaser                   : "/assets/images/sbnu.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
