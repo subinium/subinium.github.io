@@ -1,4 +1,5 @@
 ---
+title : Logo Project(1) - 5W1H
 category :
   - subinium
   - design
@@ -39,17 +40,17 @@ tag :
     간단하게 하는 것이 목표로 현재 코드포스 <a href = "http://codeforces.com/profile/GOD_SUBINIUM">프로필 이미지</a>를 기준으로 만들것 같다.
     ㅅㅂㄴㅇ 로고타이프를 우선으로 생각한다.
 2. **사이트 제목 로고**
-    
+
     현재는 Text로 Subinium's Coding Diary가 되어있지만, 이를 개인로고로 바꿀 생각이다.
     디자인은 두가지 가능성을 두고 있다.
     - AN
       이름의 성이기도 하고, Awesome Nerd의 약자일 수 있는 표현으로 심플하고 로고 디자인에 편한장점이 있다.
     - Subinium
 3. **사이트 배경 사진**
-    
+
     예전에 사용하던 수비니움 볼펜이미지(현재 메인 이미지로 저장)로 할 것 같다.
 4. **Author Logo**
-    
+
     아마 이 항목은 개인 사진으로 대체할것같다.
 
 ## 어떻게 할까?
