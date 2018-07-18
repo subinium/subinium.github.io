@@ -5,8 +5,8 @@ category :
   - design
 tag :
   - logo
-  - blog
-  - blog-setting
+  - overlay image
+  - favicon
 ---
 
 overlay image와 favicon 설정을 완료했다.

@@ -2,6 +2,7 @@
 title : Logo Project(1) - 5W1H
 category :
   - subinium
+  - blog
   - design
 tag :
   - logo
