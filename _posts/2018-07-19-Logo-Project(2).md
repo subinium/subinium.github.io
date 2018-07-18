@@ -7,6 +7,7 @@ tag :
   - logo
   - overlay image
   - favicon
+sidebar-main : true
 ---
 
 overlay image와 favicon 설정을 완료했다.
@@ -76,9 +77,12 @@ head.html은 default.html에 포함관계로 헤드 부분에서 include되고 d
 우선 3가지의 가능성을 떠올렸다.
 
 1. **favicon.ico가 잘못된 포맷을 가지고 있는 경우**
-  파일의 포맷은 이미지 파일을 ico파일로 변경해주는 사이트에서 변경했기때문에 틀릴 가능성이 없다고 판단했다.
+
+    파일의 포맷은 이미지 파일을 ico파일로 변경해주는 사이트에서 변경했기때문에 틀릴 가능성이 없다고 판단했다.
 2. **코드가 틀리거나 PATH가 잘못된 경우**
-  이 경우는 github에서 에러 메세지가 gmail로 오거나 github commit에 빨간색으로 뜨는데 이것도 아니다.
+
+    이 경우는 github에서 에러 메세지가 gmail로 오거나 github commit에 빨간색으로 뜨는데 이것도 아니다.
 3. **적용이 되었으나, 내가 모르는 이유로 안되는 경우**
-  검색해보니 적용에 필요한 요소를 확인해줄 수 있는 [페이지](https://realfavicongenerator.net/favicon_checker#.W09wX9gzbOQ)가 있다. 체크해보니 브라우저에서는 체크가 되어있다고 표현되어 있었다. (그 외로 다양하게 icon이 적용되는 포맷이 많았는데 시간이 되면 추가해야겠다.)
+
+    검색해보니 적용에 필요한 요소를 확인해줄 수 있는 [페이지](https://realfavicongenerator.net/favicon_checker#.W09wX9gzbOQ)가 있다. 체크해보니 브라우저에서는 체크가 되어있다고 표현되어 있었다. (그 외로 다양하게 icon이 적용되는 포맷이 많았는데 시간이 되면 추가해야겠다.)
   그래서 크롬을 껏다 켜보니 적용완료!!
