@@ -5,7 +5,7 @@ category :
   - design
 tag :
   - logo
-sidebar-main : true
+sidebar_main : true
 ---
 
 이번 포스팅은 육하원칙에 따라 포스팅을 해보았다.

@@ -7,7 +7,7 @@ tag :
   - logo
   - overlay image
   - favicon
-sidebar-main : true
+sidebar_main : true
 ---
 
 overlay image와 favicon 설정을 완료했다.

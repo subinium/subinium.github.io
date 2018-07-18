@@ -4,7 +4,7 @@ category :
   - subinium
 tag :
   - subinium
-sidebar-main : true
+sidebar_main : true
 ---
 
 수비니움의 코딩일지를 이제 블로그로 써볼려고 합니다!
