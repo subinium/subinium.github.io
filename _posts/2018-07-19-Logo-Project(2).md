@@ -1,4 +1,5 @@
 ---
+title : Logo Project(2) - Overlay Image & Favicon
 category :
   - blog
   - design
@@ -81,4 +82,3 @@ head.html은 default.html에 포함관계로 헤드 부분에서 include되고 d
 3. **적용이 되었으나, 내가 모르는 이유로 안되는 경우**
   검색해보니 적용에 필요한 요소를 확인해줄 수 있는 [페이지](https://realfavicongenerator.net/favicon_checker#.W09wX9gzbOQ)가 있다. 체크해보니 브라우저에서는 체크가 되어있다고 표현되어 있었다. (그 외로 다양하게 icon이 적용되는 포맷이 많았는데 시간이 되면 추가해야겠다.)
   그래서 크롬을 껏다 켜보니 적용완료!!
-  
