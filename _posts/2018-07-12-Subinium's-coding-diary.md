@@ -1,8 +1,7 @@
 ---
 category :
-  - blog
+  - subinium
 tag :
-  - blog
   - subinium
 ---
 
