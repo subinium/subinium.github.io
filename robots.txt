@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://junhobaik.github.io/sitemap.xml
+Sitemap: http://subinium.github.io/sitemap.xml
