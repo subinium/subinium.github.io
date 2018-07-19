@@ -1,7 +1,7 @@
 ---
 title: "Post about Development"
 layout: archive
-permalink: /categories/Development
+permalink: /categories/development
 author_profile: true
 sidebar_main: true
 ---
