@@ -1,13 +1,13 @@
 ---
 layout : archive
 permalink: /about/
-title: "About"
+title: "Who Am I"
 author_profile: true
 toc: true
 sidebar:
   nav: sidebar-about 
 header:
-  overlay_image: /assets/images/krump_dance.jpg
+  overlay_image: /assets/images/staff_sbnu.jpg
   overlay_filter: 0.5
 
 ---
