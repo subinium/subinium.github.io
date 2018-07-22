@@ -17,6 +17,7 @@ sidebar-about:
   - title : "What I Want To Do"
     children:
       - title : "Bucket List"
+        url: /about/bucketlist
   - title : "To Do List"
     children:
       - title : "Algorithm"
