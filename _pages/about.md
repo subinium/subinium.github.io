@@ -1,8 +1,9 @@
 ---
+layout : archive
 permalink: /about/
 title: "About"
-excerpt: "About Me"
 search: true
+author_profile: true
 
 ---
 
