@@ -10,7 +10,7 @@ main:
     url: /categories/
 
 sidebar-about:
-  - title: "Who-am-I"
+  - title: "Who am I"
     children:
       - title : 안수빈
         url:
