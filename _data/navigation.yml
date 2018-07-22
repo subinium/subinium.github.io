@@ -12,6 +12,7 @@ main:
 sidebar-about:
   - title: "Who am I"
     children:
-      - title : 안수빈
-        url:
-      - title : SUBINIUM
+      - title : "Fxxking Awesome Nerd, Subinium"
+        url: /about/
+  - title : "What I Want To Do"
+  - title : "To Do List"
