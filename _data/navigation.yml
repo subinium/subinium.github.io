@@ -10,4 +10,8 @@ main:
     url: /categories/
 
 sidebar-about:
-  - title: "Subinium"
+  - title: "Who-am-I"
+    children:
+      - title : 안수빈
+        url:
+      - title : SUBINIUM
