@@ -15,4 +15,11 @@ sidebar-about:
       - title : "Fxxking Awesome Nerd, Subinium"
         url: /about/
   - title : "What I Want To Do"
+    children:
+      - title : "Bucket List"
   - title : "To Do List"
+    children:
+      - title : "Algorithm"
+      - title : "Developement"
+      - title : "Hacking"
+      - title : "Design"
