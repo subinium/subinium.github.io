@@ -37,17 +37,17 @@
     for(var i = 0, len = colors[service].length; i < len; i ++) {
       var x = colors[service][i];
       if(x.min <= ratings[service] && ratings[service] <= x.max)
-        cf.style.color = x.color;  // 色
+        cf.style.color = x.color;
     }
-    cf.href = url[service] + handles[service];  // リンク
-    cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';  // ハンドル
+    cf.href = url[service] + handles[service];
+    cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';
   }
 
   function setHtmlWithoutColor(service) {
     var cf = document.getElementById(service);
-    cf.style.color = 'black';  // 文字色は黒
-    cf.href = url[service] + handles[service];  // リンク
-    cf.innerHTML = handles[service];  // ハンドル
+    cf.style.color = 'black';
+    cf.href = url[service] + handles[service];
+    cf.innerHTML = handles[service];  
   }
 
   function getTopCoderRating() {
