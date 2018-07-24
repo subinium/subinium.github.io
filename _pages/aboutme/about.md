@@ -7,7 +7,6 @@ sidebar:
   nav: sidebar-about
 header:
   overlay_image: /assets/images/staff_sbnu.jpg
-
 ---
 
 # Fxxking Awesome Nerd, Subinium
@@ -34,6 +33,8 @@ Fxxking Awesome Nerd는 현재 상태가 아닌 내 <b style = "color : red">목
 - ALGORITHM
 
 - HACKING
+
+- DEVELOPMENT
 
 - DESIGN
 
