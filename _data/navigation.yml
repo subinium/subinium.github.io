@@ -21,6 +21,9 @@ sidebar-about:
   - title : "To Do List"
     children:
       - title : "Algorithm"
+        url : /about/algrotihm
       - title : "Developement"
+        url : /about/development
       - title : "Hacking"
+        url : /about/hacking
       - title : "Design"
