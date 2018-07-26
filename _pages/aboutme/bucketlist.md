@@ -10,17 +10,6 @@ header:
 ---
 
 {% include rating_call.html %}
-<script>
-  window.onload = function() {
-    var image = document.getElementById("img");
-
-    function updateImage() {
-      image.src = image.src.split("?")[0] + "?" + new Date().getTime();
-    }
-
-    setInterval(updateImage, 1000);
-  }
-</script>
 
 
 # Coding
@@ -42,6 +31,8 @@ header:
 2. **ProjectEuler** 400 clear.
 
 <img src="http://projecteuler.net/profile/subinium.png" align="middle">
+
+<img src="http://projecteuler.net/profile/subinium.png" id="reloader" onload="setTimeout('document.getElementById(\'reloader\').src=\'http://projecteuler.net/profile/subinium.png?\'+new Date().getMilliseconds()', 5000)" />
 
 ### Onsite
 
