@@ -27,7 +27,7 @@ header:
 ### 문제수
 
 1. **Baekjoon Online Judge** 4000문제 찍기
-2. **ProjectEuler** clear.
+2. **ProjectEuler** 400 clear.
 
 <img src="http://projecteuler.net/profile/subinium.png" align="middle">
 
