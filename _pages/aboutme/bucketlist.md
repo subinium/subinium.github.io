@@ -30,8 +30,6 @@ header:
 1. **Baekjoon Online Judge** 4000문제 찍기
 2. **ProjectEuler** 400 clear.
 
-<img src="http://projecteuler.net/profile/subinium.png" align="middle">
-
 <img src="http://projecteuler.net/profile/subinium.png" id="reloader" onload="setTimeout('document.getElementById(\'reloader\').src=\'http://projecteuler.net/profile/subinium.png?\'+new Date().getMilliseconds()', 5000)" />
 
 ### Onsite
