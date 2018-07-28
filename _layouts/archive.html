@@ -8,9 +8,9 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-{ % if page.use_math % }
-  { % include mathjax_support % }
-{ % endif % }
+{% if page.use_math %}
+  {% include mathjax_support %}
+{% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
