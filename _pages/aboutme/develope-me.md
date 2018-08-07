@@ -8,3 +8,15 @@ sidebar:
 header:
   overlay_image: /assets/images/staff_sbnu.jpg
 ---
+
+## Vim Setting
+
+- Vundle
+- The NERD Tree
+- Tmux
+- Tmux로 ide 세팅하기
+- 나만의 명령어 만들기
+
+## Algo Trading
+
+

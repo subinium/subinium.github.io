@@ -20,8 +20,9 @@ header:
   현재 TopCoder Rating : <a id="topcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
   현재 AtCoder Rating : <a id="atcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
 </p>_
+  _csacademy 추가예정
 
-1. **Codeforces** <font color="Orange"> <b>International Master</b> 2300~ </font>
+1. **Codeforces**  <font color="Orange"> <b>International Master</b> 2300~ </font>
 2. **Topcoder** <font color="#DDCC00"><b>노랑색 찍기</b> 1500~ </font>
 3. **AtCoder** <font color="#C0C000"><b>노랑색 찍기</b> 2000~ </font>
 
@@ -39,3 +40,15 @@ header:
 1. Google CodeJam
 2. Facebook HackerCup
 3. TCO
+
+### 수상
+
+1. ACM-ICPC 
+2. SCPC
+3. Kakao CodeFestival
+
+# 여행
+
+### 국내
+
+### 국외

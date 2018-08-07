@@ -32,6 +32,9 @@ header:
 
 - SCC
 - 2-SAT
+- MCMF
+- Dinic
+- 헝가리안
 
 ## String
 
