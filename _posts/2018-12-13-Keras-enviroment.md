@@ -1,5 +1,5 @@
 ---
-title : [Keras Study]Mac에서 Keras 환경 구축하기 + MNIST examples
+title : [Keras Study] Mac에서 Keras 환경 구축하기
 category :
   - development
 tag :
@@ -125,6 +125,11 @@ $ python examples/mnist_cnn.py
 ```
 
 아래는 mnist_cnn을 진행해본 예시이다. 다른 툴 없이 노트북에서 진행한 결과 20분정도 소모되었다.
+
+<figure class = "align-center" style = "width : 580px">
+  <img src= "/assets/images/keras/keras_example.png" width="580" alt>
+  <figcaption> terminal창 스크린샷 </figcaption>
+</figure>
 
 ```
 venv ❯ python examples/mnist_cnn.py
