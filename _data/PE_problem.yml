@@ -1,0 +1,1906 @@
+1:
+ title : Multiples of 3 and 5
+ diff : 5
+
+2:
+ title : Even Fibonacci numbers
+ diff : 5
+3:
+ title : Largest prime factor
+ diff : 5
+4:
+ title : Largest palindrome product
+ diff : 5
+5:
+ title : Smallest multiple
+ diff : 5
+6:
+ title : Sum square difference
+ diff : 5
+7:
+ title : 10001st prime
+ diff : 5
+8:
+ title : Largest product in a series
+ diff : 5
+9:
+ title : Special Pythagorean triplet
+ diff : 5
+10:
+ title : Summation of primes
+ diff : 5
+11:
+ title : Largest product in a grid
+ diff : 5
+12:
+ title : Highly divisible triangular number
+ diff : 5
+13:
+ title : Large sum
+ diff : 5
+14:
+ title : Longest Collatz sequence
+ diff : 5
+15:
+ title : Lattice paths
+ diff : 5
+16:
+ title : Power digit sum
+ diff : 5
+17:
+ title : Number letter counts
+ diff : 5
+18:
+ title : Maximum path sum I
+ diff : 5
+19:
+ title : Counting Sundays
+ diff : 5
+20:
+ title : Factorial digit sum
+ diff : 5
+21:
+ title : Amicable numbers
+ diff : 5
+22:
+ title : Names scores
+ diff : 5
+23:
+ title : Non-abundant sums
+ diff : 5
+24:
+ title : Lexicographic permutations
+ diff : 5
+25:
+ title : 1000-digit Fibonacci number
+ diff : 5
+26:
+ title : Reciprocal cycles
+ diff : 5
+27:
+ title : Quadratic primes
+ diff : 5
+28:
+ title : Number spiral diagonals
+ diff : 5
+29:
+ title : Distinct powers
+ diff : 5
+30:
+ title : Digit fifth powers
+ diff : 5
+31:
+ title : Coin sums
+ diff : 5
+32:
+ title : Pandigital products
+ diff : 5
+33:
+ title : Digit cancelling fractions
+ diff : 5
+34:
+ title : Digit factorials
+ diff : 5
+35:
+ title : Circular primes
+ diff : 5
+36:
+ title : Double-base palindromes
+ diff : 5
+37:
+ title : Truncatable primes
+ diff : 5
+38:
+ title : Pandigital multiples
+ diff : 5
+39:
+ title : Integer right triangles
+ diff : 5
+40:
+ title : Champernowne's constant
+ diff : 5
+41:
+ title : Pandigital prime
+ diff : 5
+42:
+ title : Coded triangle numbers
+ diff : 5
+43:
+ title : Sub-string divisibility
+ diff : 5
+44:
+ title : Pentagon numbers
+ diff : 5
+45:
+ title : Triangular, pentagonal, and hexagonal
+ diff : 5
+46:
+ title : Goldbach's other conjecture
+ diff : 5
+47:
+ title : Distinct primes factors
+ diff : 5
+48:
+ title : Self powers
+ diff : 5
+49:
+ title : Prime permutations
+ diff : 5
+50:
+ title : Consecutive prime sum
+ diff : 5
+51:
+ title : Prime digit replacements
+ diff : 15
+52:
+ title : Permuted multiples
+ diff : 5
+53:
+ title : Combinatoric selections
+ diff : 5
+54:
+ title : Poker hands
+ diff : 10
+55:
+ title : Lychrel numbers
+ diff : 5
+56:
+ title : Powerful digit sum
+ diff : 5
+57:
+ title : Square root convergents
+ diff : 5
+58:
+ title : Spiral primes
+ diff : 5
+59:
+ title : XOR decryption
+ diff : 5
+60:
+ title : Prime pair sets
+ diff : 20
+61:
+ title : Cyclical figurate numbers
+ diff : 20
+62:
+ title : Cubic permutations
+ diff : 15
+63:
+ title : Powerful digit counts
+ diff : 5
+64:
+ title : Odd period square roots
+ diff : 20
+65:
+ title : Convergents of e
+ diff : 15
+66:
+ title : Diophantine equation
+ diff : 25
+67:
+ title : Maximum path sum II
+ diff : 5
+68:
+ title : Magic 5-gon ring
+ diff : 25
+69:
+ title : Totient maximum
+ diff : 10
+70:
+ title : Totient permutation
+ diff : 20
+71:
+ title : Ordered fractions
+ diff : 10
+72:
+ title : Counting fractions
+ diff : 20
+73:
+ title : Counting fractions in a range
+ diff : 15
+74:
+ title : Digit factorial chains
+ diff : 15
+75:
+ title : Singular integer right triangles
+ diff : 25
+76:
+ title : Counting summations
+ diff : 10
+77:
+ title : Prime summations
+ diff : 25
+78:
+ title : Coin partitions
+ diff : 30
+79:
+ title : Passcode derivation
+ diff : 5
+80:
+ title : Square root digital expansion
+ diff : 20
+81:
+ title : "Path sum: two ways"
+ diff : 10
+82:
+ title : "Path sum: three ways"
+ diff : 20
+83:
+ title : "Path sum: four ways"
+ diff : 25
+84:
+ title : Monopoly odds
+ diff : 35
+85:
+ title : Counting rectangles
+ diff : 15
+86:
+ title : Cuboid route
+ diff : 35
+87:
+ title : Prime power triples
+ diff : 20
+88:
+ title : Product-sum numbers
+ diff : 40
+89:
+ title : Roman numerals
+ diff : 20
+90:
+ title : Cube digit pairs
+ diff : 40
+91:
+ title : Right triangles with integer coordinates
+ diff : 25
+92:
+ title : Square digit chains
+ diff : 5
+93:
+ title : Arithmetic expressions
+ diff : 35
+94:
+ title : Almost equilateral triangles
+ diff : 35
+95:
+ title : Amicable chains
+ diff : 30
+96:
+ title : Su Doku
+ diff : 25
+97:
+ title : Large non-Mersenne prime
+ diff : 5
+98:
+ title : Anagramic squares
+ diff : 35
+99:
+ title : Largest exponential
+ diff : 10
+100:
+ title : Arranged probability
+ diff : 30
+101:
+ title : Optimum polynomial
+ diff : 35
+102:
+ title : Triangle containment
+ diff : 15
+103:
+ title : "Special subset sums: optimum"
+ diff : 45
+104:
+ title : Pandigital Fibonacci ends
+ diff : 25
+105:
+ title : "Special subset sums: testing"
+ diff : 45
+106:
+ title : "Special subset sums: meta-testing"
+ diff : 50
+107:
+ title : Minimal network
+ diff : 35
+108:
+ title : Diophantine reciprocals I
+ diff : 30
+109:
+ title : Darts
+ diff : 45
+110:
+ title : Diophantine reciprocals II
+ diff : 40
+111:
+ title : Primes with runs
+ diff : 45
+112:
+ title : Bouncy numbers
+ diff : 15
+113:
+ title : Non-bouncy numbers
+ diff : 30
+114:
+ title : Counting block combinations I
+ diff : 35
+115:
+ title : Counting block combinations II
+ diff : 35
+116:
+ title : Red, green or blue tiles
+ diff : 30
+117:
+ title : Red, green, and blue tiles
+ diff : 35
+118:
+ title : Pandigital prime sets
+ diff : 45
+119:
+ title : Digit power sum
+ diff : 30
+120:
+ title : Square remainders
+ diff : 25
+121:
+ title : Disc game prize fund
+ diff : 35
+122:
+ title : Efficient exponentiation
+ diff : 40
+123:
+ title : Prime square remainders
+ diff : 30
+124:
+ title : Ordered radicals
+ diff : 25
+125:
+ title : Palindromic sums
+ diff : 25
+126:
+ title : Cuboid layers
+ diff : 55
+127:
+ title : abc-hits
+ diff : 50
+128:
+ title : Hexagonal tile differences
+ diff : 55
+129:
+ title : Repunit divisibility
+ diff : 45
+130:
+ title : Composites with prime repunit property
+ diff : 45
+131:
+ title : Prime cube partnership
+ diff : 40
+132:
+ title : Large repunit factors
+ diff : 45
+133:
+ title : Repunit nonfactors
+ diff : 50
+134:
+ title : Prime pair connection
+ diff : 45
+135:
+ title : Same differences
+ diff : 45
+136:
+ title : Singleton difference
+ diff : 50
+137:
+ title : Fibonacci golden nuggets
+ diff : 50
+138:
+ title : Special isosceles triangles
+ diff : 45
+139:
+ title : Pythagorean tiles
+ diff : 50
+140:
+ title : Modified Fibonacci golden nuggets
+ diff : 55
+141:
+ title : Investigating progressive numbers, n, which are also square
+ diff : 60
+142:
+ title : Perfect Square Collection
+ diff : 45
+143:
+ title : Investigating the Torricelli point of a triangle
+ diff : 65
+144:
+ title : Investigating multiple reflections of a laser beam
+ diff : 50
+145:
+ title : How many reversible numbers are there below one-billion?
+ diff : 20
+146:
+ title : Investigating a Prime Pattern 
+ diff : 50
+147:
+ title : Rectangles in cross-hatched grids
+ diff : 65
+148:
+ title : Exploring Pascal's triangle
+ diff : 50
+149:
+ title : Searching for a maximum-sum subsequence
+ diff : 50
+150:
+ title : Searching a triangular array for a sub-triangle having minimum-sum
+ diff : 55
+151:
+ title : "Paper sheets of standard sizes: an expected-value problem"
+ diff : 50
+152:
+ title : Writing 1/2 as a sum of inverse squares
+ diff : 65
+153:
+ title : Investigating Gaussian Integers
+ diff : 65
+154:
+ title : Exploring Pascal's pyramid
+ diff : 65
+155:
+ title : Counting Capacitor Circuits
+ diff : 60
+156:
+ title : Counting Digits
+ diff : 70
+157:
+ title : Solving the diophantine equation 1/a+1/b= p/10n
+ diff : 65
+158:
+ title : Exploring strings for which only one character comes lexicographically after its neighbour to the left
+ diff : 55
+159:
+ title : Digital root sums of factorisations
+ diff : 60
+160:
+ title : Factorial trailing digits
+ diff : 60
+161:
+ title : Triominoes
+ diff : 70
+162:
+ title : Hexadecimal numbers
+ diff : 45
+163:
+ title : Cross-hatched triangles
+ diff : 70
+164:
+ title : Numbers for which no three consecutive digits have a sum greater than a given value
+ diff : 45
+165:
+ title : Intersections
+ diff : 65
+166:
+ title : Criss Cross
+ diff : 50
+167:
+ title : Investigating Ulam sequences
+ diff : 75
+168:
+ title : Number Rotations
+ diff : 65
+169:
+ title : Exploring the number of different ways a number can be expressed as a sum of powers of 2
+ diff : 50
+170:
+ title : Find the largest 0 to 9 pandigital that can be formed by concatenating products
+ diff : 70
+171:
+ title : Finding numbers for which the sum of the squares of the digits is a square
+ diff : 65
+172:
+ title : Investigating numbers with few repeated digits
+ diff : 55
+173:
+ title : "Using up to one million tiles how many different hollow square laminae can be formed?"
+ diff : 30
+174:
+ title : "Counting the number of hollow square laminae that can form one, two, three, ... distinct arrangements"
+ diff : 40
+175:
+ title : Fractions involving the number of different ways a number can be expressed as a sum of powers of 2
+ diff : 70
+176:
+ title : Right-angled triangles that share a cathetus
+ diff : 70
+177:
+ title : Integer angled Quadrilaterals
+ diff : 80
+178:
+ title : Step Numbers
+ diff : 55
+179:
+ title : Consecutive positive divisors
+ diff : 25
+180:
+ title : Rational zeros of a function of three variables
+ diff : 75
+181:
+ title : Investigating in how many ways objects of two different colours can be grouped
+ diff : 70
+182:
+ title : RSA encryption
+ diff : 60
+183:
+ title : Maximum product of parts
+ diff : 45
+184:
+ title : Triangles containing the origin
+ diff : 75
+185:
+ title : Number Mind
+ diff : 55
+186:
+ title : Connectedness of a network
+ diff : 60
+187:
+ title : Semiprimes
+ diff : 25
+188:
+ title : The hyperexponentiation of a number
+ diff : 35
+189:
+ title : Tri-colouring a triangular grid
+ diff : 70
+190:
+ title : Maximising a weighted product
+ diff : 50
+191:
+ title : Prize Strings
+ diff : 35
+192:
+ title : Best Approximations
+ diff : 75
+193:
+ title : Squarefree Numbers
+ diff : 55
+194:
+ title : Coloured Configurations
+ diff : 75
+195:
+ title : Inscribed circles of triangles with one angle of 60 degrees
+ diff : 75
+196:
+ title : Prime triplets
+ diff : 65
+197:
+ title : Investigating the behaviour of a recursively defined sequence
+ diff : 45
+198:
+ title : Ambiguous Numbers
+ diff : 80
+199:
+ title : Iterative Circle Packing
+ diff : 70
+200:
+ title : Find the 200th prime-proof sqube containing the contiguous sub-string 200
+ diff : 65
+201:
+ title : Subsets with a unique sum
+ diff : 65
+202:
+ title : Laserbeam
+ diff : 60
+203:
+ title : Squarefree Binomial Coefficients
+ diff : 25
+204:
+ title : Generalised Hamming Numbers
+ diff : 30
+205:
+ title : Dice Game
+ diff : 15
+206:
+ title : Concealed Square
+ diff : 5
+207:
+ title : Integer partition equations
+ diff : 40
+208:
+ title : Robot Walks
+ diff : 70
+209:
+ title : Circular Logic
+ diff : 60
+210:
+ title : Obtuse Angled Triangles
+ diff : 70
+211:
+ title : Divisor Square Sum
+ diff : 50
+212:
+ title : Combined Volume of Cuboids
+ diff : 70
+213:
+ title : Flea Circus
+ diff : 60
+214:
+ title : Totient Chains
+ diff : 40
+215:
+ title : Crack-free Walls
+ diff : 50
+216:
+ title : Investigating the primality of numbers of the form 2n2-1
+ diff : 45
+217:
+ title : Balanced Numbers
+ diff : 70
+218:
+ title : Perfect right-angled triangles
+ diff : 55
+219:
+ title : Skew-cost coding
+ diff : 70
+220:
+ title : Heighway Dragon
+ diff : 55
+221:
+ title : Alexandrian Integers
+ diff : 65
+222:
+ title : Sphere Packing
+ diff : 60
+223:
+ title : Almost right-angled triangles I
+ diff : 70
+224:
+ title : Almost right-angled triangles II
+ diff : 75
+225:
+ title : Tribonacci non-divisors
+ diff : 45
+226:
+ title : A Scoop of Blancmange
+ diff : 65
+227:
+ title : The Chase
+ diff : 65
+228:
+ title : Minkowski Sums
+ diff : 70
+229:
+ title : Four Representations using Squares
+ diff : 70
+230:
+ title : Fibonacci Words
+ diff : 50
+231:
+ title : The prime factorisation of binomial coefficients
+ diff : 40
+232:
+ title : The Race
+ diff : 65
+233:
+ title : Lattice points on a circle
+ diff : 70
+234:
+ title : Semidivisible numbers
+ diff : 50
+235:
+ title : An Arithmetic Geometric sequence
+ diff : 40
+236:
+ title : Luxury Hampers
+ diff : 80
+237:
+ title : Tours on a 4 x n playing board
+ diff : 70
+238:
+ title : Infinite string tour
+ diff : 75
+239:
+ title : Twenty-two Foolish Primes
+ diff : 65
+240:
+ title : Top Dice
+ diff : 60
+241:
+ title : Perfection Quotients
+ diff : 80
+242:
+ title : Odd Triplets
+ diff : 75
+243:
+ title : Resilience
+ diff : 35
+244:
+ title : Sliders
+ diff : 70
+245:
+ title : Coresilience
+ diff : 80
+246:
+ title : Tangents to an ellipse
+ diff : 80
+247:
+ title : Squares under a hyperbola
+ diff : 65
+248:
+ title : Numbers for which Euler’s totient function equals 13!
+ diff : 70
+249:
+ title : Prime Subset Sums
+ diff : 60
+250:
+ title : 250250
+ diff : 55
+251:
+ title : Cardano Triplets
+ diff : 70
+252:
+ title : Convex Holes
+ diff : 80
+253:
+ title : Tidying up
+ diff : 75
+254:
+ title : Sums of Digit Factorials
+ diff : 75
+255:
+ title : Rounded Square Roots
+ diff : 75
+256:
+ title : Tatami-Free Rooms
+ diff : 80
+257:
+ title : Angular Bisectors
+ diff : 85
+258:
+ title : A lagged Fibonacci sequence
+ diff : 70
+259:
+ title : Reachable Numbers
+ diff : 70
+260:
+ title : Stone Game
+ diff : 70
+261:
+ title : Pivotal Square Sums
+ diff : 85
+262:
+ title : Mountain Range
+ diff : 80
+263:
+ title : An engineers' dream come true
+ diff : 75
+264:
+ title : Triangle Centres
+ diff : 85
+265:
+ title : Binary Circles
+ diff : 40
+266:
+ title : Pseudo Square Root
+ diff : 65
+267:
+ title : Billionaire
+ diff : 50
+268:
+ title : Counting numbers with at least four distinct prime factors less than 100
+ diff : 70
+269:
+ title : Polynomials with at least one integer root
+ diff : 80
+270:
+ title : Cutting Squares
+ diff : 80
+271:
+ title : Modular Cubes, part 1
+ diff : 60
+272:
+ title : Modular Cubes, part 2
+ diff : 80
+273:
+ title : Sum of Squares
+ diff : 70
+274:
+ title : Divisibility Multipliers
+ diff : 65
+275:
+ title : Balanced Sculptures
+ diff : 85
+276:
+ title : Primitive Triangles
+ diff : 75
+277:
+ title : A Modified Collatz sequence
+ diff : 35
+278:
+ title : Linear Combinations of Semiprimes
+ diff : 50
+279:
+ title : Triangles with integral sides and an integral angle 
+ diff : 60
+280:
+ title : Ant and seeds
+ diff : 65
+281:
+ title : Pizza Toppings
+ diff : 55
+282:
+ title : The Ackermann function
+ diff : 70
+283:
+ title : Integer sided triangles for which the  area/perimeter ratio is integral
+ diff : 75
+284:
+ title : Steady Squares
+ diff : 55
+285:
+ title : Pythagorean odds
+ diff : 55
+286:
+ title : Scoring probabilities
+ diff : 50
+287:
+ title : Quadtree encoding (a simple compression algorithm)
+ diff : 40
+288:
+ title : An enormous factorial
+ diff : 35
+289:
+ title : Eulerian Cycles
+ diff : 90
+290:
+ title : Digital Signature
+ diff : 50
+291:
+ title : Panaitopol Primes
+ diff : 45
+292:
+ title : Pythagorean Polygons
+ diff : 65
+293:
+ title : Pseudo-Fortunate Numbers
+ diff : 30
+294:
+ title : Sum of digits - experience #23
+ diff : 45
+295:
+ title : Lenticular holes
+ diff : 75
+296:
+ title : Angular Bisector and Tangent
+ diff : 60
+297:
+ title : Zeckendorf Representation
+ diff : 35
+298:
+ title : Selective Amnesia
+ diff : 60
+299:
+ title : Three similar triangles
+ diff : 60
+300:
+ title : Protein folding
+ diff : 50
+301:
+ title : Nim
+ diff : 15
+302:
+ title : Strong Achilles Numbers
+ diff : 60
+303:
+ title : Multiples with small digits
+ diff : 35
+304:
+ title : Primonacci
+ diff : 35
+305:
+ title : Reflexive Position
+ diff : 60
+306:
+ title : Paper-strip Game
+ diff : 55
+307:
+ title : Chip Defects
+ diff : 35
+308:
+ title : An amazing Prime-generating Automaton
+ diff : 60
+309:
+ title : Integer Ladders
+ diff : 50
+310:
+ title : Nim Square
+ diff : 40
+311:
+ title : Biclinic Integral Quadrilaterals
+ diff : 70
+312:
+ title : Cyclic paths on Sierpiński graphs
+ diff : 50
+313:
+ title : Sliding game
+ diff : 30
+314:
+ title : The Mouse on the Moon
+ diff : 80
+315:
+ title : Digital root clocks
+ diff : 20
+316:
+ title : Numbers in decimal expansions
+ diff : 55
+317:
+ title : Firecracker
+ diff : 35
+318:
+ title : 2011 nines
+ diff : 50
+319:
+ title : Bounded Sequences
+ diff : 90
+320:
+ title : Factorials divisible by a huge integer
+ diff : 50
+321:
+ title : Swapping Counters
+ diff : 30
+322:
+ title : Binomial coefficients divisible by 10
+ diff : 70
+323:
+ title : Bitwise-OR operations on random integers
+ diff : 20
+324:
+ title : Building a tower
+ diff : 50
+325:
+ title : Stone Game II
+ diff : 80
+326:
+ title : Modulo Summations
+ diff : 55
+327:
+ title : Rooms of Doom
+ diff : 40
+328:
+ title : Lowest-cost Search
+ diff : 95
+329:
+ title : Prime Frog
+ diff : 25
+330:
+ title : Euler's Number
+ diff : 70
+331:
+ title : Cross flips
+ diff : 100
+332:
+ title : Spherical triangles
+ diff : 50
+333:
+ title : Special partitions
+ diff : 35
+334:
+ title : Spilling the beans
+ diff : 65
+335:
+ title : Gathering the beans
+ diff : 65
+336:
+ title : Maximix Arrangements
+ diff : 25
+337:
+ title : Totient Stairstep Sequences
+ diff : 70
+338:
+ title : Cutting Rectangular Grid Paper
+ diff : 95
+339:
+ title : Peredur fab Efrawg
+ diff : 70
+340:
+ title : Crazy Function
+ diff : 30
+341:
+ title : Golomb's self-describing sequence
+ diff : 45
+342:
+ title : The totient of a square is a cube
+ diff : 50
+343:
+ title : Fractional Sequences
+ diff : 35
+344:
+ title : Silver dollar game
+ diff : 100
+345:
+ title : Matrix Sum
+ diff : 15
+346:
+ title : Strong Repunits
+ diff : 15
+347:
+ title : Largest integer divisible by two primes
+ diff : 15
+348:
+ title : Sum of a square and a cube
+ diff : 25
+349:
+ title : Langton's ant
+ diff : 35
+350:
+ title : Constraining the least greatest and the greatest least
+ diff : 60
+351:
+ title : Hexagonal orchards
+ diff : 25
+352:
+ title : Blood tests
+ diff : 55
+353:
+ title : Risky moon
+ diff : 50
+354:
+ title : Distances in a bee's honeycomb 
+ diff : 65
+355:
+ title : Maximal coprime subset
+ diff : 70
+356:
+ title : Largest roots of cubic polynomials
+ diff : 60
+357:
+ title : Prime generating integers
+ diff : 10
+358:
+ title : Cyclic numbers
+ diff : 25
+359:
+ title : Hilbert's New Hotel
+ diff : 25
+360:
+ title : Scary Sphere
+ diff : 50
+361:
+ title : Subsequence of Thue-Morse sequence
+ diff : 90
+362:
+ title : Squarefree factors
+ diff : 70
+363:
+ title : Bézier Curves
+ diff : 35
+364:
+ title : Comfortable distance
+ diff : 50
+365:
+ title : A huge binomial coefficient
+ diff : 40
+366:
+ title : Stone Game III
+ diff : 40
+367:
+ title : Bozo sort
+ diff : 55
+368:
+ title : A Kempner-like series
+ diff : 45
+369:
+ title : Badugi
+ diff : 60
+370:
+ title : Geometric triangles
+ diff : 65
+371:
+ title : Licence plates
+ diff : 30
+372:
+ title : Pencils of rays
+ diff : 60
+373:
+ title : Circumscribed Circles
+ diff : 75
+374:
+ title : Maximum Integer Partition Product
+ diff : 40
+375:
+ title : Minimum of subsequences
+ diff : 40
+376:
+ title : Nontransitive sets of dice
+ diff : 70
+377:
+ title : Sum of digits, experience 13
+ diff : 45
+378:
+ title : Triangle Triples
+ diff : 35
+379:
+ title : Least common multiple count
+ diff : 70
+380:
+ title : Amazing Mazes!
+ diff : 60
+381:
+ title : (prime-k) factorial
+ diff : 15
+382:
+ title : Generating polygons
+ diff : 60
+383:
+ title : Divisibility comparison between factorials
+ diff : 50
+384:
+ title : Rudin-Shapiro sequence
+ diff : 65
+385:
+ title : Ellipses inside triangles
+ diff : 70
+386:
+ title : Maximum length of an antichain
+ diff : 40
+387:
+ title : Harshad Numbers
+ diff : 10
+388:
+ title : Distinct Lines
+ diff : 55
+389:
+ title : Platonic Dice
+ diff : 30
+390:
+ title : Triangles with non rational sides and integral area
+ diff : 60
+391:
+ title : Hopping Game
+ diff : 75
+392:
+ title : Enmeshed unit circle
+ diff : 35
+393:
+ title : Migrating ants
+ diff : 50
+394:
+ title : Eating pie
+ diff : 55
+395:
+ title : Pythagorean tree
+ diff : 40
+396:
+ title : Weak Goodstein sequence
+ diff : 40
+397:
+ title : Triangle on parabola
+ diff : 70
+398:
+ title : Cutting rope
+ diff : 55
+399:
+ title : Squarefree Fibonacci Numbers
+ diff : 45
+400:
+ title : Fibonacci tree game
+ diff : 55
+401:
+ title : Sum of squares of divisors
+ diff : 25
+402:
+ title : Integer-valued polynomials
+ diff : 55
+403:
+ title : Lattice points enclosed by parabola and line
+ diff : 55
+404:
+ title : Crisscross Ellipses
+ diff : 60
+405:
+ title : A rectangular tiling
+ diff : 40
+406:
+ title : Guessing Game
+ diff : 50
+407:
+ title : Idempotents
+ diff : 20
+408:
+ title : Admissible paths through a grid
+ diff : 50
+409:
+ title : Nim Extreme
+ diff : 55
+410:
+ title : Circle and tangent line
+ diff : 70
+411:
+ title : Uphill paths
+ diff : 45
+412:
+ title : Gnomon numbering
+ diff : 50
+413:
+ title : One-child Numbers
+ diff : 75
+414:
+ title : Kaprekar constant
+ diff : 60
+415:
+ title : Titanic sets
+ diff : 100
+416:
+ title : A frog's trip
+ diff : 80
+417:
+ title : Reciprocal cycles II
+ diff : 35
+418:
+ title : Factorisation triples
+ diff : 40
+419:
+ title : Look and say sequence
+ diff : 50
+420:
+ title : 2x2 positive integer matrix
+ diff : 60
+421:
+ title : Prime factors of n15+1
+ diff : 50
+422:
+ title : Sequence of points on a hyperbola
+ diff : 75
+423:
+ title : Consecutive die throws
+ diff : 45
+424:
+ title : Kakuro
+ diff : 60
+425:
+ title : Prime connection
+ diff : 25
+426:
+ title : Box-ball system
+ diff : 75
+427:
+ title : n-sequences
+ diff : 95
+428:
+ title : Necklace of circles
+ diff : 90
+429:
+ title : Sum of squares of unitary divisors
+ diff : 20
+430:
+ title : Range flips
+ diff : 35
+431:
+ title : Square Space Silo
+ diff : 40
+432:
+ title : Totient sum
+ diff : 70
+433:
+ title : Steps in Euclid's algorithm
+ diff : 65
+434:
+ title : Rigid graphs
+ diff : 75
+435:
+ title : Polynomials of Fibonacci numbers
+ diff : 30
+436:
+ title : Unfair wager
+ diff : 55
+437:
+ title : Fibonacci primitive roots
+ diff : 35
+438:
+ title : Integer part of polynomial equation's solutions
+ diff : 95
+439:
+ title : Sum of sum of divisors
+ diff : 100
+440:
+ title : GCD and Tiling
+ diff : 60
+441:
+ title : The inverse summation of coprime couples
+ diff : 65
+442:
+ title : Eleven-free integers
+ diff : 60
+443:
+ title : GCD sequence
+ diff : 30
+444:
+ title : The Roundtable Lottery
+ diff : 60
+445:
+ title : Retractions A
+ diff : 50
+446:
+ title : Retractions B
+ diff : 60
+447:
+ title : Retractions C
+ diff : 95
+448:
+ title : Average least common multiple
+ diff : 80
+449:
+ title : Chocolate covered candy
+ diff : 35
+450:
+ title : Hypocycloid and Lattice points
+ diff : 100
+451:
+ title : Modular inverses
+ diff : 30
+452:
+ title : Long Products
+ diff : 45
+453:
+ title : Lattice Quadrilaterals
+ diff : 95
+454:
+ title : Diophantine reciprocals III
+ diff : 50
+455:
+ title : Powers With Trailing Digits
+ diff : 40
+456:
+ title : Triangles containing the origin II
+ diff : 50
+457:
+ title : A polynomial modulo the square of a prime
+ diff : 35
+458:
+ title : Permutations of Project
+ diff : 30
+459:
+ title : Flipping game
+ diff : 100
+460:
+ title : An ant on the move
+ diff : 60
+461:
+ title : Almost Pi
+ diff : 30
+462:
+ title : Permutation of 3-smooth numbers
+ diff : 60
+463:
+ title : A weird recurrence relation
+ diff : 35
+464:
+ title : Möbius function and intervals
+ diff : 60
+465:
+ title : Polar polygons
+ diff : 85
+466:
+ title : Distinct terms in a multiplication table
+ diff : 65
+467:
+ title : Superinteger
+ diff : 50
+468:
+ title : Smooth divisors of binomial coefficients
+ diff : 70
+469:
+ title : Empty chairs
+ diff : 40
+470:
+ title : Super Ramvok
+ diff : 65
+471:
+ title : Triangle inscribed in ellipse
+ diff : 75
+472:
+ title : Comfortable Distance II
+ diff : 60
+473:
+ title : Phigital number base
+ diff : 35
+474:
+ title : Last digits of divisors
+ diff : 50
+475:
+ title : Music festival
+ diff : 50
+476:
+ title : Circle Packing II
+ diff : 45
+477:
+ title : Number Sequence Game
+ diff : 65
+478:
+ title : Mixtures
+ diff : 100
+479:
+ title : Roots on the Rise
+ diff : 25
+480:
+ title : The Last Question
+ diff : 45
+481:
+ title : Chef Showdown
+ diff : 70
+482:
+ title : The incenter of a triangle
+ diff : 85
+483:
+ title : Repeated permutation
+ diff : 100
+484:
+ title : Arithmetic Derivative
+ diff : 100
+485:
+ title : Maximum number of divisors
+ diff : 30
+486:
+ title : Palindrome-containing strings
+ diff : 70
+487:
+ title : Sums of power sums
+ diff : 40
+488:
+ title : Unbalanced Nim
+ diff : 80
+489:
+ title : Common factors between two sequences
+ diff : 100
+490:
+ title : Jumping frog
+ diff : 95
+491:
+ title : Double pandigital number divisible by 11
+ diff : 20
+492:
+ title : Exploding sequence
+ diff : 60
+493:
+ title : Under The Rainbow
+ diff : 10
+494:
+ title : Collatz prefix families
+ diff : 100
+495:
+ title : Writing n as the product of k distinct positive integers
+ diff : 100
+496:
+ title : Incenter and circumcenter of triangle
+ diff : 50
+497:
+ title : Drunken Tower of Hanoi
+ diff : 40
+498:
+ title : Remainder of polynomial division
+ diff : 40
+499:
+ title : St. Petersburg Lottery
+ diff : 100
+500:
+ title : Problem 500!!!
+ diff : 15
+501:
+ title : Eight Divisors
+ diff : 45
+502:
+ title : Counting Castles
+ diff : 100
+503:
+ title : Compromise or persist
+ diff : 60
+504:
+ title : Square on the Inside
+ diff : 15
+505:
+ title : Bidirectional Recurrence
+ diff : 90
+506:
+ title : Clock sequence
+ diff : 30
+507:
+ title : Shortest Lattice Vector
+ diff : 90
+508:
+ title : Integers in base i-1
+ diff : 85
+509:
+ title : Divisor Nim
+ diff : 45
+510:
+ title : Tangent Circles
+ diff : 30
+511:
+ title : Sequences with nice divisibility properties
+ diff : 55
+512:
+ title : Sums of totients of powers
+ diff : 25
+513:
+ title : Integral median
+ diff : 60
+514:
+ title : Geoboard Shapes
+ diff : 90
+515:
+ title : Dissonant Numbers
+ diff : 40
+516:
+ title : 5-smooth totients
+ diff : 20
+517:
+ title : A real recursion
+ diff : 45
+518:
+ title : Prime triples and geometric sequences
+ diff : 20
+519:
+ title : Tricolored Coin Fountains
+ diff : 50
+520:
+ title : Simbers
+ diff : 45
+521:
+ title : Smallest prime factor
+ diff : 50
+522:
+ title : Hilbert's Blackout
+ diff : 85
+523:
+ title : First Sort I
+ diff : 30
+524:
+ title : First Sort II
+ diff : 75
+525:
+ title : Rolling Ellipse
+ diff : 45
+526:
+ title : Largest prime factors of consecutive numbers
+ diff : 60
+527:
+ title : Randomized Binary Search
+ diff : 30
+528:
+ title : Constrained Sums
+ diff : 60
+529:
+ title : 10-substrings
+ diff : 85
+530:
+ title : GCD of Divisors
+ diff : 60
+531:
+ title : Chinese leftovers
+ diff : 25
+532:
+ title : Nanobots on Geodesics
+ diff : 55
+533:
+ title : Minimum values of the Carmichael function
+ diff : 50
+534:
+ title : Weak Queens
+ diff : 55
+535:
+ title : Fractal Sequence
+ diff : 55
+536:
+ title : Modulo power identity 
+ diff : 60
+537:
+ title : Counting tuples
+ diff : 35
+538:
+ title : Maximum quadrilaterals
+ diff : 40
+539:
+ title : Odd elimination
+ diff : 30
+540:
+ title : Counting primitive Pythagorean triples
+ diff : 30
+541:
+ title : Divisibility of Harmonic Number Denominators
+ diff : 90
+542:
+ title : Geometric Progression with Maximum Sum
+ diff : 65
+543:
+ title : Prime-Sum Numbers
+ diff : 30
+544:
+ title : Chromatic Conundrum
+ diff : 85
+545:
+ title : Faulhaber's Formulas
+ diff : 35
+546:
+ title : The Floor's Revenge
+ diff : 85
+547:
+ title : Distance of random points within hollow square laminae
+ diff : 70
+548:
+ title : Gozinta Chains
+ diff : 35
+549:
+ title : Divisibility of factorials
+ diff : 15
+550:
+ title : Divisor game
+ diff : 60
+551:
+ title : Sum of digits sequence
+ diff : 50
+552:
+ title : Chinese leftovers II
+ diff : 40
+553:
+ title : Power sets of power sets
+ diff : 80
+554:
+ title : Centaurs on a chess board
+ diff : 80
+555:
+ title : McCarthy 91 function
+ diff : 30
+556:
+ title : Squarefree Gaussian Integers
+ diff : 85
+557:
+ title : Cutting triangles
+ diff : 55
+558:
+ title : Irrational base
+ diff : 60
+559:
+ title : Permuted Matrices
+ diff : 100
+560:
+ title : Coprime Nim
+ diff : 75
+561:
+ title : Divisor Pairs
+ diff : 30
+562:
+ title : Maximal perimeter
+ diff : 75
+563:
+ title : Robot Welders
+ diff : 45
+564:
+ title : Maximal polygons
+ diff : 60
+565:
+ title : Divisibility of sum of divisors
+ diff : 35
+566:
+ title : Cake Icing Puzzle
+ diff : 100
+567:
+ title : Reciprocal games I
+ diff : 50
+568:
+ title : Reciprocal games II
+ diff : 55
+569:
+ title : Prime Mountain Range
+ diff : 45
+570:
+ title : Snowflakes
+ diff : 55
+571:
+ title : Super Pandigital Numbers
+ diff : 25
+572:
+ title : Idempotent matrices
+ diff : 50
+573:
+ title : Unfair race
+ diff : 80
+574:
+ title : Verifying Primes
+ diff : 50
+575:
+ title : Wandering Robots
+ diff : 35
+576:
+ title : Irrational jumps
+ diff : 55
+577:
+ title : Counting hexagons
+ diff : 20
+578:
+ title : Integers with decreasing prime powers
+ diff : 80
+579:
+ title : Lattice points in lattice cubes
+ diff : finalised
+580:
+ title : Squarefree Hilbert numbers
+ diff : 70
+581:
+ title : 47-smooth triangular numbers
+ diff : 30
+582:
+ title : Nearly isosceles 120 degree triangles
+ diff : 50
+583:
+ title : Heron Envelopes
+ diff : 45
+584:
+ title : Birthday Problem Revisited
+ diff : 100
+585:
+ title : Nested square roots
+ diff : finalised
+586:
+ title : Binary Quadratic Form
+ diff : 75
+587:
+ title : Concave triangle
+ diff : 20
+588:
+ title : Quintinomial coefficients
+ diff : 40
+589:
+ title : Poohsticks Marathon
+ diff : 90
+590:
+ title : Sets with a given Least Common Multiple
+ diff : 60
+591:
+ title : Best Approximations by Quadratic Integers
+ diff : 95
+592:
+ title : Factorial trailing digits 2
+ diff : 60
+593:
+ title : Fleeting Medians
+ diff : 35
+594:
+ title : Rhombus Tilings
+ diff : 85
+595:
+ title : Incremental Random Sort
+ diff : 35
+596:
+ title : Number of lattice points in a hyperball
+ diff : 50
+597:
+ title : Torpids
+ diff : finalised
+598:
+ title : Split Divisibilities
+ diff : 40
+599:
+ title : Distinct Colourings of a Rubik's Cube
+ diff : 60
+600:
+ title : Integer sided equiangular hexagons
+ diff : 35
+601:
+ title : Divisibility streaks
+ diff : 20
+602:
+ title : Product of Head Counts
+ diff : 35
+603:
+ title : Substring sums of prime concatenations
+ diff : 45
+604:
+ title : Convex path in square
+ diff : 40
+605:
+ title : Pairwise Coin-Tossing Game
+ diff : 25
+606:
+ title : Gozinta Chains II
+ diff : 50
+607:
+ title : Marsh Crossing
+ diff : 20
+608:
+ title : Divisor Sums
+ diff : 80
+609:
+ title : π sequences
+ diff : 20
+610:
+ title : Roman Numerals II
+ diff : 35
+611:
+ title : Hallway of square steps
+ diff : 55
+612:
+ title : Friend numbers
+ diff : 30
+613:
+ title : Pythagorean Ant
+ diff : 20
+614:
+ title : Special partitions 2
+ diff : 55
+615:
+ title : The millionth number with at least one million prime factors
+ diff : 35
+616:
+ title : Creative numbers
+ diff : 40
+617:
+ title : Mirror Power Sequence
+ diff : 35
+618:
+ title : Numbers with a given prime factor sum
+ diff : 20
+619:
+ title : Square subsets
+ diff : 45
+620:
+ title : Planetary Gears
+ diff : 80
+621:
+ title : Expressing an integer as the sum of triangular numbers
+ diff : 35
+622:
+ title : Riffle Shuffles
+ diff : 15
+623:
+ title : Lambda Count
+ diff : 45
+624:
+ title : Two heads are better than one
+ diff : 30
+625:
+ title : Gcd sum
+ diff : 35
+626:
+ title : Counting Binary Matrices
+ diff : recent
+627:
+ title : Counting products
+ diff : "recent "
+628:
+ title : Open chess positions
+ diff : "recent "
+629:
+ title : Scatterstone Nim
+ diff : "recent "
+630:
+ title : Crossed lines
+ diff : "recent "
+631:
+ title : Constrained Permutations
+ diff : "recent "
+632:
+ title : Square prime factors
+ diff : "recent "
+633:
+ title : Square prime factors II
+ diff : "recent "
+634:
+ title : Numbers of the form a2b3
+ diff : "recent "
+635:
+ title : Subset sums
+ diff : "recent "

@@ -1,0 +1,90 @@
+/* ==========================================================================
+   TABLES
+   ========================================================================== */
+
+table {
+  margin-bottom: 1em;
+  //width: 100%;
+  font-family: $global-font-family;
+  font-size: $type-size-6;
+  border-collapse: collapse;
+
+  & + table {
+    margin-top: 1em;
+  }
+}
+.euler {
+   margin : 0.3em;
+   //border : 1px solid black;
+   cursor : pointer;
+   border-collapse: separate;
+   border-spacing: 1px;
+   td {
+     border-radius: $border-radius;
+     font-family: cursive;
+     font-size: 70%;
+     padding: 0.3% 0% 0.3% 0%;
+     
+     text-align: center;
+     width: 40px;
+     table-layout: fixed;
+     word-break : break-all;
+   }
+   .posted-clear {
+     background: #8EFF00;
+     color: #000000;
+     font-weight: bold;
+   }
+   .posted-unclear {
+     background: #8EFF00;
+     color: #FA811B;
+   }
+   .opt-need {
+     background: #FFCF7A;
+     color: #FA811B;
+   }
+   .accepted {
+     background: #BCE9FF;
+     color: #1CB0F6;
+   }
+   .tried {
+     background-color: #FF9797;
+     color: #D33131;
+   }
+   .default {
+     background-color: #F0F0F0;
+     color: #777777;
+   }
+
+   th {
+     padding: 0;
+     text-align: center;
+   }
+   a{
+     color: inherit;
+     text-decoration: none;
+     table-layout: inherit;
+   }
+}
+
+thead {
+  background-color: $border-color;
+  border-bottom: 2px solid mix(#000, $border-color, 25%);
+}
+
+th {
+  padding: 0.5em;
+  font-weight: bold;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em;
+  border-bottom: 1px solid mix(#000, $border-color, 25%);
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}

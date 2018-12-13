@@ -1,0 +1,36 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Euler-Wiki"
+    url: /euler/
+  - title: "Archive"
+    url: /archive/
+  - title: "Tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
+
+sidebar-about:
+  - title: "Who am I"
+    children:
+      - title : "Fxxking Awesome Nerd, Subinium"
+        url: /about/
+  - title : "What I Want To Do"
+    children:
+      - title : "Bucket List"
+        url: /about/bucketlist
+  - title : "To Do List"
+    children:
+      - title : "Algorithm"
+        url : /about/algorithm
+      - title : "Developement"
+        url : /about/development
+      - title : "Hacking"
+        url : /about/hacking
+      - title : "Design"
+
+PE:
+  - title : "Back to Check Table"
+    url : /euler/
+  - title : "hehe"

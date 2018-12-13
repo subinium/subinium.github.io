@@ -1,0 +1,137 @@
+{% if site.footer_scripts %}
+  {% for script in site.footer_scripts %}
+    {% if script contains "://" %}
+      {% capture script_path %}{{ script }}{% endcapture %}
+    {% else %}
+      {% capture script_path %}{{ script | absolute_url }}{% endcapture %}
+    {% endif %}
+    <script src="{{ script_path }}"></script>
+  {% endfor %}
+{% else %}
+  <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+{% endif %}
+
+{% if site.search == true or page.layout == "search" %}
+  {% assign lang = site.locale | slice: 0,2 | default: "en" %}
+  {% case lang %}
+  {% when "gr" %}
+    {% assign lang = "gr" %}
+  {% else %}
+    {% assign lang = "en" %}
+  {% endcase %}
+  <script defer src="{{ '/assets/js/lunr/lunr.min.js' | absolute_url }}"></script>
+  <script defer src="{{ '/assets/js/lunr/lunr-store.js' | absolute_url }}"></script>
+  <script defer src="{{ '/assets/js/lunr/lunr-' | append: lang | append: '.js' | absolute_url }}"></script>
+{% endif %}
+
+{% include analytics.html %}
+{% include /comments-providers/scripts.html %}
+
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+<script>
+  new Vue({
+    el : '#category_tag_menu',
+    data : {
+      flag_c : false,
+      flag_t : false
+    },
+    methods : {
+      togglec: function(){
+        this.flag_c = !this.flag_c;
+      },
+      togglet: function(){
+        this.flag_t = !this.flag_t;
+      }
+    }
+  });
+
+  new Vue({
+    el : '#PE_menu',
+    data : {
+      flag_5 : false,
+      flag_10 : false,
+      flag_15 : false,
+      flag_20 : false,
+      flag_25 : false,
+      flag_30 : false,
+      flag_35 : false,
+      flag_40 : false,
+      flag_45 : false,
+      flag_50 : false,
+      flag_55 : false,
+      flag_60 : false,
+      flag_65 : false,
+      flag_70 : false,
+      flag_75 : false,
+      flag_80 : false,
+      flag_85 : false,
+      flag_90 : false,
+      flag_95 : false,
+      flag_100 : false
+    },
+    methods : {
+      t5: function(){
+      	this.flag_5 = !this.flag_5;
+      },
+      t10: function(){
+      	this.flag_10 = !this.flag_10;
+      },
+      t15: function(){
+      	this.flag_15 = !this.flag_15;
+      },
+      t20: function(){
+      	this.flag_20 = !this.flag_20;
+      },
+      t25: function(){
+      	this.flag_25 = !this.flag_25;
+      },
+      t30: function(){
+      	this.flag_30 = !this.flag_30;
+      },
+      t35: function(){
+      	this.flag_35 = !this.flag_35;
+      },
+      t40: function(){
+      	this.flag_40 = !this.flag_40;
+      },
+      t45: function(){
+      	this.flag_45 = !this.flag_45;
+      },
+      t50: function(){
+      	this.flag_50 = !this.flag_50;
+      },
+      t55: function(){
+      	this.flag_55 = !this.flag_55;
+      },
+      t60: function(){
+      	this.flag_60 = !this.flag_60;
+      },
+      t65: function(){
+      	this.flag_65 = !this.flag_65;
+      },
+      t70: function(){
+      	this.flag_70 = !this.flag_70;
+      },
+      t75: function(){
+      	this.flag_75 = !this.flag_75;
+      },
+      t80: function(){
+      	this.flag_80 = !this.flag_80;
+      },
+      t85: function(){
+      	this.flag_85 = !this.flag_85;
+      },
+      t90: function(){
+      	this.flag_90 = !this.flag_90;
+      },
+      t95: function(){
+      	this.flag_95 = !this.flag_95;
+      },
+      t100: function(){
+      	this.flag_100 = !this.flag_100;
+      }
+    }
+  });
+</script>

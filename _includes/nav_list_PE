@@ -1,0 +1,28 @@
+<nav class="nav__list">
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items" id="PE_menu">
+    <span class="nav__sub-title" style = "font-size = .8em"><a href="/euler/" class="">Back to Check Table</a></span>
+    {% for per in site.diff %}
+      {% assign cnt = 0 %}
+      {% for i in site.pages %}
+        {% if site.data.PE_problem[i.num].diff == per %}
+          {% assign cnt = cnt | plus : 1 %}
+        {% endif %}
+      {% endfor %}
+      {% assign toggle = "t" %}
+      {% assign toggle = toggle | append: per %}
+
+      <span class="nav__sub-title" v-on:click='{{toggle}}()'> {{per}}% <span style = "font-size:.6em">Difficulty ({{cnt}}) </span></span>
+      {% assign flag = "flag_" %}
+      {% assign flag = flag | append: per %}
+      <ul v-show="{{flag}}">
+      {% for problem in site.pages %}
+        {% if site.data.PE_problem[problem.num].diff == per %}
+          <li style = "font-size: .7em"><a href="/euler/{{problem.num}}" class="">{{problem.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endfor %}
+  </ul>
+</nav>

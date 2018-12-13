@@ -1,0 +1,114 @@
+/******************************************************************
+** TAGS
+*******************************************************************/
+
+#tags {
+    .tag-box {
+        list-style: none;
+        margin: 0;
+        padding: 4px 0;
+        overflow: hidden;
+        *zoom: 1;
+    }
+    .tag-box:before,
+    .tag-box:after {
+        display: table;
+        content: "";
+        line-height: 0;
+    }
+    .tag-box:after {
+        clear: both;
+    }
+    .tag-box.inline li {
+        float: left;
+        font-size: 14px;
+        font-size: 0.875rem;
+        line-height: 2.5;
+    }
+    .tag-box a {
+        padding: 4px 6px;
+        margin: 2px;
+        background-color: #e6e6e6;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px;
+        text-decoration: none;
+        &:hover {
+            background-color: #d8d8d8;
+        }
+    }
+    .tag-box a span {
+        vertical-align: super;
+        font-size: 10px;
+        font-size: 0.625rem;
+    }
+    .entry-date {
+        font-size: 0.8em;
+        border-radius: 4px;
+        background-color: #e6e6e6;
+        display: inline-block;
+        min-width: 7em;
+        text-align: center;
+    }
+}
+
+
+/******************************************************************
+** ARCHIVE
+*******************************************************************/
+
+.archive-date {
+    font-size: 0.8em;
+    border-radius: 4px;
+    background-color: #e6e6e6;
+    display: inline-block;
+    min-width: 2em;
+    margin-right: 0.5em;
+    text-align: center;
+}
+
+/******************************************************************
+** tooltip
+*******************************************************************/
+
+[data-tooltip-text]:hover {
+	position: relative;
+}
+
+[data-tooltip-text]:after {
+	-webkit-transition: bottom .3s ease-in-out, opacity .3s ease-in-out;
+	-moz-transition: bottom .3s ease-in-out, opacity .3s ease-in-out;
+	transition: bottom .3s ease-in-out, opacity .3s ease-in-out;
+
+	background-color: rgba(0, 0, 0, 0.65);
+
+  -webkit-box-shadow: 0px 0px 3px 1px rgba(50, 50, 50, 0.4);
+	-moz-box-shadow: 0px 0px 3px 1px rgba(50, 50, 50, 0.4);
+	box-shadow: 0px 0px 3px 1px rgba(50, 50, 50, 0.4);
+
+  -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+
+  color: #FFFFFF;
+	font-size: 11px;
+	margin-bottom: 9px;
+	padding: 7px 12px;
+	position: absolute;
+	width: auto;
+	white-space: nowrap;
+
+	z-index: 9999;
+
+	opacity: 0;
+	left: -9999px;
+  top: 90%;
+
+	content: attr(data-tooltip-text);
+}
+
+[data-tooltip-text]:hover:after {
+	top: 130%;
+	left: 0;
+	opacity: 1;
+}
