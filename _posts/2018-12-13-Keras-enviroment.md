@@ -1,5 +1,5 @@
 ---
-title : [Keras Study] Mac에서 Keras 환경 구축하기
+title : \[Keras Study\] Mac에서 Keras 환경 구축하기
 category :
   - development
 tag :
@@ -16,6 +16,7 @@ header:
   overlay_image : /assets/images/category/devel.jpg
 
 ---
+이게 과제라니.. 이게 나라냐
 
 ## Why Keras?
 
