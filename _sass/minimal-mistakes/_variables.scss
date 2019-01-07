@@ -57,26 +57,33 @@ $type-size-8: 0.7em !default; // ~10px
    Colors
    ========================================================================== */
 
+$primary-color: #ffbd2d !default;
+$success-color: #62c462 !default;
+$warning-color: #f89406 !default;
+$danger-color: #ee5f5b !default;
+$info-color: #52adc8 !default;
+
 $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
+$h2-color: #24304c !default;
+$h3-color: #304166 !default;
+$h4-color: #3c517f !default;
+$h5-color: #486199 !default;
+
 $background-color: #fff !default;
-$code-background-color: #fafafa !default;
+$code-background-color: #a1beff !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
-$footer-background-color: $lighter-gray !default;
+$footer-background-color: mix(#fff, $primary-color,50%) !default;
 
-$primary-color: #7a8288 !default;
-$success-color: #62c462 !default;
-$warning-color: #f89406 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #52adc8 !default;
+
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;

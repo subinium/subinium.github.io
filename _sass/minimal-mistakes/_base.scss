@@ -35,27 +35,32 @@ h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $type-size-3;
+  font-size: $type-size-2;
 }
 
 h2 {
-  font-size: $type-size-4;
+  font-size: $type-size-3;
+  color : $h2-color
 }
 
 h3 {
-  font-size: $type-size-5;
+  font-size: $type-size-4;
+  color : $h3-color
 }
 
 h4 {
-  font-size: $type-size-6;
+  font-size: $type-size-5;
+  color : $h4-color
 }
 
 h5 {
   font-size: $type-size-6;
+  color : $h5-color
 }
 
 h6 {
   font-size: $type-size-6;
+  color : $h5-color
 }
 
 small,
