@@ -1,7 +1,7 @@
 ---
 title : \[Keras Study\] Mac에서 Keras 환경 구축하기
 category :
-  - development
+  - ML
 tag :
   - keras
   - macos
@@ -9,7 +9,8 @@ tag :
   - AI
   - tool
   - python
-sidebar_main : true
+sidebar:
+  nav: sidebar-keras
 use_math : true
 header:
   teaser : /assets/images/category/devel.jpg

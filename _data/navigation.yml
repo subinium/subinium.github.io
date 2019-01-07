@@ -4,10 +4,8 @@ main:
     url: /about/
   - title: "Euler-Wiki"
     url: /euler/
-  - title: "Archive"
-    url: /archive/
-  - title: "Tag"
-    url: /tags/
+  - title: "ML"
+    url: /machinelearning/
   - title: "Category"
     url: /categories/
 
@@ -29,8 +27,48 @@ sidebar-about:
       - title : "Hacking"
         url : /about/hacking
       - title : "Design"
+        url : /about/design
 
 PE:
   - title : "Back to Check Table"
     url : /euler/
-  - title : "hehe"
+
+
+sidebar-ML:
+  - title: "BOOK"
+    children :
+      - title: "케라스 창시자에게 배우는 딥러닝"
+        url : /Keras/
+      - title: "파이썬 라이브러리를 활용한 머신러닝"
+        url : /MLwithPython/
+
+  - title: "Lecture"
+    children:
+      - title: "CS231n"
+        url: /CS231n/
+
+sidebar-keras:
+  - title : "딥러닝이란 무엇인가?"
+    url : "/Keras-1"
+  - title : "시작하기 전에: 신경망의 수학적 구성 요소"
+    url : "/Keras-2"
+  - title : "신경망 시작하기(1)"
+    url : "/Keras-3-1"
+  - title : "신경망 시작하기(2)"
+    url : "/Keras-3-2"
+  - title : "머신 러닝의 기본 요소"
+    url : "/Keras-4"
+  - title : "컴퓨터 비전을 위한 딥러닝"
+  - title : "텍스트와 시퀀스를 위한 딥러닝"
+  - title : "딥러닝을 위한 고급 도구"
+  - title : "생성 모델을 위한 딥러닝"
+  - title : "결론"
+  - title : "Keras를 위한 세팅"
+    url : "/Keras-enviroment"
+
+
+sidebar-MLwithPython:
+  - title: "1장 소개"
+
+sidebar-CS231n:
+  - title: "Lecture 1"

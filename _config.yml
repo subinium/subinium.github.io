@@ -196,8 +196,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 7 # amount of posts to show
+permalink: /:title/
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -259,6 +259,7 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+
   - scope:
       path: ""
       type: posts
@@ -271,7 +272,7 @@ defaults:
       related: true
       toc : true
 
-diff: 
+diff:
   - 5
   - 10
   - 15
