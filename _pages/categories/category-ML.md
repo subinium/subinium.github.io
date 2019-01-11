@@ -1,7 +1,7 @@
 ---
 title: "Post about Machine Learning"
 layout: archive
-permalink: /categories/ML
+permalink: /categories/ml
 author_profile: true
 sidebar_main: true
 ---
