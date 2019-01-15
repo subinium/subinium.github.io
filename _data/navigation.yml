@@ -39,13 +39,13 @@ sidebar-ML:
     children :
       - title: "케라스 창시자에게 배우는 딥러닝"
         url : /Keras/
-
   - title: "LECTURE"
   - title: "BLOG"
   - title: "SUBINIUM"
-    children : 
+    children:
      - title : "데이터, 파이썬으로 다뤄보자!"
         url : /datapython/
+
 
 sidebar-keras:
   - title : "딥러닝이란 무엇인가?"
@@ -74,7 +74,7 @@ sidebar-keras:
 
 sidebar-datapython:
   - title: "Library"
-    children : 
+    children :
       - title : "pandas"
       - title : "numpy"
 
