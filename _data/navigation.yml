@@ -42,7 +42,11 @@ sidebar-ML:
 
   - title: "LECTURE"
   - title: "BLOG"
-    
+  - title: "SUBINIUM"
+    children : 
+     - title : "데이터, 파이썬으로 다뤄보자!"
+        url : /datapython/
+
 sidebar-keras:
   - title : "딥러닝이란 무엇인가?"
     url : "/Keras-1"
@@ -58,7 +62,9 @@ sidebar-keras:
     url : "/Keras-5-1"
   - title : "컴퓨터 비전을 위한 딥러닝(2)"
     url : "/Keras-5-2"
-  - title : "텍스트와 시퀀스를 위한 딥러닝"
+  - title : "텍스트와 시퀀스를 위한 딥러닝(1)"
+    url : "/Keras-6-1"
+  - title : "텍스트와 시퀀스를 위한 딥러닝(2)"
   - title : "딥러닝을 위한 고급 도구"
   - title : "생성 모델을 위한 딥러닝"
   - title : "결론"
@@ -66,8 +72,11 @@ sidebar-keras:
     url : "/Keras-enviroment"
 
 
-sidebar-MLwithPython:
-  - title: "1장 소개"
+sidebar-datapython:
+  - title: "Library"
+    children : 
+      - title : "pandas"
+      - title : "numpy"
 
 sidebar-CS231n:
   - title: "Lecture 1"
