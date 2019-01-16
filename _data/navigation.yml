@@ -73,10 +73,26 @@ sidebar-keras:
 
 
 sidebar-datapython:
-  - title: "Library"
+  - title: Back to ML
+    url : /machinelearning
+  - title: "BASIC"
     children :
-      - title : "pandas"
-      - title : "numpy"
+      - title : "NumPy"
+        url : /datapython/numpy
+      - title : "SciPy"
+        url : /datapython/scipy
+      - title : "SymPy"
+        url : /datapython/sympy
+      - title : "Pandas"
+        url : /datapython/pandas
+      - title : "Matplotlib"
+        url : /datapython/matplotlib
+      - title : "Seaborn"
+        url : /datapython/seaborn
+  - title : "Advanced"
+    children:
+      - title : "Tensorflow"
+      - title : "Keras"
 
 sidebar-CS231n:
   - title: "Lecture 1"

@@ -5,7 +5,7 @@ title: "Machine Learning Study"
 sidebar:
   nav: sidebar-ML
 header:
-  overlay_image: /assets/images/staff_sbnu.jpg
+  overlay_image: /assets/images/category/ml.jpg
 ---
 
 # Machine Learning
