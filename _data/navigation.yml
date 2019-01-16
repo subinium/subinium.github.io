@@ -43,6 +43,7 @@ sidebar-ML:
   - title: "BLOG & NOTE"
     children :
       - title: "10 Steps to Become a Data Scientist"
+        url : /kaggle-basic/
 
 sidebar-keras:
   - title : "딥러닝이란 무엇인가?"
