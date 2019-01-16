@@ -1,10 +1,9 @@
 ---
 layout : archive
-permalink: /datapython/pandas
-title: "pandas"
-toc: true
+permalink: /kaggle-basic/
+title: "3. Mathematics and Linear Algebra"
 sidebar:
-  nav: sidebar-datapython
+  nav: sidebar-kagglebasic
 header:
   overlay_image: /assets/images/category/datapython.jpg
 ---

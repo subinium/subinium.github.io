@@ -1,10 +1,9 @@
 ---
 layout : archive
-permalink: /datapython/scipy
-title: "Scipy"
-toc: true
+permalink: /kaggle-basic/
+title: "8. How to solve Problem"
 sidebar:
-  nav: sidebar-datapython
+  nav: sidebar-kagglebasic
 header:
   overlay_image: /assets/images/category/datapython.jpg
 ---

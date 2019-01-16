@@ -1,10 +1,9 @@
 ---
 layout : archive
-permalink: /datapython/seaborn
-title: "Seaborn"
-toc: true
+permalink: /kaggle-basic/
+title: "4. Programming & Analysis Tools"
 sidebar:
-  nav: sidebar-datapython
+  nav: sidebar-kagglebasic
 header:
   overlay_image: /assets/images/category/datapython.jpg
 ---

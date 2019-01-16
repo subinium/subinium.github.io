@@ -1,10 +1,10 @@
 ---
 layout : archive
-permalink: /datapython/numpy
-title: "numpy"
+permalink: /kaggle-basic/scipy
+title: "Scipy"
 toc: true
 sidebar:
-  nav: sidebar-datapython
+  nav: sidebar-kagglebasic
 header:
   overlay_image: /assets/images/category/datapython.jpg
 ---

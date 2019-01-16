@@ -1,10 +1,9 @@
 ---
 layout : archive
-permalink: /datapython/matplotlib
-title: "Matplotlib"
-toc: true
+permalink: /kaggle-basic/
+title: "6. Data visualization"
 sidebar:
-  nav: sidebar-datapython
+  nav: sidebar-kagglebasic
 header:
   overlay_image: /assets/images/category/datapython.jpg
 ---

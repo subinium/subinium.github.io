@@ -40,12 +40,9 @@ sidebar-ML:
       - title: "케라스 창시자에게 배우는 딥러닝"
         url : /Keras/
   - title: "LECTURE"
-  - title: "BLOG"
-  - title: "SUBINIUM"
-    children:
-      - title : "데이터, 파이썬으로 다뤄보자!"
-        url : /datapython/
-
+  - title: "BLOG & NOTE"
+    children :
+      - title: "10 Steps to Become a Data Scientist"
 
 sidebar-keras:
   - title : "딥러닝이란 무엇인가?"
@@ -72,27 +69,26 @@ sidebar-keras:
     url : "/Keras-enviroment"
 
 
-sidebar-datapython:
-  - title: Back to ML
-    url : /machinelearning
-  - title: "BASIC"
-    children :
-      - title : "NumPy"
-        url : /datapython/numpy
-      - title : "SciPy"
-        url : /datapython/scipy
-      - title : "SymPy"
-        url : /datapython/sympy
-      - title : "Pandas"
-        url : /datapython/pandas
-      - title : "Matplotlib"
-        url : /datapython/matplotlib
-      - title : "Seaborn"
-        url : /datapython/seaborn
-  - title : "Advanced"
-    children:
-      - title : "Tensorflow"
-      - title : "Keras"
-
-sidebar-CS231n:
-  - title: "Lecture 1"
+sidebar-kagglebasic:
+  - title: "0. Main"
+    url : /kaggle-basic
+  - title: "1. Python"
+    url : /kaggle-basic/python
+  - title: "2. Python Packages"
+    url: /kaggle-basic/packages
+  - title: "3. Mathematics and Linear Algebra"
+    url: /kaggle-basic/math
+  - title: "4. Programming & Analysis Tools"
+    url: /kaggle-basic/tools
+  - title: "5. Big Data"
+    url: /kaggle-basic/big-data
+  - title: "6. Data visualization"
+    url: /kaggle-basic/data-visualization
+  - title: "7. Data Cleaning"
+    url: /kaggle-basic/data-cleaning
+  - title: "8. How to solve Problem"
+    url: /kaggle-basic/how-to-solve
+  - title: "9. Machine Learning"
+    url: /kaggle-basic/machinelearning
+  - title: "10. Deeplearning"
+    url: /kaggle-basic/deeplearning
