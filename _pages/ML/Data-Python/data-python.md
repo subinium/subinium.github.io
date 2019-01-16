@@ -5,7 +5,7 @@ title: "데이터, 파이썬으로 다뤄보자!"
 sidebar:
   nav: sidebar-datapython
 header:
-  overlay_image: overlay_image: /assets/images/category/datapython.jpg
+  overlay_image: /assets/images/category/datapython.jpg
 ---
 
 어썸너드 수비니움이 기획하는 **파이썬으로 데이터 다루기** 프로젝트 페이지 입니다.
