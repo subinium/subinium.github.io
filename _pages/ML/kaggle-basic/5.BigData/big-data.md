@@ -1,7 +1,7 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
-title: "8. How to solve Problem"
+permalink: /kaggle-basic/big-data
+title: "5. Big Data"
 sidebar:
   nav: sidebar-kagglebasic
 header:

@@ -1,7 +1,7 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
-title: "1. Python"
+permalink: /kaggle-basic/machinelearning
+title: "9. Machine Learning"
 sidebar:
   nav: sidebar-kagglebasic
 header:

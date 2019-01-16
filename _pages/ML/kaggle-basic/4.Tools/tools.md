@@ -1,7 +1,7 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
-title: "5. Big Data"
+permalink: /kaggle-basic/tools
+title: "4. Programming & Analysis Tools"
 sidebar:
   nav: sidebar-kagglebasic
 header:

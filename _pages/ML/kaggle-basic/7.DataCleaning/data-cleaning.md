@@ -1,6 +1,6 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
+permalink: /kaggle-basic/data-cleaning
 title: "7. Data Cleaning"
 sidebar:
   nav: sidebar-kagglebasic

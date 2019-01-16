@@ -1,6 +1,6 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
+permalink: /kaggle-basic/packages
 title: "2. Python Packages"
 sidebar:
   nav: sidebar-kagglebasic

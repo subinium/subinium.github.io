@@ -1,7 +1,7 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
-title: "3. Mathematics and Linear Algebra"
+permalink: /kaggle-basic/data-visualization
+title: "6. Data visualization"
 sidebar:
   nav: sidebar-kagglebasic
 header:

@@ -1,7 +1,7 @@
 ---
 layout : archive
-permalink: /kaggle-basic/
-title: "4. Programming & Analysis Tools"
+permalink: /kaggle-basic/math
+title: "3. Mathematics and Linear Algebra"
 sidebar:
   nav: sidebar-kagglebasic
 header:
