@@ -71,12 +71,18 @@ sidebar-keras:
 
 
 sidebar-kagglebasic:
-  - title: "0. Main"
+  - title: "0. Intro"
     url : /kaggle-basic
   - title: "1. Python"
     url : /kaggle-basic/python
+    children:
+      - title: "1-1. CSV파일 읽기/쓰기"
+        url: /kaggle-basic/python/csv
   - title: "2. Python Packages"
     url: /kaggle-basic/packages
+    children:
+      - title: "2-1. Numpy"
+        url: /kaggle-basic/packages/numpy
   - title: "3. Mathematics and Linear Algebra"
     url: /kaggle-basic/math
   - title: "4. Programming & Analysis Tools"
