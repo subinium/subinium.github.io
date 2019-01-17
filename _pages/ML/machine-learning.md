@@ -1,5 +1,4 @@
 ---
-layout : archive
 permalink: /machinelearning/
 title: "Machine Learning Study"
 sidebar:

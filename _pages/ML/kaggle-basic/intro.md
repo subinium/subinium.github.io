@@ -1,9 +1,9 @@
 ---
-layout : archive
 permalink: /kaggle-basic/
 title: "10 Steps to Become a Data Scientist"
 sidebar:
   nav: sidebar-kagglebasic
+toc : true
 header:
   overlay_image: /assets/images/category/datapython.jpg
 ---
