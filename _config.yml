@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "en"
 title                    : "Awesome Nerd Subinium"
 title_separator          : "-"
 name                     : "수비니움의 코딩일지"
 description              : "I am subinium."
 url                      : "https://subinium.github.io"
 logo                     : "/assets/images/logo.png"
-masthead_title           : " " 
+masthead_title           : " "
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "subinium/subinium.github.io"
 teaser                   : "/assets/images/sbnu.png"
