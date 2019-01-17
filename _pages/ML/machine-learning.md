@@ -1,4 +1,5 @@
 ---
+layout : single
 permalink: /machinelearning/
 title: "Machine Learning Study"
 sidebar:

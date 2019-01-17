@@ -1,4 +1,5 @@
 ---
+layout : single
 permalink: /kaggle-basic/
 title: "10 Steps to Become a Data Scientist"
 sidebar:
