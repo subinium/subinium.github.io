@@ -13,11 +13,13 @@ header:
 어썸너드 수비니움이 기획하는 **파이썬으로 데이터 다루기** 프로젝트 페이지입니다.
 
 캐글을 스타트하기 위해선 파이썬으로 데이터를 다룰 줄 알아야합니다!!!!!
+하지만 저는 파이썬을 못합니다. 항상 찾아보면서 하고 그런 단계입니다.
 
-그럼 캐글의 mhbahmani님의 가이드라인과 함께 정리를 시작해보려고 합니다.
+그럼 캐글의 @mhbahmani님의 가이드라인과 함께 정리를 시작해보려고 합니다.
 
-목차는 다음과 같습니다.
+목차는 다음과 같습니다. 목차는 제 입맛에 따라 변경될 수 있습니다.
 
+0. Intro
 1. Python
 2. Python Packages
 3. Mathematics and Linear Algebra
@@ -32,3 +34,5 @@ header:
 ## 참고자료
 
 - [10 Steps to Become a Data Scientist](https://www.kaggle.com/mjbahmani/10-steps-to-become-a-data-scientist)
+
+- [Titanic Survival Predictions (Beginner)](https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner)
