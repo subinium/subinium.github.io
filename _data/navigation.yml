@@ -63,6 +63,7 @@ sidebar-keras:
   - title : "텍스트와 시퀀스를 위한 딥러닝(1)"
     url : "/Keras-6-1"
   - title : "텍스트와 시퀀스를 위한 딥러닝(2)"
+    url : "/Keras-6-2"
   - title : "딥러닝을 위한 고급 도구"
   - title : "생성 모델을 위한 딥러닝"
   - title : "결론"
@@ -83,6 +84,16 @@ sidebar-kagglebasic:
     children:
       - title: "2-1. Numpy"
         url: /kaggle-basic/packages/numpy
+      - title: "2-2. Pandas"
+        url: /kaggle-basic/packages/pandas
+      - title: "2-3. Matplotlib"
+        url: /kaggle-basic/packages/matplotlib
+      - title: "2-4. Scipy"
+        url: /kaggle-basic/packages/scipy
+      - title: "2-5. Seaborn"
+        url: /kaggle-basic/packages/seaborn
+      - title: "2-6. Sympy"
+        url: /kaggle-basic/packages/sympy
   - title: "3. Mathematics and Linear Algebra"
     url: /kaggle-basic/math
   - title: "4. Programming & Analysis Tools"
