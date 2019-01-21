@@ -203,6 +203,9 @@ paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+#mermaid:
+mermaid :
+  src : /assets/js/mermaid.js
 
 # Plugins (previously gems:)
 plugins:
@@ -275,6 +278,7 @@ defaults:
       related: true
       toc : true
 
+# for Euler-Project diff variable
 diff:
   - 5
   - 10
