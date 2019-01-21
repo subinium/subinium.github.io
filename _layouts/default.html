@@ -15,7 +15,6 @@
     {% if page.use_math %}
       {% include mathjax_support %}
     {% endif %}
-    {% include mermaid.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
