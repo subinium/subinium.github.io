@@ -65,6 +65,7 @@ sidebar-keras:
   - title : "텍스트와 시퀀스를 위한 딥러닝(2)"
     url : "/Keras-6-2"
   - title : "딥러닝을 위한 고급 도구"
+    url : "/Keras-7"
   - title : "생성 모델을 위한 딥러닝"
   - title : "결론"
   - title : "Keras를 위한 세팅"
