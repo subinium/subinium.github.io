@@ -34,7 +34,7 @@ Euler Wiki를 간략하게나 만들고 있는데,
 
 ### 원하는 조건
 
-#### 코드 
+#### 코드
 1. 자동화 : 문제를 업로드하면 자동으로 Tag가 만들어져야함.
 2. 코드 수정의 용이함 : Format을 만들어 수정할때, 한번에 다 할 수 있게.
 
@@ -92,9 +92,9 @@ euler관련 post들은 `_page`에서 PE 디렉토리에 속해있고,
 여기서 중요한 것은 `category_tag_menu`와 toggle과 flag 설정이다. (위의 부분은 sidebar의 위치나 글씨체를 설정한 부분이다.) 이 부분을 수정하면 개인 커스텀을 완성할 수 있다.
 허나 이 toggle과 flag는 scripts.html에 vue js를 통해 플러그인을 불러오고, 플러그인에 따른 변수 및 함수를 설정해야합니다.
 
-``` 
+```
 _config.yml # 후에 전역변수 설정, 반복문에서 필요
-nav_list_PE # 개인 커스텀 
+nav_list_PE # 개인 커스텀
 scripts.html # 커스텀용 vue 설정
 sidebar.html # nav_list_PE 호출 설정
 ```
@@ -192,4 +192,3 @@ num : 000 # 1 ~ 634
 ## 마치며
 
 사이트가 점점 내 이상에 가까워지고 있다는 것에 만족.
-

@@ -28,6 +28,7 @@ header:
     <td><font color = "#2C3E50"> 아에 모르는 것 </font></td>
   </tr>
 </table>
+
 ## Graph
 
 - SCC
@@ -52,7 +53,5 @@ header:
 
 ## Math & Geometry
 
-- convex hull
-- mubius function
 - FFT
 - NTT

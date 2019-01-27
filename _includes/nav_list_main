@@ -9,14 +9,6 @@
            <li style = "color:$h4-color"><a href="/categories/{{category[0] | slugify}}" class="">{{category[0] | capitalize}} ({{category[1].size}})</a></li>
         {% endfor %}
         </ul>
-
-        <span class="nav__sub-title" v-on:click='togglet()' style = "color:$h3-color">tags</span>
-        <ul v-show="flag_t">
-        {% for tag in site.tags %}
-           <li style = "color:$h4-color"><a href="/tags/#{{tag[0] | slugify}}" class="">{{tag[0] | capitalize }} ({{tag[1].size}})</a></li>
-        {% endfor %}
-        </ul>
-
       </li>
 
   </ul>

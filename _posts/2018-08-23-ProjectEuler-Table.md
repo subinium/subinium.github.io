@@ -2,7 +2,7 @@
 title : Project Euler Checklist 만들기
 category :
   - blog
-  - devel
+  - development
 tag :
   - html
   - css

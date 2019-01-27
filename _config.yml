@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -61,7 +61,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
-search_full_content      : #
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -81,7 +81,7 @@ naver_site_verification  :
 twitter:
   sername               :
 facebook:
-  username               :
+  username               : &facebook "SubinAn"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/mac_asb.jpg"
@@ -91,6 +91,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/subinium"
 
 # Analytics
 analytics:
@@ -273,6 +274,7 @@ defaults:
       share: true
       related: true
       toc : true
+      toc-sticky : true
 
 # for Euler-Project diff variable
 diff:

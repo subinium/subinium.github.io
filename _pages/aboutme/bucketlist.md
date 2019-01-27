@@ -11,16 +11,18 @@ header:
 
 {% include rating_call.html %}
 
+# 공부
 
-# Coding
+## Coding
 
-## Rating
+### Rating
 <p>
   현재 Codeforces Rating : <a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
   현재 TopCoder Rating : <a id="topcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
   현재 AtCoder Rating : <a id="atcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
-</p>_
-  _csacademy 추가예정
+</p>
+
+csacademy 추가예정
 
 1. **Codeforces**  <font color="Orange"> <b>International Master</b> 2300~ </font>
 2. **Topcoder** <font color="#DDCC00"><b>노랑색 찍기</b> 1500~ </font>
@@ -33,7 +35,7 @@ header:
 
 <img src="https://projecteuler.net/profile/subinium.png" id="reloader" onload="setTimeout('document.getElementById(\'reloader\').src=\'https://projecteuler.net/profile/subinium.png?\'+new Date().getMilliseconds()', 5000)" />
 
-## Onsite
+### Onsite
 
 아래 중 1개라도 가기
 
@@ -41,15 +43,17 @@ header:
 2. Facebook HackerCup
 3. TCO
 
-## 수상
+### 수상
 
-1. ACM-ICPC 
+1. ACM-ICPC (18년도 동상)
 2. SCPC
 3. Kakao CodeFestival
 
 # 여행
 
 ## 국내
+
+1. 국내 전통술 투어
 
 ## 국외
 
@@ -60,8 +64,8 @@ header:
 
 1. 자동차운전면허
 2. 조주기능사 자격증
+3. 영어..?
 
-
-# 그 외
+# 운동
 
 1. 바디프로필 찍기
