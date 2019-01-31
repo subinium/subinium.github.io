@@ -46,6 +46,8 @@ sidebar-ML:
         url : /kaggle-basic/
 
 sidebar-keras:
+  - title : "Deep Learning with Python"
+    url : /Keras/
   - title : "딥러닝이란 무엇인가?"
     url : "/Keras-1"
   - title : "시작하기 전에: 신경망의 수학적 구성 요소"
@@ -67,7 +69,9 @@ sidebar-keras:
   - title : "딥러닝을 위한 고급 도구"
     url : "/Keras-7"
   - title : "생성 모델을 위한 딥러닝"
+    url : "/Keras-8"
   - title : "결론"
+    url : "/Keras-9"
   - title : "Keras를 위한 세팅"
     url : "/Keras-enviroment"
 
