@@ -1,7 +1,7 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
   var ratings = { 'atcoder':0, 'codeforces':0, 'topcoder':0 };
-  var handles = { 'atcoder':'subinium', 'codeforces':'GOD_SUBINIUM', 'topcoder':'subinium' };
+  var handles = { 'atcoder':'subinium', 'codeforces':'subinium', 'topcoder':'subinium' };
   var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'https://codeforces.com/profile/', 'topcoder':'https://www.topcoder.com/members/'};
   var colors = {
     'atcoder':[
@@ -47,7 +47,7 @@
     var cf = document.getElementById(service);
     cf.style.color = 'black';
     cf.href = url[service] + handles[service];
-    cf.innerHTML = handles[service];  
+    cf.innerHTML = handles[service];
   }
 
   function getTopCoderRating() {
