@@ -39,12 +39,15 @@ sidebar-ML:
     children :
       - title: "케라스 창시자에게 배우는 딥러닝"
         url : /Keras/
+      - title : "파이썬 라이브러리를 활용한 머신러닝"
+      - title : "파이썬 라이브러리를 활용한 데이터 분석"
   - title: "LECTURE"
   - title: "BLOG & NOTE"
     children :
       - title: "10 Steps to Become a Data Scientist"
         url : /kaggle-basic/
 
+# 케라스 창시자에게 배우는 머신 러닝
 sidebar-keras:
   - title : "Deep Learning with Python"
     url : /Keras/
@@ -75,7 +78,18 @@ sidebar-keras:
   - title : "Keras를 위한 세팅"
     url : "/Keras-enviroment"
 
+# 파이썬 라이브러리를 활용한 머신러닝
+sidebar-MLwithPython:
+  - title : "Introduction to ML with Python"
+    url : /MLwithPython
+  - title : "지도 학습"
+  - title : "비지도 학습과 데이터 전처리"
+  - title : "데이터 표현과 특성 공학"
+  - title : "모델 평가와 성능 향상"
+  - title : "알고리즘 체인과 파이프 라인"
+  - title : "마무리"
 
+# 10 steps
 sidebar-kagglebasic:
   - title: "0. Intro"
     url : /kaggle-basic
