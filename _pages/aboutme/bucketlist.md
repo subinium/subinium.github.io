@@ -1,5 +1,5 @@
 ---
-layout : archive
+layout : single
 permalink: /about/bucketlist
 title: "Bucket List"
 toc: true
@@ -22,11 +22,11 @@ header:
   현재 AtCoder Rating : <a id="atcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
 </p>
 
-csacademy 추가예정
-
 1. **Codeforces**  <font color="Orange"> <b>International Master</b> 2300~ </font>
 2. **Topcoder** <font color="#DDCC00"><b>노랑색 찍기</b> 1500~ </font>
 3. **AtCoder** <font color="#C0C000"><b>노랑색 찍기</b> 2000~ </font>
+
+현재는 CP와 관련하여 큰 목표는 없습니다.
 
 ## 문제수
 
@@ -45,15 +45,15 @@ csacademy 추가예정
 
 ### 수상
 
-1. ACM-ICPC (18년도 동상)
-2. SCPC
-3. Kakao CodeFestival
+1. ACM-ICPC (18년도 동상!)
+2. SCPC (2차탈락 -> 본선진출 -> ?)
+3. Kakao CodeFestival (아쉽게 탈락)
 
 # 여행
 
 ## 국내
 
-1. 국내 전통술 투어
+1. 졸업 전 국내 전통술 투어 예정
 
 ## 국외
 
