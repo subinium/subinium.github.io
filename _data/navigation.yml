@@ -85,6 +85,7 @@ sidebar-MLwithPython:
   - title : "Introduction to ML with Python"
     url : /MLwithPython
   - title : "지도 학습"
+    url : /MLwithPython-2
   - title : "비지도 학습과 데이터 전처리"
   - title : "데이터 표현과 특성 공학"
   - title : "모델 평가와 성능 향상"
