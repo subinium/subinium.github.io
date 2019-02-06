@@ -8,8 +8,6 @@ main:
     url: /machinelearning/
   - title: "Category"
     url: /categories/
-  - title: "Tags"
-    url: /tags/
 
 sidebar-about:
   - title: "Who am I"
