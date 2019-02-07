@@ -44,6 +44,10 @@ header:
 
 ---
 ## Blog
+- [박해선님 깃헙](https://github.com/rickiepark)
+  - 여러 책을 번역하셨고, 다양한 예제 ipynb 파일을 업로드 하십니다.
 - [김태영님의 블로그](https://tykimos.github.io/)
+  - 케라스에 있어서는 국내 유일무이 교수님이라고 생각합니다.
+  - 케라스에 대한 쉬운 설명과 다양한 프로젝트를 진행하고 계십니다.
 - [조대협님의 블로그](https://bcho.tistory.com/)
-- 10 Steps to Become a Data Scientist
+  - 머신러닝으로 유명한 조대협님의 블로그입니다.

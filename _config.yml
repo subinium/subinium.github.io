@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Awesome Nerd Subinium"
+title                    : "Subinium의 코딩일지"
 title_separator          : "-"
 name                     : "수비니움의 코딩일지"
-description              : "I am subinium."
+description              : "머신러닝과 딥러닝, 알고리즘과 PS를 위주로 포스팅하는 수비니움입니다."
 url                      : "https://subinium.github.io"
 logo                     : "/assets/images/logo.png"
 masthead_title           : " "
