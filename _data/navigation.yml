@@ -8,11 +8,13 @@ main:
     url: /machinelearning/
   - title: "Category"
     url: /categories/
+  - title: "Theme"
+    url: /theme
 
 sidebar-about:
   - title: "Who am I"
     children:
-      - title : "Fxxking Awesome Nerd, Subinium"
+      - title : "Awesome Nerd, Subinium"
         url: /about/
   - title : "What I Want To Do"
     children:
@@ -82,15 +84,15 @@ sidebar-keras:
 
 # 파이썬 라이브러리를 활용한 머신러닝
 sidebar-MLwithPython:
-  - title : "Introduction to ML with Python"
+  - title : "Contents"
     url : /MLwithPython
   - title : "지도 학습"
     children:
-      - title : "분류와 회귀 | 일반화, 과대적합, 과소적합"
+      - title : "I 분류와 회귀 / 일반화, 과대적합, 과소적합"
         url : /MLwithPython-2-1
-      - title : "지도 학습 알고리즘"
+      - title : "II 지도 학습 알고리즘"
         url : /MLwithPython-2-2
-      - title : "분류 예측의 불확실성 추정 | 요약 및 정리"
+      - title : "III 분류 예측의 불확실성 추정 / 요약 및 정리"
         url : /MLwithPython-2-3
   - title : "비지도 학습과 데이터 전처리"
   - title : "데이터 표현과 특성 공학"

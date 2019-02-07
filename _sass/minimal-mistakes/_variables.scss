@@ -67,7 +67,7 @@ $gray: #7a8288 !default;
 $dark-gray: mix(#000, $gray, 40%) !default;
 $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
+$lighter-gray: mix(#fff, $gray, 70%) !default;
 
 $h2-color: #24304c !default;
 $h3-color: #304166 !default;
@@ -75,7 +75,8 @@ $h4-color: #3c517f !default;
 $h5-color: #486199 !default;
 
 $background-color: #fff !default;
-$code-background-color: #a1beff !default;
+$code-color: #6591FC !default;
+$code-background-color: #ebeff2 !default;
 $code-background-color-dark: $light-gray !default;
 $text-color: $dark-gray !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
