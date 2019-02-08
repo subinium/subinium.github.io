@@ -106,6 +106,7 @@ mglearn.plots.plot_knn_classification(n_neighbors=1)
 ```
 
 ![3](https://i.imgur.com/m5upK9M.png)
+
 여러 개의 포인트를 바탕으로 클래스를 분류할 수 있습니다. 아래는 가장 가까운 3개의 데이터 포인트를 이용한 분류입니다.
 
 ``` python
