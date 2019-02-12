@@ -48,7 +48,7 @@ sidebar-ML:
   - title: "LECTURE"
   - title: "BLOG & NOTE"
     children :
-      - title: "10 Steps to Become a Data Scientist"
+      - title: "10 Steps to Become a Data Scientist(TBD)"
         url : /kaggle-basic/
 
 # 케라스 창시자에게 배우는 머신 러닝
@@ -101,6 +101,20 @@ sidebar-MLwithPython:
       - title : "5. 요약 및 정리"
         url : /MLwithPython-2-5
   - title : "III. 비지도 학습과 데이터 전처리"
+    children:
+      - title : "1. 비지도 학습의 종류"
+        url : /MLwithPython-3-1
+      - title : "2. 비지도 학습의 도전 과제"
+        url : /MLwithPython-3-2
+      - title : "3. 데이터 전처리와 스케일 조정"
+        url : /MLwithPython-3-3
+      - title : "4. 차원 축소, 특성 추출, 매니폴드 학습"
+        url : /MLwithPython-3-4
+      - title : "5. 군집"
+        url : /MLwithPython-3-5
+      - title : "6. 요약 및 정리"
+        url : /MLwithPython-3-6
+
   - title : "IV. 데이터 표현과 특성 공학"
   - title : "V. 모델 평가와 성능 향상"
   - title : "VI. 알고리즘 체인과 파이프 라인"
