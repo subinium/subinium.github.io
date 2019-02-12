@@ -84,7 +84,7 @@ sidebar-keras:
 
 # 파이썬 라이브러리를 활용한 머신러닝
 sidebar-MLwithPython:
-  - title : "Contents"
+  - title : "Introduction to ML with Python"
     url : /MLwithPython
   - title : "II. 지도 학습"
     children:
@@ -114,11 +114,25 @@ sidebar-MLwithPython:
         url : /MLwithPython-3-5
       - title : "6. 요약 및 정리"
         url : /MLwithPython-3-6
-
   - title : "IV. 데이터 표현과 특성 공학"
   - title : "V. 모델 평가와 성능 향상"
   - title : "VI. 알고리즘 체인과 파이프 라인"
-  - title : "VII. 마무리"
+
+# 파이썬 라이브러리를 활용한 데이터 분석
+
+sidebar-PythonDA:
+  - title : "Python for Data Analysis"
+    url : /PythonDA
+  - title : "III IPython 소개"
+  - title : "IV NumPy 기본: 배열과 벡터 계산"
+  - title : "V pandas 시작하기"
+  - title : "VI 데이터 로딩, 저장, 파일 형식"
+  - title : "VII 데이터 준비하기: 다듬기, 변형, 병합"
+  - title : "VIII 도식화와 시각화"
+  - title : "IX 9 데이터 수집과 그룹 연산"
+  - title : "X 10 시계열"
+  - title : "XI 11 금융, 경제 데이터 애플리케이션"
+  - title : "XII 12 고급 NumPy"
 
 # 10 steps
 sidebar-kagglebasic:

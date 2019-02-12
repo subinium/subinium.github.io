@@ -16,13 +16,25 @@ header:
 
 목차는 다음과 같습니다.
 
-- CHAPTER 1 소개
+- ~~CHAPTER 1 소개~~
 - CHAPTER 2 지도 학습
+  - [2.1 분류와 회귀](/MLwithPython-2-1/)
+  - [2.2 일반화, 과대적합, 과소적합](/MLwithPython-2-1/)
+  - [2.3 지도 학습 알고리즘 (1)](/MLwithPython-2-1/)
+  - [2.3 지도 학습 알고리즘 (2)](/MLwithPython-2-1/)
+  - [2.4 분류 예측의 불확실성 추정](/MLwithPython-2-1/)
+  - [2.5 요약 및 정리](/MLwithPython-2-1/)
 - CHAPTER 3 비지도 학습과 데이터 전처리
+  - [3.1 비지도 학습과 종류](/MLwithPython-3-1/)
+  - [3.2 비지도 학습의 도전 과제](/MLwithPython-3-2/)
+  - [3.3 데이터 전처리와 스케일 조정](/MLwithPython-3-3/)
+  - [3.4 차원 축소, 특성 추출, 매니폴드 학습](/MLwithPython-3-4/)
+  - [3.5 군집](/MLwithPython-3-5/)
+  - [3.6 요약 및 정리](/MLwithPython-3-6/)
 - CHAPTER 4 데이터 표현과 특성 공학
 - CHAPTER 5 모델 평가와 성능 향상
 - CHAPTER 6 알고리즘 체인과 파이프라인
-- CHAPTER 7 텍스트 데이터 다루기
-- CHAPTER 8 마무리
+- ~~CHAPTER 7 텍스트 데이터 다루기~~
+- ~~CHAPTER 8 마무리~~
 
 현재 계획은 1장과 7장, 8장을 제외하고 진행을 할 예정이며 후에 추가할 수 있습니다.
