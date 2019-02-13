@@ -117,7 +117,7 @@ sidebar-MLwithPython:
   - title : "IV. 데이터 표현과 특성 공학"
   - title : "V. 모델 평가와 성능 향상"
   - title : "VI. 알고리즘 체인과 파이프 라인"
-
+  - title : "VIII. 알고리즘 체인과 파이프 라인"
 # 파이썬 라이브러리를 활용한 데이터 분석
 
 sidebar-PythonDA:
