@@ -5,7 +5,7 @@ title: "케라스 창시자에게 배우는 딥러닝"
 sidebar:
   nav: sidebar-keras
 header:
-  overlay_image: /assets/images/category/ml.jpg
+  overlay_color: "#F4CB45"
 ---
 
 ![keras](https://tensorflowkorea.files.wordpress.com/2018/10/keras_dl_b.jpg?w=400)

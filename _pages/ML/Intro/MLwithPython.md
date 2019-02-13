@@ -5,7 +5,7 @@ title: "파이썬 라이브러리를 활용한 머신러닝"
 sidebar:
   nav: sidebar-MLwithPython
 header:
-  overlay_image: /assets/images/category/ml.jpg
+  overlay_color: "#AF3D8A"
 ---
 
 ![enter image description here](http://www.hanbit.co.kr/data/books/B6119391002_l.jpg)

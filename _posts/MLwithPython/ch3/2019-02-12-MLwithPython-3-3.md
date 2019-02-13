@@ -21,7 +21,7 @@ use_math : true
 
 header:
   teaser : /assets/images/category/ml.jpg
-  overlay_image : /assets/images/category/ml.jpg
+  overlay_color: "#AF3D8A"
 ---
 
 3.3 데이터 전처리와 스케일 조정

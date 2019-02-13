@@ -5,7 +5,7 @@ title: "파이썬 라이브러리를 활용한 데이터 분석"
 sidebar:
   nav: sidebar-PythonDA
 header:
-  overlay_image: /assets/images/category/ml.jpg
+  overlay_color: "#D2343E"
 ---
 
 ![python DA](http://www.hanbit.co.kr/data/books/B6540908288_l.jpg)

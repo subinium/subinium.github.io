@@ -14,10 +14,12 @@ header:
 
 ## 수비니움의 정리 및 Tutorial 제작
 
-- 케라스 창시자에게 배우는 딥러닝 (**완**)
-- 10 Steps to Become a Data Scientist (제작중)
-  - 파이썬 라이브러리를 활용한 데이터 분석
-  - 파이썬 라이브러리를 활용한 머신러닝
+### 초안 완성
+- [케라스 창시자에게 배우는 딥러닝 - Deeplearning with Python](/Keras)
+### 제작 진행중
+- [파이썬 라이브러리를 활용한 머신러닝 - Introduction to Machine Learning with Python](/MLwithPython)
+- [파이썬 라이브러리를 활용한 데이터 분석 - Python for Data Analysis](/PythonDA)
+- 10 Steps to Become a Data Scientist
 
 ---
 
