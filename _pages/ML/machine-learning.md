@@ -14,11 +14,10 @@ header:
 
 ## 수비니움의 정리 및 Tutorial 제작
 
-### 초안 완성
-- [케라스 창시자에게 배우는 딥러닝 - Deeplearning with Python](/Keras)
-### 제작 진행중
-- [파이썬 라이브러리를 활용한 머신러닝 - Introduction to Machine Learning with Python](/MLwithPython)
-- [파이썬 라이브러리를 활용한 데이터 분석 - Python for Data Analysis](/PythonDA)
+- [Deeplearning with Python](/Keras)
+- [Introduction to Machine Learning with Python](/MLwithPython)
+- [Python for Data Analysis](/PythonDA)
+- [Kaggle by Subinium](/kaggle)
 - 10 Steps to Become a Data Scientist
 
 ---
@@ -47,9 +46,9 @@ header:
 ---
 ## Blog
 - [박해선님 깃헙](https://github.com/rickiepark)
-  - 여러 책을 번역하셨고, 다양한 예제 ipynb 파일을 업로드 하십니다.
+  - 여러 책을 번역하셨고, 책 예제 ipynb 파일을 업로드 하십니다.
+  - 좋은 번역과 좋은 주석이 특징입니다.
 - [김태영님의 블로그](https://tykimos.github.io/)
-  - 케라스에 있어서는 국내 유일무이 교수님이라고 생각합니다.
   - 케라스에 대한 쉬운 설명과 다양한 프로젝트를 진행하고 계십니다.
 - [조대협님의 블로그](https://bcho.tistory.com/)
   - 머신러닝으로 유명한 조대협님의 블로그입니다.

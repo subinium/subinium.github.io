@@ -10,6 +10,8 @@ main:
     url: /categories/
   - title: "Theme"
     url: /theme
+  - title: "Kaggle"
+    url: /kaggle
 
 sidebar-about:
   - title: "Who am I"
