@@ -113,9 +113,9 @@ sidebar-MLwithPython:
       - title : "4. 차원 축소, 특성 추출, 매니폴드 학습"
         url : /MLwithPython-3-4
       - title : "5. 군집"
-        url : #/MLwithPython-3-5
+        url : /MLwithPython-3-5
       - title : "6. 요약 및 정리"
-        url : #/MLwithPython-3-6
+        url : /MLwithPython-3-6
   - title : "IV. 데이터 표현과 특성 공학"
   - title : "V. 모델 평가와 성능 향상"
   - title : "VI. 알고리즘 체인과 파이프 라인"
