@@ -18,8 +18,10 @@
     padding: 1em;
     max-width: 100%;
     display: -webkit-box;
+    display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
 
@@ -37,16 +39,18 @@
   }
 }
 
+.site-logo img {
+  max-height: 2rem;
+}
+
 .site-title {
   display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  padding: 0.5rem 0;
-  align-self: stretch;
-  -webkit-box-align: center;
-  align-items: center;
+  -ms-flex-item-align: center;
+  align-self: center;
   font-weight: bold;
   z-index: 20;
-  font-size: 1.2rem;
 }
 
 .masthead__menu {
@@ -76,7 +80,6 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: 1.1rem;
 
   &--lg {
     padding-right: 2em;
