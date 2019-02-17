@@ -25,7 +25,7 @@ use_math : true
 header:
   teaser : /assets/images/category/ml.jpg
   overlay_color: "#AF3D8A"
-published : false
+
 ---
 
 3.5 군집

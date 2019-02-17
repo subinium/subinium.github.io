@@ -22,7 +22,7 @@ use_math : true
 header:
   teaser : /assets/images/category/ml.jpg
   overlay_color: "#AF3D8A"
-published : false
+
 ---
 
 3.6 요약 및 정리

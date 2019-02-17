@@ -10,7 +10,7 @@ header:
 
 ![enter image description here](http://www.hanbit.co.kr/data/books/B6119391002_l.jpg)
 
-본 문서는 [파이썬 라이브러리를 활용한 머신러닝] 책을 기반으로 하고 있으며, subinium(본인)이 정리하고 추가한 내용입니다. 생략된 부분과 추가된 부분이 있으니 추가/수정하면 좋을 것 같은 부분은 댓글로 이야기해주시면 감사하겠습니다.
+> 본 문서는 [파이썬 라이브러리를 활용한 머신러닝] 책을 기반으로 하고 있으며, subinium(본인)이 정리하고 추가한 내용입니다. 생략된 부분과 추가된 부분이 있으니 추가/수정하면 좋을 것 같은 부분은 댓글로 이야기해주시면 감사하겠습니다.
 
 [온라인 문서 - 한글](http://fliphtml5.com/hkuy/bdgq/basic)이 공개되어 있습니다.
 모든 소스 코드는 [역자의 깃허브](https://github.com/rickiepark/introduction_to_ml_with_python)에서 내려받을 수 있습니다.
