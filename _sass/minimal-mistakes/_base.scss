@@ -363,3 +363,9 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
