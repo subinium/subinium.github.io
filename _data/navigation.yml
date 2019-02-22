@@ -117,6 +117,7 @@ sidebar-MLwithPython:
       - title : "6. 요약 및 정리"
         url : /MLwithPython-3-6
   - title : "IV. 데이터 표현과 특성 공학"
+    children:
       - title : "1. 범주형 변수"
         url : /MLwithPython-4-1
       - title : "2. 구간 분할, 이산화 그리고 선형 모델, 트리 모델"
