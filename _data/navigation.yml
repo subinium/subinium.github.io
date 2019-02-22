@@ -117,6 +117,20 @@ sidebar-MLwithPython:
       - title : "6. 요약 및 정리"
         url : /MLwithPython-3-6
   - title : "IV. 데이터 표현과 특성 공학"
+      - title : "1. 범주형 변수"
+        url : /MLwithPython-4-1
+      - title : "2. 구간 분할, 이산화 그리고 선형 모델, 트리 모델"
+        url : /MLwithPython-4-2
+      - title : "3. 상호작용과 다항식"
+        url : /MLwithPython-4-3
+      - title : "4. 일변량 비선형 변환"
+        url : /MLwithPython-4-4
+      - title : "5. 특성 자동 선택"
+        url : /MLwithPython-4-5
+      - title : "6. 전문가 지식 활용"
+        url : /MLwithPython-4-6
+      - title : "7. 요약 및 정리"
+        url : /MLwithPython-4-7
   - title : "V. 모델 평가와 성능 향상"
   - title : "VI. 알고리즘 체인과 파이프 라인"
   - title : "VIII. 알고리즘 체인과 파이프 라인"
