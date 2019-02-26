@@ -5,7 +5,8 @@ category :
   - Lecture
 tag :
   - youtube
-sidebar_main : true
+sidebar:
+  nav: sidebar-youtube
 use_math : true
 header:
   overlay_color : "#F00"
