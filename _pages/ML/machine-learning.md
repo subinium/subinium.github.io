@@ -21,8 +21,8 @@ header:
 - [Python for Data Analysis (TBD)](/PythonDA)
 
 ### 유튜브 및 자체제작
-- [수비니움의 캐글 따라하기](/kaggle_tutorial)
-- [수비니움의 머신러닝 튜토리얼](/ML_tutorial)
+- [수비니움의 캐글 따라하기](/Kaggle_Tutorial)
+- [수비니움의 머신러닝 튜토리얼](/ML_Tutorial)
 
 ### 머신러닝 자료 통합 프로젝트
 
