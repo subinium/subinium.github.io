@@ -14,11 +14,19 @@ header:
 
 ## 수비니움의 정리 및 Tutorial 제작
 
+### 정리본
+
 - [Deeplearning with Python](/Keras)
 - [Introduction to Machine Learning with Python](/MLwithPython)
-- [Python for Data Analysis](/PythonDA)
-- [Kaggle by Subinium](/kaggle)
-- 10 Steps to Become a Data Scientist
+- [Python for Data Analysis (TBD)](/PythonDA)
+
+### 유튜브 및 자체제작
+- [수비니움의 캐글 따라하기](/kaggle_tutorial)
+- [수비니움의 머신러닝 튜토리얼](/ML_tutorial)
+
+### 머신러닝 자료 통합 프로젝트
+
+- 10 Steps to Become a Data Scientist (TBD)
 
 ---
 

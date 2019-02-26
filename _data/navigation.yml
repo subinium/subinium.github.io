@@ -2,16 +2,16 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Euler-Wiki"
-    url: /euler/
   - title: "ML"
     url: /machinelearning/
-  - title: "Category"
-    url: /categories/
-  - title: "Theme"
-    url: /theme
+  - title: "Euler-Wiki"
+    url: /euler/
   - title: "Kaggle"
     url: /kaggle
+  - title: "Theme"
+    url: /theme
+  - title: "YouTube"
+    url: https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ
 
 sidebar-about:
   - title: "Who am I"
@@ -47,13 +47,19 @@ sidebar-ML:
         url : /MLwithPython/
       - title : "파이썬 라이브러리를 활용한 데이터 분석"
         url : /PythonDA/
+  - title: "Youtube"
+    children :
+      - title : "수비니움의 머신러닝 튜토리얼"
+        url : /ML_Tutorial
+      - title : "수비니움의 캐글 따라하기"
+        url : /Kaggle_Tutorial
   - title: "LECTURE"
   - title: "BLOG & NOTE"
     children :
       - title: "10 Steps to Become a Data Scientist(TBD)"
         url : /kaggle-basic/
 
-# 케라스 창시자에게 배우는 머신 러닝
+# 케라스 창시자에게 배우는 딥러닝
 sidebar-keras:
   - title : "Deep Learning with Python"
     url : /Keras/
@@ -83,6 +89,25 @@ sidebar-keras:
     url : "/Keras-9"
   - title : "Keras를 위한 세팅"
     url : "/Keras-enviroment"
+
+
+# 캐글 정리
+sidebar-kaggle:
+  - title : "Tutorial"
+    children :
+      - title : "수비니움의 캐글 따라하기"
+        url : /Kaggle_Tutorial
+
+# 유튜브 정리
+sidebar-youtube:
+  - title : "AI"
+    children :
+      - title : "수비니움의 머신러닝 튜토리얼"
+        url : /ML_Tutorial
+      - title : "수비니움의 캐글 따라하기"
+        url : /Kaggle_Tutorial
+  - title : "PS"
+  - title : "ETC"
 
 # 파이썬 라이브러리를 활용한 머신러닝
 sidebar-MLwithPython:
@@ -135,6 +160,7 @@ sidebar-MLwithPython:
   - title : "V. 모델 평가와 성능 향상"
   - title : "VI. 알고리즘 체인과 파이프 라인"
   - title : "VIII. 알고리즘 체인과 파이프 라인"
+
 # 파이썬 라이브러리를 활용한 데이터 분석
 
 sidebar-PythonDA:

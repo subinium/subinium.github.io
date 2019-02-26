@@ -18,6 +18,10 @@ header:
 - 개발 언어 Python (TBD)
 - Jupyter Notebook으로 포스팅하기 (Github Gist + nbviewer + html/css) (TBD)
 
+## Youtube Lecture
+
+- [수비니움의 캐글 따라하기](/kaggle_tutorial)
+
 ## Subinium Kernel Story
 
 - Kaggle Korea가 제공하는 튜토리얼로 따라해보는 kaggle 시작 (TBD)
