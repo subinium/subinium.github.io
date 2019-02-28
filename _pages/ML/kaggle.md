@@ -20,8 +20,9 @@ header:
 
 ## Youtube Lecture
 
-- [수비니움의 캐글 따라하기](/kaggle_tutorial)
+- [수비니움의 캐글 따라하기](/kaggle_tutorial) (TBD)
 
 ## Subinium Kernel Story
 
+- [Kaggle 어떻게 시작할까요?](/kaggle-workflow)
 - Kaggle Korea가 제공하는 튜토리얼로 따라해보는 kaggle 시작 (TBD)

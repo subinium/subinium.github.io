@@ -100,6 +100,7 @@ sidebar-kaggle:
 
 # 유튜브 정리
 sidebar-youtube:
+  - title : "준비과정"
   - title : "AI"
     children :
       - title : "수비니움의 머신러닝 튜토리얼"

@@ -85,6 +85,6 @@ Intro 의 경우에는 유튜브를 통해서 만들었습니다. **파워포인
 구독자가 페이스북 페이지보다 많으면 좋겠습니다. 우선 3월달 목표는 구독자 100명입니다.
 수비니움의 유튜브 응원해주시면 감사하겠습니다.
 
-[수비니움의 코딩일지](https://www.youtube.com/channel/UCbp6lj4Vmd7UngtYxFnPiFA/)
+[수비니움의 코딩일지](https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ)
 
 좋아요와 구독부탁드립니다. 추가로 채널 제목 추천 받습니다!!
