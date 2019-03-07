@@ -28,8 +28,6 @@ header:
 하지만 캐글 자체가 초보자가 접근하기에 좋은 플랫폼은 아닙니다. 적어도 저한테는 어려운 플랫폼이었습니다.
 영어가 익숙하지 않은 사용자라면 더 그럴 것입니다. 그렇기에 제가 캐글을 시작하는 과정을 남겨 많은 사람에게 공유하고자 이 글을 씁니다.
 
-
-
 ## 캐글 초보자를 위한 10가지 팁
 
 > 본 글은 [10 Tips to Get Started with Kaggle](https://opendatascience.com/10-tips-to-get-started-with-kaggle/)을 참고하여 작성하였습니다.

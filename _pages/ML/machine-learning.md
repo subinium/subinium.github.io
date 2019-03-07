@@ -10,7 +10,7 @@ header:
 
 # Machine Learning
 
-> Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task. Machine learning algorithms are used in the applications of email filtering, detection of network intruders, and computer vision, where it is infeasible to develop an algorithm of specific instructions for performing the task. Machine learning is closely related to computational statistics, which focuses on making predictions using computers. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a field of study within machine learning, and focuses on exploratory data analysis through unsupervised learning. In its application across business problems, machine learning is also referred to as predictive analytics.
+> Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to progressively improve their performance on a specific task. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.
 
 ## 수비니움의 정리 및 Tutorial 제작
 
@@ -48,6 +48,7 @@ header:
 ### English
 - [CS231n](http://cs231n.stanford.edu/) : Convolutional Neural Networks for Visual Recognition
 - CS229
+- [Deeplearning 강의](http://deeplearning.cs.cmu.edu/?fbclid=IwAR17I0sJ73q40tbZj37tr0YoZLisz2L0XSagNVeCBqWYsNJQKzstOWbLl1E)
 
 ### Korean
 
@@ -56,7 +57,11 @@ header:
 - [박해선님 깃헙](https://github.com/rickiepark)
   - 여러 책을 번역하셨고, 책 예제 ipynb 파일을 업로드 하십니다.
   - 좋은 번역과 좋은 주석이 특징입니다.
+  - 블로그도 있지만 저는 깃헙을 더 좋아합니다.
 - [김태영님의 블로그](https://tykimos.github.io/)
   - 케라스에 대한 쉬운 설명과 다양한 프로젝트를 진행하고 계십니다.
 - [조대협님의 블로그](https://bcho.tistory.com/)
   - 머신러닝으로 유명한 조대협님의 블로그입니다.
+- [이요한님의 블로그](https://kaggle-kr.tistory.com/)
+  - 캐글 코리아를 운영하십니다.
+  - 캐글 예제 강의를 진행하고 있고, 초보자에게 좋은 자료입니다.
