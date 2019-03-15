@@ -8,7 +8,7 @@ tag :
   - beginner
 sidebar:
   nav: sidebar-youtube
-use_math : true
+toc : false
 header:
   overlay_color : "#20beff"
 
@@ -19,7 +19,4 @@ header:
 - [original](https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases)
 
 - [번역본 by subinium](https://www.kaggle.com/subinium/how-autoencoders-work-korean-ver)
-
-<div class='notebook-embedded'>
-  <iframe src = "https://nbviewer.jupyter.org/gist/subinium/c4db9d86cf74868ea3460063ef9cd5c2" width = 100% height = 100% </iframe>
-</div>
+<iframe src = "https://nbviewer.jupyter.org/gist/subinium/c4db9d86cf74868ea3460063ef9cd5c2" width = "100%" height = "1000px" ></iframe>

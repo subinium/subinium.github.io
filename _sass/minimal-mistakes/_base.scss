@@ -213,6 +213,20 @@ li ol {
 
 /* Figures and images */
 
+.resp-container {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+}
+
+.resp-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: max-content;
+}
+
 figure {
   display: -webkit-box;
   display: flex;
@@ -228,6 +242,7 @@ figure {
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
   }
+
 
   img {
     width: 100%;
