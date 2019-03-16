@@ -96,7 +96,7 @@ sidebar-kaggle:
   - title : "Tutorial"
     children :
       - title : "수비니움의 캐글 따라하기"
-        url : /Kaggle_Tutorial
+        url : /kaggle_tutorial
 
 # 유튜브 정리
 sidebar-youtube:
@@ -106,7 +106,7 @@ sidebar-youtube:
       - title : "수비니움의 머신러닝 튜토리얼"
         url : /ML_Tutorial
       - title : "수비니움의 캐글 따라하기"
-        url : /Kaggle_Tutorial
+        url : /kaggle_tutorial
   - title : "PS"
   - title : "ETC"
 
