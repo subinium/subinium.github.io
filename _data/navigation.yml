@@ -178,6 +178,17 @@ sidebar-PythonDA:
   - title : "XI 금융, 경제 데이터 애플리케이션"
   - title : "XII 고급 NumPy"
 
+# kaggle-tutorial
+
+kaggle-tutorial:
+  - title : "Titanic"
+  - title : "House Prices"
+  - title : "Digit Recognizer"
+  - title : "Facial Keypoints Detection"
+  - title : "BWMBP"
+
+
+
 # 10 steps
 sidebar-kagglebasic:
   - title: "0. Intro"

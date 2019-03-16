@@ -1,11 +1,12 @@
 ---
 layout : single
 permalink: /kaggle/
-title: "Kaggle by Subinium"
+title: "Kaggle @Subinium"
 sidebar:
   nav: sidebar-kaggle
 header:
-  overlay_color : '#20beff'
+  image : '/assets/images/category/kaggle.png'
+  #overlay_color : '#20beff'
 ---
 
 ## Kaggle
@@ -24,5 +25,11 @@ header:
 
 ## Subinium Kernel Story
 
+### Posts
+
 - [Kaggle 어떻게 시작할까요?](/kaggle-tips)
 - Kaggle Korea가 제공하는 튜토리얼로 따라해보는 kaggle 시작 (TBD)
+
+### Kernels
+
+- [예시로 알아보는 오토인코더](/autoencoder-basic)
