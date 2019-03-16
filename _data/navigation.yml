@@ -52,7 +52,7 @@ sidebar-ML:
       - title : "수비니움의 머신러닝 튜토리얼"
         url : /ML_Tutorial
       - title : "수비니움의 캐글 따라하기"
-        url : /Kaggle_Tutorial
+        url : /kaggle-tutorial
   - title: "LECTURE"
   - title: "BLOG & NOTE"
     children :
@@ -96,7 +96,7 @@ sidebar-kaggle:
   - title : "Tutorial"
     children :
       - title : "수비니움의 캐글 따라하기"
-        url : /kaggle_tutorial
+        url : /kaggle-tutorial
 
 # 유튜브 정리
 sidebar-youtube:
@@ -106,7 +106,7 @@ sidebar-youtube:
       - title : "수비니움의 머신러닝 튜토리얼"
         url : /ML_Tutorial
       - title : "수비니움의 캐글 따라하기"
-        url : /kaggle_tutorial
+        url : /kaggle-tutorial
   - title : "PS"
   - title : "ETC"
 
@@ -182,10 +182,11 @@ sidebar-PythonDA:
 
 kaggle-tutorial:
   - title : "Titanic"
-  - title : "House Prices"
-  - title : "Digit Recognizer"
-  - title : "Facial Keypoints Detection"
-  - title : "BWMBP"
+    url : /kaggle-tutorial/titanic
+  - title : "House Prices (TBD)"
+  - title : "Digit Recognizer (TBD)"
+  - title : "Facial Keypoints (TBD)"
+  - title : "BWMBP (TBD)"
 
 
 

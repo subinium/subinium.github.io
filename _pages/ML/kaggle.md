@@ -21,7 +21,7 @@ header:
 
 ## Youtube Lecture
 
-- [수비니움의 캐글 따라하기](/kaggle_tutorial) (TBD)
+- [수비니움의 캐글 따라하기](/kaggle-tutorial) (TBD)
 
 ## Subinium Kernel Story
 
