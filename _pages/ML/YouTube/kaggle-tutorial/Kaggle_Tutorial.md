@@ -5,10 +5,11 @@ title: "수비니움의 캐글 따라하기"
 sidebar:
   nav: kaggle-tutorial
 header:
+  overlay_image : '/assets/image/kaggle_subinium.png'
   overlay_color : '#20beff'
   cta_label : "Go to kaggle"
   cta_url : "https://www.kaggle.com"
-excerpt: 튜토리얼을 봤으면 실전도 시작해봅시다!!
+excerpt: Machine Learning for Everyone!!
 ---
 
 Machine Learning for Everyone
