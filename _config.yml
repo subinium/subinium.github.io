@@ -275,6 +275,13 @@ defaults:
       related: true
       toc : true
       toc-sticky : true
+  # _posts
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      comments: true
 
 # for Euler-Project diff variable
 diff:

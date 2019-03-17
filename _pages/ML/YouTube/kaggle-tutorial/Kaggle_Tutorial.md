@@ -22,7 +22,7 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 업데이트될 때마다 페이스북 페이지에 업로드 예정입니다.
 
 - 타이타닉 Beginner Ver.
-- 각 Competition에 Kaggle 추천 튜토리얼 링크 추가 
+- 각 Competition에 Kaggle 추천 튜토리얼 링크 추가
 
 ## 타이타닉 생존자 예측
 
@@ -38,7 +38,7 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 
 머신러닝을 시작하는 분들이 가장 처음 배운다는 이진 분류(binary classification) 문제로 처음 시작하는 분들에게 적합합니다.
 
-[시작하기](/kaggle-tutorial/titanic)
+[시작하기](/kaggle-tutorial/titanic){: .btn .btn--info}
 
 ## 주택 가격 예측
 
@@ -53,7 +53,7 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 
 더 많아진 특성과 확장된 데이터는 특성공학과 고급 회귀 테크닉(랜덤 포레스트, 그래디언트 부스팅)을 연습할 기회가 될 것입니다.
 
-[시작하기](/kaggle-tutorial/house-prices)
+[시작하기](/kaggle-tutorial/house-prices){: .btn .btn--info}
 
 ## 숫자 인식
 
@@ -69,7 +69,7 @@ C언어를 시작할 때, `"hello world!"`가 있다면, Computer Vision에서�
 CS231n 등 딥러닝 강의를 들으신 분이라면, 여기서 신경망을 시험해보는 것을 추천합니다.
 21세기 머신러닝의 핵심 중 하나인 Computer Vision을 시작해봅시다.
 
-[시작하기](/kaggle-tutorial/digit-recognizer)
+[시작하기](/kaggle-tutorial/digit-recognizer){: .btn .btn--info}
 
 ## 얼굴 키포인트
 
@@ -85,7 +85,7 @@ CS231n 등 딥러닝 강의를 들으신 분이라면, 여기서 신경망을 �
 하지만 이 문제는 매우 어려운 문제로 알려져있습니다. 위의 Computer Vision을 좀 더 시도해봅시다.
 기초는 아닌 것 같지만, 매우 필요한 분야이니까요?
 
-[시작하기](/kaggle-tutorial/Facial-Keypoints)
+[시작하기](/kaggle-tutorial/Facial-Keypoints){: .btn .btn--info}
 
 ## 영화리뷰 분석하기
 
@@ -100,4 +100,4 @@ CS231n 등 딥러닝 강의를 들으신 분이라면, 여기서 신경망을 �
 
 자연어 처리에 사용되는 word2vec에 대한 기초를 이 Competition으로 시작해봅시다.
 
-[시작하기](/kaggle-tutorial/BWMBP)
+[시작하기](/kaggle-tutorial/BWMBP){: .btn .btn--info}
