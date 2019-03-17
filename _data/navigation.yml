@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "ML"
     url: /machinelearning/
-  - title: "Euler-Wiki"
-    url: /euler/
   - title: "Kaggle"
     url: /kaggle
+  - title: "Euler-Wiki"
+    url: /euler/
   - title: "Theme"
     url: /theme
   - title: "YouTube"
@@ -182,7 +182,7 @@ sidebar-PythonDA:
 
 kaggle-tutorial:
   - title : "Back to Menu"
-    url : /kagggle-tutorial
+    url : /kaggle-tutorial
   - title : "Titanic"
     url : /kaggle-tutorial/titanic
   - title : "House Prices"
