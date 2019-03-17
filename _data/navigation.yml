@@ -183,10 +183,14 @@ sidebar-PythonDA:
 kaggle-tutorial:
   - title : "Titanic"
     url : /kaggle-tutorial/titanic
-  - title : "House Prices (TBD)"
-  - title : "Digit Recognizer (TBD)"
-  - title : "Facial Keypoints (TBD)"
-  - title : "BWMBP (TBD)"
+  - title : "House Prices"
+    url : /kaggle-tutorial/house-prices
+  - title : "Digit Recognizer"
+    url : /kaggle-tutorial/digit-recognizer
+  - title : "Facial Keypoints"
+    url : /kaggle-tutorial/Facial-Keypoints
+  - title : "BWMBP"
+    url : /kaggle-tutorial/BWMBP
 
 
 
