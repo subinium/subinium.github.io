@@ -181,6 +181,8 @@ sidebar-PythonDA:
 # kaggle-tutorial
 
 kaggle-tutorial:
+  - title : "Back to Menu"
+    url : /kagggle-tutorial
   - title : "Titanic"
     url : /kaggle-tutorial/titanic
   - title : "House Prices"

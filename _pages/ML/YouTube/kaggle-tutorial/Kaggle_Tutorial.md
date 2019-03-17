@@ -4,6 +4,7 @@ permalink: /kaggle-tutorial/
 title: "수비니움의 캐글 따라하기"
 sidebar:
   nav: kaggle-tutorial
+toc : true
 header:
   overlay_image : https://www.kaggle.com/static/images/competition-noimage.png
   overlay_color : '#20beff'
@@ -24,7 +25,7 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 - 타이타닉 Beginner Ver.
 - 각 Competition에 Kaggle 추천 튜토리얼 링크 추가
 
-## 타이타닉 생존자 예측
+## 1. 타이타닉 생존자 예측
 
 - **title** : Titanic: Machine Learning from Disaster
 - **category** : Classification Problem
@@ -40,7 +41,7 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 
 [시작하기](/kaggle-tutorial/titanic){: .btn .btn--info}
 
-## 주택 가격 예측
+## 2. 주택 가격 예측
 
 - **title** : House Prices: Advanced Regression Techniques
 - **category** : Regression Problem
@@ -55,7 +56,7 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 
 [시작하기](/kaggle-tutorial/house-prices){: .btn .btn--info}
 
-## 숫자 인식
+## 3. 숫자 인식
 
 - **title** : Digit Recognizer
 - **category** : Computer Vision
@@ -71,7 +72,7 @@ CS231n 등 딥러닝 강의를 들으신 분이라면, 여기서 신경망을 �
 
 [시작하기](/kaggle-tutorial/digit-recognizer){: .btn .btn--info}
 
-## 얼굴 키포인트
+## 4. 얼굴 키포인트
 
 - **title** : Facial Keypoints Detection
 - **category** :  Image Processing
@@ -87,7 +88,7 @@ CS231n 등 딥러닝 강의를 들으신 분이라면, 여기서 신경망을 �
 
 [시작하기](/kaggle-tutorial/Facial-Keypoints){: .btn .btn--info}
 
-## 영화리뷰 분석하기
+## 5. 영화리뷰 분석하기
 
 - **title** : Bag of Words Meets Bags of Popcorn
 - **category** : Natural Language Processing
