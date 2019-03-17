@@ -21,6 +21,9 @@ Kaggle에서 **Getting Started** 의 대표 5개의 주제로 영상 강의와 �
 
 업데이트될 때마다 페이스북 페이지에 업로드 예정입니다.
 
+- 타이타닉 Beginner Ver.
+- 각 Competition에 Kaggle 추천 튜토리얼 링크 추가 
+
 ## 타이타닉 생존자 예측
 
 - **title** : Titanic: Machine Learning from Disaster
