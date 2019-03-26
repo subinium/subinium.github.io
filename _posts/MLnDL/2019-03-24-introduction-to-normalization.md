@@ -22,7 +22,8 @@ header:
 
 수 많은 정규화들을 한번 가볍게 읽어봅시다.
 
-# Introduction to Deep Learning Normalization
+> 본 글은 [An Overview of Normalization Methods in Deep Learning](http://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/)을 바탕으로 추가 및 수정을 한 글입니다. 향후 부족한 부분은 추가될 예정입니다.
+
 
 머신러닝/딥러닝에서 Normalization은 항상 중요한 문제 중에 하나였습니다.
 
