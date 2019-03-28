@@ -14,8 +14,8 @@ sidebar_main : true
 author_profile : true
 use_math : true
 header:
-  teaser : /assets/images/category/ml.jpg
-  overlay_image : /assets/images/category/ml.jpg
+  teaser : https://www.de.digital/DIGITAL/Redaktion/EN/Bilder/Meldungen/2017-04-21-zypries-seven-new-digital-hubs-834x468.jpg?__blob=normal&v=3
+  overlay_image : https://www.de.digital/DIGITAL/Redaktion/EN/Bilder/Meldungen/2017-04-21-zypries-seven-new-digital-hubs-834x468.jpg?__blob=normal&v=3
 published : true
 ---
 
