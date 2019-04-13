@@ -1,5 +1,5 @@
 ---
-title : "PS를 공부하는 방법(How to study Problem Solving?)"
+title : "PS를 공부하는 방법 (How to study Problem Solving?)"
 category :
   - Algorithm
 tag :
