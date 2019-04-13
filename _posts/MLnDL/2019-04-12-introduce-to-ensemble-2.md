@@ -20,7 +20,7 @@ Part2. Voting/Averaging & Bagging with Code
 
 ## 0. Intro
 
-> 다음 코드들은 Sklearn 공식 문서와 [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 포스팅에서 많이 가져왔습니다.
+> 다음 코드들은 [Sklearn 공식 Documentation](https://scikit-learn.org/stable/documentation.html)와 [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/) 포스팅에서 많이 가져왔습니다.
 
 Part 1에 이어 Part 2,3,4는 내용에 대한 심화와 코드 예시입니다.
 
@@ -34,6 +34,8 @@ Part 1에 이어 Part 2,3,4는 내용에 대한 심화와 코드 예시입니다
     <figcaption> 생각보다 공식 문서에 잘 되어있습니다. </figcaption>
 </figure>
 
+
+> 본 포스트의 scikit-learn은 버전 0.20.3을 기준으로 작성하였습니다.
 
 ## 1. Voting & Averaging
 
@@ -127,4 +129,4 @@ grid = grid.fit(iris.data, iris.target)
 
 세상에는 좋은 자료가 너무 많습니다. 시간이 된다면 아래 링크와 책 모두 읽는 것을 추천합니다. Part 1에서 언급한 Reference를 제외한 Reference 입니다.
 
-- [International Workshop on Multiple Classifier Systems](https://link.springer.com/content/pdf/10.1007%2F3-540-45014-9.pdf)
+- [EnsembleVoteClassifier](http://rasbt.github.io/mlxtend/user_guide/classifier/EnsembleVoteClassifier/#ensemblevoteclassifier)
