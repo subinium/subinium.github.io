@@ -32,8 +32,11 @@ Part 1. What is Ensemble Learning?
 예상으로는 다음과 같이 나눌 수 있을 것 같습니다.
 
 - Part 1. What is Ensemble Learning
-- Part 2. Advanced Stacking with Code
-- Part 3. Advanced Boosting with Code
+- Part 2. Voting & Bagging with Code
+- Part 3. Boosting with Code
+- Part 4. Stacking with Code
+
+(포스팅을 적으며 목록을 수정했습니다.)
 
 첫 번째 포스팅은 종류와 개념에 대해 다뤄보겠습니다. 구체적인 방법에 대한 내용은 다음 포스팅에서 다루겠습니다.
 
