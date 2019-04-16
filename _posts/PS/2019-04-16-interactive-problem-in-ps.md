@@ -49,16 +49,20 @@ IOI나 일부 대회들에 간혹 나오는 독특한 형태의 PS 문제입니�
 
 여러분의 코드와 Judge의 관계는 다음과 같습니다.
 
-``` mermaid
-sequenceDiagram
-    Code ->> Judge: First Query
-    loop Interactive
-        Judge ->> Code: nth State
-        Code ->> Judge: nth Query
-    end
-    Code ->> Judge : Answer(End State)
-    Judge ->> Code : AC / WA
-```
+<figure class = "align-center"  >
+  <div class = "mermaid">
+    sequenceDiagram
+        Code ->> Judge: First Query
+        loop Interactive
+            Judge ->> Code: nth State
+            Code ->> Judge: nth Query
+        end
+        Code ->> Judge : Answer(End State)
+        Judge ->> Code : AC / WA
+    </div>
+    <figcaption> Interactive Problem의 가상 흐름도 </figcaption>
+  </figure>
+
 
 여러분의 출력은 Judge의 입력으로 들어가고, Judge는 그에 대한 출력을 여러분에게 다시 제공합니다.
 이렇게 상호간의 대화 같은 프로그램은 최종적으로 여러분이 마지막 상태 또는 정답을 출력하면 맞았습니다/틀렸습니다를 알려줍니다.
