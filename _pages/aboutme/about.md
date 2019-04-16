@@ -48,6 +48,9 @@ header:
 
 ### Algorithm
 
+- 전국 대학생 프로그래밍 대회 동아리 연합 (UCPC)
+    - **회장**, 2019 ~
+
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor (2016 ~ )
     - **부회장**, 2017
     - **회장**, 2018
@@ -66,8 +69,6 @@ header:
 - 스태프
     - ACM-ICPC Asia Daejeon Regional Contest, **staff**, 2017
 
-- 유튜브 강의
-    - Project Euler 한국 서버 문제 clear하기, 진행중
 
 ### Machine Learning
 
@@ -75,9 +76,12 @@ header:
     - **스터디 운영진**, 2019
     - Machine Learning 및 Kaggle **스터디장**, 2019
 
-- 유튜브 강의
-    - 수비니움의 머신러닝 튜토리얼, 진행중
-    - 수비니움의 캐글 튜토리얼, 진행중
+### YouTube
+
+- Project Euler(KR) clear하기
+- CodeUp으로 시작하는 C언어 기초
+- 수비니움의 머신러닝 튜토리얼
+- 수비니움의 캐글 튜토리얼
 
 ### Education
 
