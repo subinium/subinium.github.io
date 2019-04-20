@@ -101,12 +101,23 @@ sidebar-kaggle:
 # 유튜브 정리
 sidebar-youtube:
   - title : "준비과정"
+    children :
+        - title : 강의 준비 과정
+          url : /lecture-preparation
+        - title : PS 콘텐츠 준비
+          url : /problem-solving-contents
   - title : "AI"
     children :
       - title : "수비니움의 머신러닝 튜토리얼"
         url : /ML_Tutorial
       - title : "수비니움의 캐글 따라하기"
         url : /kaggle-tutorial
+  - title : "Light Reader"
+    children :
+      - title : "LR#000 | Light Reader : Paper 읽기 프로젝트"
+        url : /LR000
+      - title : "LR#001 | Evolved Art"
+        url : /LR001
   - title : "PS"
   - title : "ETC"
 
