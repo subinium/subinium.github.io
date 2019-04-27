@@ -122,6 +122,8 @@ sidebar-youtube:
         url : /LR002
       - title : "LR#003 | Automated Deep Photo Style Transfer"
         url : /LR003
+      - title : "LR#004 | style2paints"
+        url : /LR004
   - title : "PS"
   - title : "ETC"
 
