@@ -124,6 +124,8 @@ sidebar-youtube:
         url : /LR003
       - title : "LR#004 | style2paints"
         url : /LR004
+      - title : "LR#005 | Style Transfer by Relaxed Optimal Transport and Self-Similarity"
+        url : /LR005
   - title : "PS"
   - title : "ETC"
 
