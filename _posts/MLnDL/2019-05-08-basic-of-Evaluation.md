@@ -86,7 +86,7 @@ X는 대문자로 y는 소문자로 씁니다.
 같은 수의 정답과 예측값을 비교해 정확도를 측정합니다.
 
 ``` python
-import sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score
 clf = MyClassifier()
 clf.fit(X_train, y_train)
 pred = clf.predict(X_test)
@@ -299,7 +299,7 @@ ROC 곡선은 FPR(X축)과 TPR(Y축)의 관계를 그린 곡선입니다.
 
 TPR은 이전에 봤던 재현율(민감도)입니다. 이와 대응하는 지표로 TNR이 있습니다. 이는 특이성(Specificity)라고 불립니다.
 
-특이성은 실제값 Negative가 정확히 예측돼야 한느 수준을 의미합니다. 수식으로 쓰면 다음과 같습니다.
+특이성은 실제값 Negative가 정확히 예측돼야 하는 수준을 의미합니다. 수식으로 쓰면 다음과 같습니다.
 
 $$TNR = \frac{TN}{FP+TN}$$
 
