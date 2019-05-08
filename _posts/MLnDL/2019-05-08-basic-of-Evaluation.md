@@ -324,7 +324,7 @@ ROC 곡선의 예시를 보고 더 이야기해보겠습니다.
 
 ``` python
 from sklearn.metrics import roc_auc_score
-f1 = roc_auc_score(y_test, pred)
+roc_auc = roc_auc_score(y_test, pred)
 ```
 
 ## Reference
