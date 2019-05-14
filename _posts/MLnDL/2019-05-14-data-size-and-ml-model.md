@@ -16,7 +16,7 @@ published : true
 ---
 정답부터 말하면 그건 아무도 몰라.
 
-> [How Much Training Data is Required for Machine Learning?](https://machinelearningmastery.com/much-training-data-required-machine-learning/)을 바탕으로 [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee)추가한 번역/의역/추가 글입니다. 번역이 이상하다고 느끼시는 분들은 원문을 참고해주세요. 원문의 저자가 번역을 하지 않기를 부탁하여 목차만 가져오고, 내부 내용은 여러 자료를 통해 정리했습니다.
+> [How Much Training Data is Required for Machine Learning?](https://machinelearningmastery.com/much-training-data-required-machine-learning/)을 바탕으로 [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee)추가한 번역/의역/추가 글입니다. 번역이 이상하다고 느끼시는 분들은 원문을 참고해주세요. 원문의 저자가 번역을 하지 않기를 부탁하여 목차와 일부 내용만 가져오고, 내부 내용은 여러 자료를 통해 정리했습니다.
 
 <figure>
     <img src = "https://i.imgur.com/Nx611HN.png">
@@ -123,7 +123,7 @@ published : true
 
 흔히 분류 문제에서 많이 사용하는 방법으로, 임시적인 방편입니다. 다음과 같은 방법을 고려해 볼 수 있습니다.
 
-- **클래스 별 데이터 수** : 클래스 별로 최소 필요 데이터 수를 조정합니다. (5, 50, 500, 5000)
+- **클래스 별 데이터 수** : 클래스 별로 최소 필요 데이터 수를 조정합니다. 10배씩 늘려가며 로그 스케일로 데이터 사이즈를 키워보는 방법입니다.
 - **입력 feature 수** : 입력에 대한 feature가 있을 때, feature 수보다 x% 많은 데이터가 필요합니다. (feature가 많을수록 문제가 복잡해지므로)
 
 점진적인 방법 말고는 어떤 방법이 존재할까요? 아래와 같은 방법들을 사용할 수 있습니다.
