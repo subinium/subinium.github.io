@@ -11,6 +11,7 @@ use_math : true
 header:
   teaser : http://static1.squarespace.com/static/580629a98419c2e320bee75a/t/596e8b5b6a49635768f25725/1551824142410/?format=1500w
   overlay_image : https://i.imgur.com/AwkwrNc.jpg
+  overlay_filter: 0.5
 published : true
 ---
 정답부터 말하면 그건 아무도 몰라.
@@ -143,7 +144,7 @@ $$N = F(\frac{VC+ln(\frac{1}{d})}{epsilon})$$
 
 선형 모델이 클래스 당 100단위의 샘플로 성능을 낸다면, 비선형 모델은 클래스 당 1000단위의 샘플이 필요할 수 있습니다.  
 
-데이터를 더 많이 사용할 수 없고, 컴퓨터 자원이 부족하다면 도메인 지식을 활용하여 feature engineering
+데이터를 더 많이 사용할 수 없고, 컴퓨터 자원이 부족하다면 도메인 지식을 활용하여 feature engineering을 통해 그 부분을 매꿔야겠죠?
 
 ## 6. Evaluate Dataset Size vs Model Skill
 
@@ -237,7 +238,7 @@ VC 곡선에 대한 영상 자료입니다. 많은 stackoverflow에서 이 강�
 
 - [You can probably use deep learning even if your data isn't that big](https://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 
-데이터 사이즈를 고민하는 분들에게 좋은 자료가 되면 좋겠습니다.
+부족하지만 데이터 사이즈를 고민하는 분들에게 좋은 자료가 되면 좋겠습니다.
 
 ## Reference
 
