@@ -16,7 +16,7 @@ published : true
 ---
 정답부터 말하면 그건 아무도 몰라.
 
-> [How Much Training Data is Required for Machine Learning?](https://machinelearningmastery.com/much-training-data-required-machine-learning/)을 바탕으로 [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee)추가한 번역/의역/추가 글입니다. 번역이 이상하다고 느끼시는 분들은 원문을 참고해주세요.
+> [How Much Training Data is Required for Machine Learning?](https://machinelearningmastery.com/much-training-data-required-machine-learning/)을 바탕으로 [How Do You Know You Have Enough Training Data?](https://towardsdatascience.com/how-do-you-know-you-have-enough-training-data-ad9b1fd679ee)추가한 번역/의역/추가 글입니다. 번역이 이상하다고 느끼시는 분들은 원문을 참고해주세요. 원문의 저자가 번역을 하지 않기를 부탁하여 목차만 가져오고, 내부 내용은 여러 자료를 통해 정리했습니다.
 
 <figure>
     <img src = "https://i.imgur.com/Nx611HN.png">
@@ -58,7 +58,7 @@ published : true
 
 > **그래서 얼마나 많은 데이터가 필요할까요?**
 
-## 1. It Depends; No One Can Tell You
+## 1. ~에 따라 다릅니다.
 
 ![cbc](http://static1.squarespace.com/static/580629a98419c2e320bee75a/t/596e8b5b6a49635768f25725/1551824142410/?format=1500w)
 
@@ -73,12 +73,14 @@ published : true
 
 이렇게 **"~에 따라 다르다."** 라는 대답은 여러분이 처음 질문했을 때 들을 수 있는 답변일 것입니다.
 
-## 2. Reason by Analogy
+## 2. 사전 연구를 참고하세요.
 
 ![papers](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/si-citations.jpg?itok=UXvQv0qC)
 
 이미 많은 분들이 머신러닝에 관련된 연구를 진행하였습니다.
 또한 이에 대한 자료는 많이 출판되었고, github 등을 통해 소스코드까지 공유되어 있는 자료도 많습니다.
+
+또한 논문의 출판과 동시에 이를 구현하시는 분들이 많아 소스코드 찾는 것은 쉽습니다.
 
 그렇기에 비슷한 프로젝트에 대한 사전연구를 통해 자료수를 예측해 볼 수 있습니다.
 또한 알고리즘 성능이 데이터 크기에 따라 얼만큼의 성능을 내는지에 관한 논문들도 존재합니다.
@@ -96,7 +98,7 @@ published : true
 
 또한 학습 알고리즘으로 라이브러리를 사용하는 경우, documentation에도 언급하는 경우가 많기에 그런 부분도 참고하면 좋습니다. (ex. tensorflow, keras, scikit-learn 등등)
 
-## 3. Use Domain Expertise
+## 3. 도메인 전문 지식을 활용하세요.
 
 ![expert](http://blog.clausehound.com/wp-content/uploads/2016/10/5-Easy-Steps-For-Creating-A-Traffic-Driving-Expert-Roundup-1.jpg)
 
@@ -113,9 +115,9 @@ published : true
 
 즉, 입력과 출력의 특징 간의 존재할 수 있는 관계들을 합리적으로 찾아낼 수 있는 충분한 데이터가 있어야 합니다. 이런 관계에 대한 생각은 분야에 대한 전문적인 지식이 많을수록 생각할 수 있을 것입니다.
 
-도메인에 대한 전문성은 필요한 데이터 규모를 예측하는 데 좋은 인사이트를 줄 수 있을 것입니다.
+도메인에 대한 전문성은 필요한 데이터 규모를 예측하는 데 좋은 인사이트를 줄 수 있을 것입니다. 특성 공학은 언제나 환영입니다.
 
-## 4. Use a Statisitcal Heuristic
+## 4. 통계적 경험을 사용하세요.
 
 통계적 휴리스틱(경험적) 방법을 사용하여 필요한 데이터 수를 점진적으로 찾는 방법도 있습니다.
 
@@ -123,7 +125,6 @@ published : true
 
 - **클래스 별 데이터 수** : 클래스 별로 최소 필요 데이터 수를 조정합니다. (5, 50, 500, 5000)
 - **입력 feature 수** : 입력에 대한 feature가 있을 때, feature 수보다 x% 많은 데이터가 필요합니다. (feature가 많을수록 문제가 복잡해지므로)
-- **모델 파라미터 수** : 모델의 매개변수에 따라 x개의 독립적인 예시가 있어야 합니다.
 
 점진적인 방법 말고는 어떤 방법이 존재할까요? 아래와 같은 방법들을 사용할 수 있습니다.
 
@@ -134,7 +135,7 @@ $$N = F(\frac{VC+ln(\frac{1}{d})}{epsilon})$$
 
 물론 이 방법도 임시 방편이라는 것 명심하세요.
 
-## 5. Nonlinear Algorithms Need More Data
+## 5. 비선형 모델은 더 많은 데이터를 필요로 합니다.
 
 강력한 머신러닝 모델은 비선형인 경우가 많습니다. 예시로는 랜덤 포레스트나 딥러닝(인공신경망) 등이 있습니다.
 
@@ -146,7 +147,7 @@ $$N = F(\frac{VC+ln(\frac{1}{d})}{epsilon})$$
 
 데이터를 더 많이 사용할 수 없고, 컴퓨터 자원이 부족하다면 도메인 지식을 활용하여 feature engineering을 통해 그 부분을 매꿔야겠죠?
 
-## 6. Evaluate Dataset Size vs Model Skill
+## 6. 학습 곡선을 활용하세요.
 
 이 방법은 새로운 머신러닝 알고리즘을 개발하거나, 기존의 알고리즘의 성능을 평가하기 위해서 사용합니다. 정확히는 모델의 성능과 데이터 사이즈의 관계를 그래프로 표현하는 **학습 곡선(learning)** 에 관한 것입니다.
 
@@ -163,7 +164,7 @@ x축을 훈련 테스트 세트의 크기, y축을 모델의 성능으로 plotti
 
 이에 대한 학습곡선 방정식도 있는데, 이에 관해 관심이 있는 분들은 개인적으로 찾아보시는 것을 추천합니다.
 
-## 7. Naive Guesstimate
+## 7. 가볍게는 다음과 같이 이야기할 수 있습니다.
 
 머신러닝 알고리즘은 여러모로 많은 수의 데이터가 필요합니다.
 보통 고전적 통계 방법보다 더 많은 데이터를 필요로 합니다.
@@ -185,7 +186,7 @@ x축을 훈련 테스트 세트의 크기, y축을 모델의 성능으로 plotti
 
 이미 학습된 모델을 사용하면 수치가 달라질 수는 있겠지만, 이미 학습된 모델에서는 수만, 수십만개의 데이터를 통해 학습했다는 점을 기억합니다.
 
-## 8. Get More Data (No Matter What!?)
+## 8. 할 수 있는만큼 모으세요.
 
 ![max](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/quantumspeed.jpg)
 
@@ -196,18 +197,11 @@ x축을 훈련 테스트 세트의 크기, y축을 모델의 성능으로 plotti
 가장 중요시하게 생각해야하는 부분은 머신러닝은 추측을 위한 방법론이라는 사실입니다. 주어진 데이터와 아에 연관성이 없는 데이터라면 모델은 이 edge case를 예측할 수 없을 것입니다.
 edge case를 없애기 위해서는 그에 따른 다양한 데이터셋이 존재해야 합니다.
 
+마치 고양이 사진이 없는 데이터에서 고양이를 분류하는 것은 매우 어려운 문제입니다.
+
 그러기 위해서 적어도 판별하고 싶은 문제에 대해서는 최대한 다양하고 많은 수의 데이터셋을 구하는 것이 중요합니다.
 
-## Don't Procrastinate; Get Started
-
-이제 준비는 그만하고, 모델링을 시작합시다.
-데이터셋에 대한 고민으로 문제의 시작을 못하는 일은 없어야 합니다.
-
-우선 사용가능한 데이터셋과 사용할 수 있는 모든 수단을 통해 먼저 문제에 대한 가능성을 살펴봅시다.
-
-그리고 **지속적으로 공부하면** 어떤 데이터가 더 필요하고, 데이터를 더 이해하고, 문제를 확장할 수 있을 것입니다. 그렇기에 통찰력을 기르기 위해 더 공부하고, 더 노력하여 멋진 데이터 사이언티스트가 되도록 노력합시다.
-
-## Further Reading
+## 추천 자료
 
 저자가 추천해준 자료들과 개인적으로 찾은 자료 중 이 질문에 대한 이해를 높일 수 있는 자료를 선별해봤습니다.
 
