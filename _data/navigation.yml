@@ -130,6 +130,8 @@ sidebar-youtube:
         url : /LR006
       - title : "LR#007 | EdgeConnect : Image Inpainting"
         url : /LR007
+      - title : "LR#008 | GANSynth: Adversarial Neural Audio Synthesis"
+        url : /LR008
 
   - title : "PS"
   - title : "ETC"
