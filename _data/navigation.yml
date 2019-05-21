@@ -132,7 +132,8 @@ sidebar-youtube:
         url : /LR007
       - title : "LR#008 | GANSynth: Adversarial Neural Audio Synthesis"
         url : /LR008
-
+      - title : "LR#009 | PaperRobot: Incremental Draft Generation of Scientific Ideas"
+        url : /LR009
   - title : "PS"
   - title : "ETC"
 
