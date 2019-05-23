@@ -9,6 +9,25 @@ header:
   overlay_image: /assets/images/staff_sbnu.jpg
 ---
 
-현재는 개발에 대해서 큰 목표는 없습니다.
+개발에 있어 현재 목표는 다음과 같습니다.
 
-개발자들이 모일 수 있는 건전한 커뮤니티를 만들 수 있으면 좋겠습니다.
+## Tool
+
+현재 다음 툴을 사용하기 위해 연습 중입니다.
+
+- notion
+- Trello
+
+## Programming
+
+### Front-End
+
+- React
+
+### Back-End
+
+- Django
+
+### PL
+
+- Pythonic한 코드 연습

@@ -81,7 +81,7 @@ header:
 
 - [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)
     - **운영진**, 2019~
-    - 커널 한글화 프로젝트 진행
+    - 커널 한글화 프로젝트 진행중
 
 - 고려대학교 정보보호학부 개발 동아리 DevKor (2019 ~)
     - **스터디 운영진**, 2019~

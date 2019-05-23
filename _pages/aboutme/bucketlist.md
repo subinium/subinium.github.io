@@ -11,11 +11,23 @@ header:
 
 {% include rating_call.html %}
 
-## 공부
+## A.I.
 
-### PS
+### Research
 
-#### Rating
+- 25 이전에 SCI급 논문 1개 이상 publish
+
+### Kaggle
+
+- 2019년에는 사이트 1000등안에 들기
+
+### etc.
+
+- 국내/외 강연하기 : 도합 10000명 도달
+
+## PS
+
+### Rating
 <p>
   현재 Codeforces Rating : <a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
   현재 TopCoder Rating : <a id="topcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
@@ -28,20 +40,20 @@ header:
 
 현재는 CP와 관련하여 큰 목표는 없습니다. 하지만 언젠가는 다시 불타오르겠죠??
 
-#### 문제수
+### 문제수
 
 1. **Baekjoon Online Judge** 4000문제 찍기
 2. **ProjectEuler** 400 clear.
 
 <img src="https://projecteuler.net/profile/subinium.png" id="reloader" onload="setTimeout('document.getElementById(\'reloader\').src=\'https://projecteuler.net/profile/subinium.png?\'+new Date().getMilliseconds()', 5000)" />
 
-#### Onsite
+### Onsite
 
 - Google CodeJam
 - Facebook HackerCup
 - TCO
 
-#### 수상
+### 수상
 
 - ACM-ICPC (18년도 동상!)
 - SCPC (2차탈락 -> 본선진출무상 -> ?)
