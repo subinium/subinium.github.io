@@ -134,6 +134,8 @@ sidebar-youtube:
         url : /LR008
       - title : "LR#009 | PaperRobot: Incremental Draft Generation of Scientific Ideas"
         url : /LR009
+      - title : "LR#010 | Speech2Face: Learning the Face Behind a Voice"
+        url : /LR010
   - title : "PS"
   - title : "ETC"
 
