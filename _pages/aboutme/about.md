@@ -14,7 +14,7 @@ header:
 - 다양한 사이트에서 subinium으로 활동중
   - BOJ, Codeforces, Atcoder, TopCoder, Kaggle, etc
   - github, facebook, linkedIn, etc
-- 페이스북 **[어썸너드 수비니움](https://www.facebook.com/ANsubinium/)** 운영
+- 페이스북 **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 운영 (구 어썸너드 수비니움)
 - 유튜브 **[수비니움의 코딩일지](https://www.youtube.com/c/수비니움의코딩일지)** 운영
 
 ## Contact
@@ -46,7 +46,7 @@ header:
 
 ## Activation
 
-### SW
+### SW Development
 - Software Maestro 10기
     - **연수생**, 2019~
 
