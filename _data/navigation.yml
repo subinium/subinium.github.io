@@ -136,8 +136,10 @@ sidebar-youtube:
         url : /LR009
       - title : "LR#010 | Speech2Face: Learning the Face Behind a Voice"
         url : /LR010
-      - title : "LR#011 |  From Here to There: Video Inbetweening Using Direct 3D Convolutions"
+      - title : "LR#011 | From Here to There: Video Inbetweening Using Direct 3D Convolutions"
         url : /LR011
+      - title : "LR#012 | pix2code: Generating Code from a Graphical User Interface Screenshot"
+        url : /LR012
   - title : "PS"
   - title : "ETC"
 
