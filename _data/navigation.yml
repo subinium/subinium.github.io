@@ -140,6 +140,9 @@ sidebar-youtube:
         url : /LR011
       - title : "LR#012 | pix2code: Generating Code from a Graphical User Interface Screenshot"
         url : /LR012
+      - title : "LR#013 | SEQ2SEQ-VIS : A Visual Debugging Tool fo Sequence-to-Sequence Models"
+        url : /LR013
+
   - title : "PS"
   - title : "ETC"
 
