@@ -142,6 +142,8 @@ sidebar-youtube:
         url : /LR012
       - title : "LR#013 | SEQ2SEQ-VIS : A Visual Debugging Tool fo Sequence-to-Sequence Models"
         url : /LR013
+      - title : "LR#014 | Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers "
+        url : /LR014
 
   - title : "PS"
   - title : "ETC"
