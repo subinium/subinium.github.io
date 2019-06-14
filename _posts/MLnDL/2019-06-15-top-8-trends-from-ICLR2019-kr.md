@@ -24,14 +24,14 @@ ICLR 2019의 트렌드를 분석한 글입니다. 원 저자의 동의 하에 �
 
 원문은 다음 [링크](https://huyenchip.com/2019/05/12/top-8-trends-from-iclr-2019.html)를 참고해주세요.
 
-- 1. Inclusivity
-- 2. Unsupervised representation learning & transfer learning
-- 3. Retro ML
-- 4. RNN is losing its luster with researchers
-- 5. GANs are still going on strong
-- 6. The lack of biologically inspired deep learning
-- 7. Reinforcement learning is still the most popular topic by submissions
-- 8. Most accepted papers will be quickly forgotten
+1. Inclusivity
+2. Unsupervised representation learning & transfer learning
+3. Retro ML
+4. RNN is losing its luster with researchers
+5. GANs are still going on strong
+6. The lack of biologically inspired deep learning
+7. Reinforcement learning is still the most popular topic by submissions
+8. Most accepted papers will be quickly forgotten
 
 ## 1. Inclusivity
 
