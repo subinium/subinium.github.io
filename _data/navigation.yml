@@ -243,6 +243,8 @@ sidebar-kagglebasic:
     children:
       - title: "1-1. CSV파일 읽기/쓰기"
         url: /kaggle-basic/python/csv
+      - title : "1-2. 캐글 commit 안하고 output 다운받기"
+        url: /kaggle-basic/python/download_file
   - title: "2. Python Packages"
     url: /kaggle-basic/packages
     children:
