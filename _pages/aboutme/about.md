@@ -14,7 +14,7 @@ header:
 - 다양한 사이트에서 subinium으로 활동중
   - BOJ, Codeforces, Atcoder, TopCoder, Kaggle, etc
   - github, facebook, linkedIn, etc
-- 페이스북 **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 운영 (구 어썸너드 수비니움)
+- 페이스북 **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 운영
 - 유튜브 **[수비니움의 코딩일지](https://www.youtube.com/c/수비니움의코딩일지)** 운영
 
 ## Contact
@@ -87,8 +87,8 @@ header:
     - **스터디 운영진**, 2019~
     - Machine Learning 및 Kaggle **스터디장**, 2019~
 
-- 참여 행사
-    - Kaggle Days Meetup - Seoul (2019) 참석
+- 발표
+  - 2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT) 연사
 
 ### YouTube
 - [수비니움의 코딩일지](https://www.youtube.com/c/수비니움의코딩일지)
