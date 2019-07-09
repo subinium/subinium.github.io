@@ -146,9 +146,8 @@ sidebar-youtube:
         url : /LR014
       - title : "LR#015 | Divide and Conquer the Embedding Space for Metric Learning"
         url : /LR015
-
-  - title : "PS"
-  - title : "ETC"
+      - title : "LR#016 | Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B"
+        url : /LR016
 
 # 파이썬 라이브러리를 활용한 머신러닝
 sidebar-MLwithPython:
