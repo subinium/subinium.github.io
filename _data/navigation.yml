@@ -148,7 +148,8 @@ sidebar-youtube:
         url : /LR015
       - title : "LR#016 | Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B"
         url : /LR016
-
+      - title : "LR#017 | Superhuman AI for multiplayer poker"
+        url : /LR017
 # 파이썬 라이브러리를 활용한 머신러닝
 sidebar-MLwithPython:
   - title : "Introduction to ML with Python"
