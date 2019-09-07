@@ -1,5 +1,5 @@
 ---
-title : "Beginner Guide : Missing Data"
+title : "Beginner Guide : Missing Data Handling"
 category :
   - ML
 tag :
@@ -15,7 +15,7 @@ header:
 published : true
 ---
 
-이번에는 간단하게(?) Feature Selection을 알아봅시다.
+Missing Data는 어떻게 관리할 수 있을까요? Handling을 해봅시다!!
 
 ## 왜 생기는걸까? : 완벽하지 않은 세상!
 
