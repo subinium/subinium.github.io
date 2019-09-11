@@ -1,5 +1,5 @@
 ---
-title : "Introduction to Ensemble Learning : Part 1"
+title : "Part 1. Introduction to Ensemble Learning"
 category :
   - ML
 tag :
