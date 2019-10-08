@@ -1,9 +1,10 @@
 ---
-title : "2020 KAKAO BLIND RECUITMENT Review"
+title : "2020 KAKAO BLIND RECRUITMENT Review"
 category :
   - subinium
 tag :
   - kakao
+  - coding test
   - recruitment
 author_profile: true
 sidebar_main : true
