@@ -15,7 +15,7 @@ header:
   overlay_image : https://cdn-images-1.medium.com/max/2100/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg
   overlay_filter: rgba(150, 150, 150, 0.5)
 ---
-원본은 Notion에 있습니다.
+원본은 Notion에 있지만, 여기도 올려봅니다 :)
 
 알고리즘을 공부하는 타입에는 다음과 같은 타입이 있습니다. 조금 전문적이지 못한 표현이 있을 수 있으나 이해를 위한 단어이므로 이해 부탁드립니다. 제가 본 몇 부류에 의하면 다음과 같이 분류할 수 있습니다.
 
