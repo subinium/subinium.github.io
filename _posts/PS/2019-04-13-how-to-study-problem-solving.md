@@ -1,20 +1,21 @@
 ---
-title : "PS를 공부하는 방법 (How to study Problem Solving?)"
-category :
+title: "PS를 공부하는 방법 (How to study Problem Solving?)"
+category:
   - Algorithm
-tag :
-    - PS
-    - subinium
-    - BOJ
-    - guide
-sidebar_main : true
-author_profile : true
-use_math : true
+tag:
+  - PS
+  - subinium
+  - BOJ
+  - guide
+sidebar_main: true
+author_profile: true
+use_math: true
 header:
-  teaser : https://cdn-images-1.medium.com/max/2100/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg
-  overlay_image : https://cdn-images-1.medium.com/max/2100/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg
+  teaser: https://cdn-images-1.medium.com/max/2100/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg
+  overlay_image: https://cdn-images-1.medium.com/max/2100/1*mWjv-mIg4gGw7vhj-uCyRw.jpeg
   overlay_filter: rgba(150, 150, 150, 0.5)
 ---
+
 초중급자를 위해 쓰는 글
 
 > 본 글은 초보자 및 중급을 위한 글입니다. 코드포스 퍼플 이상 분들은 허허 웃으며 지나가 주시면 됩니다.
@@ -182,13 +183,13 @@ Named에는 이유가 있습니다. 문제 출제자에 따라 지문의 상태�
 
 > 코딩 테스트나 대회와 같은 실전에는 계속 붙잡고 있는게 맞습니다.
 
-제 기준의 ***오래*** 는 약 1시간 정도입니다. 그 이상의 고민은 실력 향상에도 도움이 되지않고, 본인의 실력이 아직 충분하지 않다는 것입니다. 이럴 때는 해답을 보는 것을 추천합니다.
+제 기준의 **_오래_** 는 약 1시간 정도입니다. 그 이상의 고민은 실력 향상에도 도움이 되지않고, 본인의 실력이 아직 충분하지 않다는 것입니다. 이럴 때는 해답을 보는 것을 추천합니다.
 
 그렇다고 solution을 그대로 내는 것, 보고 받아쓰기 하는 것은 **절대** 안됩니다.
 그렇게 하는 순간, 그 문제는 앞으로 안볼것이고 그 문제에서 얻을 수 있는 지식은 여러분의 것이 아니게 됩니다.
 
 솔루션을 보고도 이해하지 못한다면, 이를 위한 내용을 공부하거나 문제를 보류하는 것을 추천합니다.
-*저는 빨간 글씨의 틀렸습니다를 보고 싶지 않아요~* 같은 소리는 하지 맙시다.
+_저는 빨간 글씨의 틀렸습니다를 보고 싶지 않아요~_ 같은 소리는 하지 맙시다.
 빨간 글씨가 억울하면, 억울한만큼 열심히 공부해야하는 겁니다.
 
 결론적으로 솔루션을 보고 코드를 본다면, 자신이 안보고 코드를 작성해서 제출해야 합니다.
@@ -261,6 +262,6 @@ PS를 공부하다보면 힘든 순간들이 많습니다. 스스로에 대한 �
 
 감사합니다. :-)
 
-+ 앞으로 PS 공부법에 대해서도 계속 글/영상을 남길 예정이니 많은 구독과 좋아요 부탁드립니다.
-+ 유튜브 : [수비니움의 코딩일지](youtube.com/c/수비니움의코딩일지)
-+ 페이스북 : [어썸너드 수비니움](fb.com/ANsubinium)
+- 앞으로 PS 공부법에 대해서도 계속 글/영상을 남길 예정이니 많은 구독과 좋아요 부탁드립니다.
+- 유튜브 : [수비니움의 코딩일지](youtube.com/c/수비니움의코딩일지)
+- 페이스북 : [어썸너드 수비니움](fb.com/algoguide)
