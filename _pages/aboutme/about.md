@@ -15,7 +15,7 @@ header:
 
 2019년부터는 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
 Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 캐글에서 공유하고 있습니다.
-현재는 MLOPS와 ML UI/UX, Interpretable/Explainable AI 분야에 관심이 많습니다. 
+현재는 MLOPS와 ML UI/UX, Interpretable/Explainable AI 분야에 관심이 많습니다.
 
 - [BOJ](https://www.acmicpc.net/user/subinium), [Codeforces](http://codeforces.com/profile/subinium), Atcoder, TopCoder, etc
 - [Kaggle](https://www.kaggle.com/subinium)
@@ -55,7 +55,6 @@ Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 
 - Github
 - Qt(with PyQt5)
 
-
 ## Awards
 
 - 2019 SCPC(삼성 대학생 프로그래밍 경진대회) 온사이트 본선 진출
@@ -77,19 +76,19 @@ Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 
 
 - **Fast Campus** : [알고리즘 / 기술면접 올인원 패키지 Online. : 실전 코딩테스트 대비 문제 풀이](https://www.fastcampus.co.kr/dev_online_algo/) **강사**, 2019~
 
-
-- 동아리 AlKor 알고리즘 문제 풀이 강의 및 스터디 진행, 2016~2018
-- 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 **강사**, 2017
-- 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 **강사**, 2018
+* 동아리 AlKor 알고리즘 문제 풀이 강의 및 스터디 진행, 2016~2018
+* 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 **강사**, 2017
+* 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 **강사**, 2018
 
 ## Activation / Project
 
 ### SW Development
 
 - Software Maestro
+
   - **10기 연수생**, 2019
   - Team FP 팀장
-  - 웹 메모 서비스 Flower 개발 
+  - 웹 메모 서비스 Flower 개발
     - Front-End Developer
     - React, Redux
 
@@ -99,7 +98,7 @@ Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 
 
   - **스터디 운영진**, 2019 하반기
   - Machine Learning 및 Kaggle **스터디장**, 2019
-  - 제 1회 DevKor배 싸국톤 우수상 : 졸업요건 확인 웹 어플리케이션 
+  - 제 1회 DevKor배 싸국톤 우수상 : 졸업요건 확인 웹 어플리케이션
     - Front-End Developer
 
 ### Algorithm
@@ -110,6 +109,7 @@ Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 
   - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **운영 총괄, 디자인**, 2019
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor
+
   - **부회장** (2017)
   - **회장** (2018)
   - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제 및 검수**, 2017
@@ -133,6 +133,7 @@ Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 
 
 - [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](/2nd-dlcat-review/) 연사 : **The Newbie Guide to Blogging & Visualization**
 - 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**
+- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : [알고리즘, 어떻게 공부할까?](/meaningful-ps-algorithm-study/) :
 
 ## Press
 
@@ -143,6 +144,7 @@ Data Visualization을 좋아하여 여러 시각화 커널(코드)을 만들어 
 ## Contact
 
 - Email
+
   - me@ansubin.com
   - subinium@gmail.com
 
