@@ -14,14 +14,13 @@ header:
 
 잘하기보다는 잘하고 싶어하는 사람을 돕고 싶습니다.
 하지만 그 전에 제가 먼저 실력이 되야할 것 같아 모든 순간을 의미있게 살기위해 노력 중입니다.
-종종 NETPLIX나 Nintendo Switch 등의 유혹에 빠지고는 하지만요ㅎㅎ
+종종 Netflix나 Nintendo Switch 등의 유혹에 빠지고는 하지만요...^^
 
 2019년부터는 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
 Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에서 공유하고 있습니다.
 현재는 MLOPS와 UI/UX, Interpretable/Explainable AI 분야에 관심이 많습니다.
-나중에는 Google, Amazone 등의
 
-강의나 발표를 정말 좋아합니다. 제가 어울리는 곳이라면 불러주세요 :)
+강의나 발표를 좋아합니다. 제가 어울리는 곳이라면 불러주세요 :)
 
 - [BOJ](https://www.acmicpc.net/user/subinium)
 - [Codeforces](http://codeforces.com/profile/subinium)
@@ -65,18 +64,12 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ## Awards
 
 - 2019 SCPC(삼성 대학생 프로그래밍 경진대회) 온사이트 본선 진출
-
 - 2018 ACM-ICPC Asia Hanoi Regional Contest **14th** place (GoInMulDaeGoSipDa)
 - 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, GoInMulDaeGoSipDa)
-
 - 2018 TCO(TopCoder Open) Top 300 (winning T-shirt)
-
 - 2018 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 21th place (해킹의반대말은달퀸)
-
 - 2018 SCPC(삼성 대학생 프로그래밍 경진대회) 온사이트 본선 진출
-
 - 2016 ACM-ICPC Asia Daejeon Regional Contest **10th** place (AC_FROM_ZZAM)
-
 - 2016 UCPC 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 26th place (WellMadeSubinium)
 
 ## Lecture
