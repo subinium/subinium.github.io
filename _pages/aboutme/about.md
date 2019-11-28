@@ -75,7 +75,6 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ## Lecture
 
 - **Fast Campus** : [알고리즘 / 기술면접 올인원 패키지 Online. : 실전 코딩테스트 대비 문제 풀이](https://www.fastcampus.co.kr/dev_online_algo/) **강사**, 2019~
-
 * 동아리 AlKor 알고리즘 문제 풀이 강의 및 스터디 진행, 2016~2018
 * 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 **강사**, 2017
 * 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 **강사**, 2018
@@ -85,7 +84,6 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ### SW Development
 
 - Software Maestro
-
   - **10기 연수생**, 2019
   - Team FP : Force Push 팀장
   - 웹 메모 서비스 Flower 개발
@@ -96,7 +94,6 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 - 페이스북 **[삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour)** 페이지 운영 (200+)
 
 - 고려대학교 정보보호학부 개발 동아리 DevKor
-
   - **스터디 운영진**, 2019 하반기
   - Machine Learning 및 Kaggle **스터디장**, 2019
   - 제 1회 DevKor배 싸국톤 우수상 : 졸업요건 확인 웹 어플리케이션
@@ -105,12 +102,10 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ### Algorithm
 
 - [전국 대학생 프로그래밍 대회 동아리 연합](https://www.facebook.com/groups/ucpc.korea/)
-
   - **회장**, 2019~
   - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **운영 총괄, 디자인**, 2019
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor
-
   - **부회장** (2017)
   - **회장** (2018)
   - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제 및 검수**, 2017
@@ -145,7 +140,6 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ## Contact
 
 - Email
-
   - me@ansubin.com
   - subinium@gmail.com
 
