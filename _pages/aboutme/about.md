@@ -13,12 +13,15 @@ header:
 개발자를 위한 개발자, 모두를 위한 **인공지능** 을 꿈꾸는 개발자 안수빈(@subinium)입니다.
 
 잘하기보다는 잘하고 싶어하는 사람을 돕고 싶습니다.
-하지만 그 전에 제가 먼저 실력이 되야할 것 같아 모든 순간을 의미있게 살기위해 노력 중입니다.
+하지만 그 전에 제가 먼저 실력이 되야할 것 같아 매 순간을 의미있게 살기위해 노력 중입니다.
 종종 Netflix나 Nintendo Switch 등의 유혹에 빠지고는 하지만요...^^
 
 2019년부터는 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
 Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에서 공유하고 있습니다.
-현재는 MLOPS와 UI/UX, Interpretable/Explainable AI 분야에 관심이 많습니다.
+그 외에도 MLOPS과 Interpretable/Explainable AI 분야에 관심이 많습니다.
+
+디자인을 좋아하여 Web에서는 UI/UX를, 행사에서는 간단한 디자인들을 하고 있습니다.
+나중에는 ML로 멋진 강의 자료를 만들고 싶습니다. 이쁜 자료가 공부하기도 좋으니까요~
 
 강의나 발표를 좋아합니다. 제가 어울리는 곳이라면 불러주세요 :)
 
@@ -87,8 +90,7 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
   - **10기 연수생**, 2019
   - Team FP : Force Push 팀장
   - 웹 메모 서비스 Flower 개발
-    - Web Designer
-    - Front-End Developer (React, Redux)
+    - Web Designer / Front-End Developer (React, Redux)
   - SOMA 공식 블로그 : [[서포터즈 취재일기] 우리에게 꼭 필요한 Flow를 공유하다 - FP팀](https://blog.naver.com/sw_maestro/221710898997)
 
 - 페이스북 **[삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour)** 페이지 운영 (200+)
@@ -103,14 +105,15 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 
 - [전국 대학생 프로그래밍 대회 동아리 연합](https://www.facebook.com/groups/ucpc.korea/)
   - **회장**, 2019~
-  - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **운영 총괄, 디자인**, 2019
+  - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **운영, 디자인**, 2019
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor
   - **부회장** (2017)
   - **회장** (2018)
   - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제 및 검수**, 2017
   - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **출제 및 검수, 디자인, 운영**, 2018
-  - [2018 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://www.facebook.com/2018KCPC/?modal=admin_todo_tour) **출제 및 검수, 디자인, 운영**, 2018
+  - [2018 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://www.facebook.com/2018KCPC/) **출제 및 검수, 디자인, 운영**, 2018
+  - [2019 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://kcpc19.contest.codeforces.com/) **출제 및 검수, [디자인](https://www.facebook.com/shovelingdesignoper/posts/1474006526071268), 운영**, 2019
 
 - International Olympiad in Informatics (IOI) Training Winter Camp in Korea, **조교**, 2018
 
@@ -122,7 +125,6 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ### AI
 
 - [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) **운영진**, 2019~
-
 - 페이스북 **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 운영 (2300+)
 
 ## 발표
