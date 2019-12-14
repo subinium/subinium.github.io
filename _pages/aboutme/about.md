@@ -16,7 +16,7 @@ header:
 하지만 그 전에 제가 먼저 실력이 되야할 것 같아 매 순간을 의미있게 살기위해 노력 중입니다.
 
 이전에는 알고리즘 대회를 준비했었고, 2019년부터 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
-Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 노트북 부문에서 상위 0.1%에 도달하였습니다.
+Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 노트북(커널) 부문에서 상위 0.1%에 도달하였습니다.
 
 그 외에도 Interpretable/Explainable AI 분야에 관심이 많고, Deep Learning을 좋아하려고 노력하고 있습니다.
 
@@ -51,7 +51,7 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 
 - **Deep Learning** : Keras, PyTorch
 - **ML and Data Handling** : Scikit Learn, Pandas, Numpy
-- **Visualization** : Plotly, Bokeh, Altair, seaborn, matplotlib
+- **Visualization** : Plotly, Altair, seaborn, matplotlib
 - **Crawling** : beautiful soap4, selenium
 
 ### Web Framework / Server
@@ -63,6 +63,7 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 
 - Git/Github
 - Qt(with PyQt5)
+- Sketch
 
 ## Awards
 
@@ -87,9 +88,13 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 
 ---
 
-- [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](/2nd-dlcat-review/) 연사 : **The Newbie Guide to Blogging & Visualization**
-- 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**
-- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : [알고리즘, 어떻게 공부할까?](/meaningful-ps-algorithm-study/)
+- [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019
+
+- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : [알고리즘, 어떻게 공부할까?](/meaningful-ps-algorithm-study/), 2019
+
+- 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
+
+- [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](/2nd-dlcat-review/) : **The Newbie Guide to Blogging & Visualization**, 2019
 
 ## Activation / Project
 
