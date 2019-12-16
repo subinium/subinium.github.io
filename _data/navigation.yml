@@ -2,250 +2,227 @@
 main:
   - title: "About"
     url: /about/
-  - title: "ML"
-    url: /machinelearning/
-  - title: "Kaggle"
-    url: /kaggle
-  - title: "Euler-Wiki"
-    url: /euler/
-  - title: "Theme"
-    url: /theme
-  - title: "YouTube"
-    url: https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ
+  - title: "A.I. Lookbook"
+    url: "https://www.facebook.com/AI.Lookbook"
+  - title: "Algoguide"
+    url: "https://www.facebook.com/algoguide"
+  - title: "Desinoper"
+    url: "https://www.facebook.com/shovelingdesignoper"
 
 sidebar-about:
   - title: "Who am I"
     children:
-      - title : "Awesome Nerd, Subinium"
+      - title: "Awesome Nerd, Subinium"
         url: /about/
-  - title : "What I Want To Do"
-    children:
-      - title : "Bucket List"
-        url: /about/bucketlist
-  - title : "To Do List"
-    children:
-      - title : "Algorithm"
-        url : /about/algorithm
-      - title : "Developement"
-        url : /about/development
-      - title : "Hacking"
-        url : /about/hacking
-      - title : "Design"
-        url : /about/design
 
 PE:
-  - title : "Back to Check Table"
-    url : /euler/
-
+  - title: "Back to Check Table"
+    url: /euler/
 
 sidebar-ML:
   - title: "BOOK"
-    children :
+    children:
       - title: "케라스 창시자에게 배우는 딥러닝"
-        url : /Keras/
-      - title : "파이썬 라이브러리를 활용한 머신러닝"
-        url : /MLwithPython/
-      - title : "파이썬 라이브러리를 활용한 데이터 분석"
-        url : /PythonDA/
+        url: /Keras/
+      - title: "파이썬 라이브러리를 활용한 머신러닝"
+        url: /MLwithPython/
   - title: "Youtube"
-    children :
-      - title : "수비니움의 머신러닝 튜토리얼"
-        url : /ML_Tutorial
-      - title : "수비니움의 캐글 따라하기"
-        url : /kaggle-tutorial
+    children:
+      - title: "수비니움의 머신러닝 튜토리얼"
+        url: /ML_Tutorial
+      - title: "수비니움의 캐글 따라하기"
+        url: /kaggle-tutorial
   - title: "LECTURE"
   - title: "BLOG & NOTE"
-    children :
-      - title: "10 Steps to Become a Data Scientist(TBD)"
-        url : /kaggle-basic/
+    children:
+      - title: "10 Steps to Become a Data Scientist"
+        url: /kaggle-basic/
 
 # 케라스 창시자에게 배우는 딥러닝
 sidebar-keras:
-  - title : "Deep Learning with Python"
-    url : /Keras/
-  - title : "딥러닝이란 무엇인가?"
-    url : "/Keras-1"
-  - title : "시작하기 전에: 신경망의 수학적 구성 요소"
-    url : "/Keras-2"
-  - title : "신경망 시작하기(1)"
-    url : "/Keras-3-1"
-  - title : "신경망 시작하기(2)"
-    url : "/Keras-3-2"
-  - title : "머신 러닝의 기본 요소"
-    url : "/Keras-4"
-  - title : "컴퓨터 비전을 위한 딥러닝(1)"
-    url : "/Keras-5-1"
-  - title : "컴퓨터 비전을 위한 딥러닝(2)"
-    url : "/Keras-5-2"
-  - title : "텍스트와 시퀀스를 위한 딥러닝(1)"
-    url : "/Keras-6-1"
-  - title : "텍스트와 시퀀스를 위한 딥러닝(2)"
-    url : "/Keras-6-2"
-  - title : "딥러닝을 위한 고급 도구"
-    url : "/Keras-7"
-  - title : "생성 모델을 위한 딥러닝"
-    url : "/Keras-8"
-  - title : "결론"
-    url : "/Keras-9"
-  - title : "Keras를 위한 세팅"
-    url : "/Keras-enviroment"
-
+  - title: "Deep Learning with Python"
+    url: /Keras/
+  - title: "딥러닝이란 무엇인가?"
+    url: "/Keras-1"
+  - title: "시작하기 전에: 신경망의 수학적 구성 요소"
+    url: "/Keras-2"
+  - title: "신경망 시작하기(1)"
+    url: "/Keras-3-1"
+  - title: "신경망 시작하기(2)"
+    url: "/Keras-3-2"
+  - title: "머신 러닝의 기본 요소"
+    url: "/Keras-4"
+  - title: "컴퓨터 비전을 위한 딥러닝(1)"
+    url: "/Keras-5-1"
+  - title: "컴퓨터 비전을 위한 딥러닝(2)"
+    url: "/Keras-5-2"
+  - title: "텍스트와 시퀀스를 위한 딥러닝(1)"
+    url: "/Keras-6-1"
+  - title: "텍스트와 시퀀스를 위한 딥러닝(2)"
+    url: "/Keras-6-2"
+  - title: "딥러닝을 위한 고급 도구"
+    url: "/Keras-7"
+  - title: "생성 모델을 위한 딥러닝"
+    url: "/Keras-8"
+  - title: "결론"
+    url: "/Keras-9"
+  - title: "Keras를 위한 세팅"
+    url: "/Keras-enviroment"
 
 # 캐글 정리
 sidebar-kaggle:
-  - title : "Tutorial"
-    children :
-      - title : "수비니움의 캐글 따라하기"
-        url : /kaggle-tutorial
+  - title: "Tutorial"
+    children:
+      - title: "수비니움의 캐글 따라하기"
+        url: /kaggle-tutorial
 
 # 유튜브 정리
 sidebar-youtube:
-  - title : "준비과정"
-    children :
-        - title : 강의 준비 과정
-          url : /lecture-preparation
-        - title : PS 콘텐츠 준비
-          url : /problem-solving-contents
-  - title : "AI"
-    children :
-      - title : "수비니움의 머신러닝 튜토리얼"
-        url : /ML_Tutorial
-      - title : "수비니움의 캐글 따라하기"
-        url : /kaggle-tutorial
-  - title : "Light Reader"
-    children :
-      - title : "LR#000 | Light Reader : Paper 읽기 프로젝트"
-        url : /LR000
-      - title : "LR#001 | Evolved Art"
-        url : /LR001
-      - title : "LR#002 | Anime GAN"
-        url : /LR002
-      - title : "LR#003 | Automated Deep Photo Style Transfer"
-        url : /LR003
-      - title : "LR#004 | style2paints"
-        url : /LR004
-      - title : "LR#005 | Style Transfer by Relaxed Optimal Transport and Self-Similarity"
-        url : /LR005
-      - title : "LR#006 | Looking to Listen at the Cocktail Party"
-        url : /LR006
-      - title : "LR#007 | EdgeConnect : Image Inpainting"
-        url : /LR007
-      - title : "LR#008 | GANSynth: Adversarial Neural Audio Synthesis"
-        url : /LR008
-      - title : "LR#009 | PaperRobot: Incremental Draft Generation of Scientific Ideas"
-        url : /LR009
-      - title : "LR#010 | Speech2Face: Learning the Face Behind a Voice"
-        url : /LR010
-      - title : "LR#011 | From Here to There: Video Inbetweening Using Direct 3D Convolutions"
-        url : /LR011
-      - title : "LR#012 | pix2code: Generating Code from a Graphical User Interface Screenshot"
-        url : /LR012
-      - title : "LR#013 | SEQ2SEQ-VIS : A Visual Debugging Tool fo Sequence-to-Sequence Models"
-        url : /LR013
-      - title : "LR#014 | Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
-        url : /LR014
-      - title : "LR#015 | Divide and Conquer the Embedding Space for Metric Learning"
-        url : /LR015
-      - title : "LR#016 | Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B"
-        url : /LR016
-      - title : "LR#017 | Superhuman AI for multiplayer poker"
-        url : /LR017
+  - title: "준비과정"
+    children:
+      - title: 강의 준비 과정
+        url: /lecture-preparation
+      - title: PS 콘텐츠 준비
+        url: /problem-solving-contents
+  - title: "AI"
+    children:
+      - title: "수비니움의 머신러닝 튜토리얼"
+        url: /ML_Tutorial
+      - title: "수비니움의 캐글 따라하기"
+        url: /kaggle-tutorial
+  - title: "Light Reader"
+    children:
+      - title: "LR#000 | Light Reader : Paper 읽기 프로젝트"
+        url: /LR000
+      - title: "LR#001 | Evolved Art"
+        url: /LR001
+      - title: "LR#002 | Anime GAN"
+        url: /LR002
+      - title: "LR#003 | Automated Deep Photo Style Transfer"
+        url: /LR003
+      - title: "LR#004 | style2paints"
+        url: /LR004
+      - title: "LR#005 | Style Transfer by Relaxed Optimal Transport and Self-Similarity"
+        url: /LR005
+      - title: "LR#006 | Looking to Listen at the Cocktail Party"
+        url: /LR006
+      - title: "LR#007 | EdgeConnect : Image Inpainting"
+        url: /LR007
+      - title: "LR#008 | GANSynth: Adversarial Neural Audio Synthesis"
+        url: /LR008
+      - title: "LR#009 | PaperRobot: Incremental Draft Generation of Scientific Ideas"
+        url: /LR009
+      - title: "LR#010 | Speech2Face: Learning the Face Behind a Voice"
+        url: /LR010
+      - title: "LR#011 | From Here to There: Video Inbetweening Using Direct 3D Convolutions"
+        url: /LR011
+      - title: "LR#012 | pix2code: Generating Code from a Graphical User Interface Screenshot"
+        url: /LR012
+      - title: "LR#013 | SEQ2SEQ-VIS : A Visual Debugging Tool fo Sequence-to-Sequence Models"
+        url: /LR013
+      - title: "LR#014 | Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers"
+        url: /LR014
+      - title: "LR#015 | Divide and Conquer the Embedding Space for Metric Learning"
+        url: /LR015
+      - title: "LR#016 | Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B"
+        url: /LR016
+      - title: "LR#017 | Superhuman AI for multiplayer poker"
+        url: /LR017
+
 # 파이썬 라이브러리를 활용한 머신러닝
 sidebar-MLwithPython:
-  - title : "Introduction to ML with Python"
-    url : /MLwithPython
-  - title : "II. 지도 학습"
+  - title: "Introduction to ML with Python"
+    url: /MLwithPython
+  - title: "II. 지도 학습"
     children:
-      - title : "1. 분류와 회귀"
-        url : /MLwithPython-2-1
-      - title : "2. 일반화, 과대적합, 과소적합"
-        url : /MLwithPython-2-2
-      - title : "3. 지도 학습 알고리즘 (1)"
-        url : /MLwithPython-2-3-1
-      - title : "3. 지도 학습 알고리즘 (2)"
-        url : /MLwithPython-2-3-2
-      - title : "4. 분류 예측의 불확실성 추정"
-        url : /MLwithPython-2-4
-      - title : "5. 요약 및 정리"
-        url : /MLwithPython-2-5
-  - title : "III. 비지도 학습과 데이터 전처리"
+      - title: "1. 분류와 회귀"
+        url: /MLwithPython-2-1
+      - title: "2. 일반화, 과대적합, 과소적합"
+        url: /MLwithPython-2-2
+      - title: "3. 지도 학습 알고리즘 (1)"
+        url: /MLwithPython-2-3-1
+      - title: "3. 지도 학습 알고리즘 (2)"
+        url: /MLwithPython-2-3-2
+      - title: "4. 분류 예측의 불확실성 추정"
+        url: /MLwithPython-2-4
+      - title: "5. 요약 및 정리"
+        url: /MLwithPython-2-5
+  - title: "III. 비지도 학습과 데이터 전처리"
     children:
-      - title : "1. 비지도 학습의 종류"
-        url : /MLwithPython-3-1
-      - title : "2. 비지도 학습의 도전 과제"
-        url : /MLwithPython-3-2
-      - title : "3. 데이터 전처리와 스케일 조정"
-        url : /MLwithPython-3-3
-      - title : "4. 차원 축소, 특성 추출, 매니폴드 학습"
-        url : /MLwithPython-3-4
-      - title : "5. 군집"
-        url : /MLwithPython-3-5
-      - title : "6. 요약 및 정리"
-        url : /MLwithPython-3-6
-  - title : "IV. 데이터 표현과 특성 공학"
+      - title: "1. 비지도 학습의 종류"
+        url: /MLwithPython-3-1
+      - title: "2. 비지도 학습의 도전 과제"
+        url: /MLwithPython-3-2
+      - title: "3. 데이터 전처리와 스케일 조정"
+        url: /MLwithPython-3-3
+      - title: "4. 차원 축소, 특성 추출, 매니폴드 학습"
+        url: /MLwithPython-3-4
+      - title: "5. 군집"
+        url: /MLwithPython-3-5
+      - title: "6. 요약 및 정리"
+        url: /MLwithPython-3-6
+  - title: "IV. 데이터 표현과 특성 공학"
     children:
-      - title : "1. 범주형 변수"
-        url : /MLwithPython-4-1
-      - title : "2. 구간 분할, 이산화 그리고 선형 모델, 트리 모델"
-        url : /MLwithPython-4-2
-      - title : "3. 상호작용과 다항식"
-        url : /MLwithPython-4-3
-      - title : "4. 일변량 비선형 변환"
-        url : /MLwithPython-4-4
-      - title : "5. 특성 자동 선택"
-        url : /MLwithPython-4-5
-      - title : "6. 전문가 지식 활용"
-        url : /MLwithPython-4-6
-      - title : "7. 요약 및 정리"
-        url : /MLwithPython-4-7
-  - title : "V. 모델 평가와 성능 향상"
-  - title : "VI. 알고리즘 체인과 파이프 라인"
-  - title : "VIII. 알고리즘 체인과 파이프 라인"
+      - title: "1. 범주형 변수"
+        url: /MLwithPython-4-1
+      - title: "2. 구간 분할, 이산화 그리고 선형 모델, 트리 모델"
+        url: /MLwithPython-4-2
+      - title: "3. 상호작용과 다항식"
+        url: /MLwithPython-4-3
+      - title: "4. 일변량 비선형 변환"
+        url: /MLwithPython-4-4
+      - title: "5. 특성 자동 선택"
+        url: /MLwithPython-4-5
+      - title: "6. 전문가 지식 활용"
+        url: /MLwithPython-4-6
+      - title: "7. 요약 및 정리"
+        url: /MLwithPython-4-7
+  - title: "V. 모델 평가와 성능 향상"
+  - title: "VI. 알고리즘 체인과 파이프 라인"
+  - title: "VIII. 알고리즘 체인과 파이프 라인"
 
 # 파이썬 라이브러리를 활용한 데이터 분석
 
 sidebar-PythonDA:
-  - title : "Python for Data Analysis"
-    url : /PythonDA
-  - title : "III IPython 소개"
-  - title : "IV NumPy 기본: 배열과 벡터 계산"
-  - title : "V pandas 시작하기"
-  - title : "VI 데이터 로딩, 저장, 파일 형식"
-  - title : "VII 데이터 준비하기: 다듬기, 변형, 병합"
-  - title : "VIII 도식화와 시각화"
-  - title : "IX 데이터 수집과 그룹 연산"
-  - title : "X 시계열"
-  - title : "XI 금융, 경제 데이터 애플리케이션"
-  - title : "XII 고급 NumPy"
+  - title: "Python for Data Analysis"
+    url: /PythonDA
+  - title: "III IPython 소개"
+  - title: "IV NumPy 기본: 배열과 벡터 계산"
+  - title: "V pandas 시작하기"
+  - title: "VI 데이터 로딩, 저장, 파일 형식"
+  - title: "VII 데이터 준비하기: 다듬기, 변형, 병합"
+  - title: "VIII 도식화와 시각화"
+  - title: "IX 데이터 수집과 그룹 연산"
+  - title: "X 시계열"
+  - title: "XI 금융, 경제 데이터 애플리케이션"
+  - title: "XII 고급 NumPy"
 
 # kaggle-tutorial
 
 kaggle-tutorial:
-  - title : "Back to Menu"
-    url : /kaggle-tutorial
-  - title : "Titanic"
-    url : /kaggle-tutorial/titanic
-  - title : "House Prices"
-    url : /kaggle-tutorial/house-prices
-  - title : "Digit Recognizer"
-    url : /kaggle-tutorial/digit-recognizer
-  - title : "Facial Keypoints"
-    url : /kaggle-tutorial/Facial-Keypoints
-  - title : "BWMBP"
-    url : /kaggle-tutorial/BWMBP
-
-
+  - title: "Back to Menu"
+    url: /kaggle-tutorial
+  - title: "Titanic"
+    url: /kaggle-tutorial/titanic
+  - title: "House Prices"
+    url: /kaggle-tutorial/house-prices
+  - title: "Digit Recognizer"
+    url: /kaggle-tutorial/digit-recognizer
+  - title: "Facial Keypoints"
+    url: /kaggle-tutorial/Facial-Keypoints
+  - title: "BWMBP"
+    url: /kaggle-tutorial/BWMBP
 
 # 10 steps
 sidebar-kagglebasic:
   - title: "0. Intro"
-    url : /kaggle-basic
+    url: /kaggle-basic
   - title: "1. Python"
-    url : /kaggle-basic/python
+    url: /kaggle-basic/python
     children:
       - title: "1-1. CSV파일 읽기/쓰기"
         url: /kaggle-basic/python/csv
-      - title : "1-2. 캐글 commit 안하고 output 다운받기"
+      - title: "1-2. 캐글 commit 안하고 output 다운받기"
         url: /kaggle-basic/python/download_file
   - title: "2. Python Packages"
     url: /kaggle-basic/packages

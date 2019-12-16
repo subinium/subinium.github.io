@@ -11,129 +11,127 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
-title                    : "Subinium의 코딩일지"
-title_separator          : "-"
-name                     : "수비니움의 코딩일지"
-description              : "머신러닝과 딥러닝, 알고리즘과 PS를 위주로 포스팅하는 수비니움입니다."
-url                      : "https://subinium.github.io"
-logo                     : "/assets/images/logo3.png"
-masthead_title           : "Hello Subinium!"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "subinium/subinium.github.io"
-teaser                   : "/assets/images/sbnu.png"
+locale: "en"
+title: "Subinium의 코딩일지"
+title_separator: "-"
+name: "수비니움의 코딩일지"
+description: "모두를 위한 개발자를 목표로 하는 Subinium의 블로그입니다."
+url: "https://subinium.github.io"
+logo: "/assets/images/logo3.png"
+masthead_title: "Hello Subinium!"
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "subinium/subinium.github.io"
+teaser: "/assets/images/sbnu.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute: 200
 comments:
-  provider               : "disqus"
+  provider: "disqus"
   disqus:
-    shortname            : www-subinium-github-io
+    shortname: www-subinium-github-io
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields: # ['name', 'email', 'url', 'message']
+  branch: # "master"
+  commitMessage: # "New comment."
+  filename: # comment-{@timestamp}
+  format: # "yml"
+  moderation: # true
+  path: # "/_data/comments/{options.slug}" (default)
+  requiredFields: # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email: # "md5"
   generatedFields:
     date:
-      type               : "date"
+      type: "date"
       options:
-        format           :  "iso8601" # (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: "iso8601" # (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey:
+  secret:
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : true
-search_full_content      : true
-search_provider          : # lunr (default), algolia, google
+  path: # blank (default) uses feed.xml
+search: true
+search_full_content: true
+search_provider: # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id: # YOUR_SEARCH_ENGINE_ID
+  instant_search: # false (default), true
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+google_site_verification:
+bing_site_verification:
+yandex_site_verification:
+naver_site_verification:
 
 # Social Sharing
 twitter:
-  sername               :
+  sername:
 facebook:
-  username               : &facebook "SubinAn"
-  app_id                 :
-  publisher              :
-og_image                 : "/assets/images/mac_asb.jpg"
+  username: &facebook "SubinAn"
+  app_id:
+  publisher:
+og_image: "/assets/images/mac_asb.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://www.facebook.com/subinium"
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider: "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-121853166-1"
-    anonymize_ip         : # true, false (default)
-
+    tracking_id: "UA-121853166-1"
+    anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name             : "An Subin"
-  avatar           : "/assets/images/mac_asb.jpg"
-  bio              : "Yeah, I am Subinium."
-  location         : "Seoul,Korea"
-  email            : "me@ansubin.com"
-  uri              :
-  home             : "#" # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "subinium"
-  foursquare       :
-  github           : "subinium"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "subin-an-841975110"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : "subinium"
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ"
-
+  name: "An Subin"
+  avatar: "/assets/images/mac_asb.jpg"
+  bio: "Yeah, I am Subinium."
+  location: "Seoul,Korea"
+  email: "me@ansubin.com"
+  uri:
+  home: "#" # null (default), "absolute or relative url to link to author home"
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook: "subinium"
+  foursquare:
+  github: "subinium"
+  gitlab:
+  google_plus:
+  keybase:
+  instagram:
+  lastfm:
+  linkedin: "subin-an-841975110"
+  pinterest:
+  soundcloud:
+  stackoverflow: # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam:
+  tumblr:
+  twitter:
+  vine:
+  weibo:
+  xing:
+  youtube: "https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ"
 
 # Reading Files
 include:
@@ -171,14 +169,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -191,12 +187,10 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 
 # Outputting
 permalink: /:title/
@@ -250,14 +244,12 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
@@ -273,8 +265,8 @@ defaults:
       comments: true
       share: true
       related: true
-      toc : true
-      toc-sticky : true
+      toc: true
+      toc-sticky: true
   # _posts
 
   - scope:

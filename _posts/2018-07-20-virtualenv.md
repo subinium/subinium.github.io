@@ -109,6 +109,3 @@ $ deactivate
 
 1. virtualenv에서 PATH 설정법
 2. pyenv, autoenv를 통한 개발환경 구축
-
-#### Reference
-<a href = "http://ulismoon.tistory.com/3?category=553187">[Python] 독립적인 가상의 파이썬 실행환경, virtualenv (1)(2)</a> @ulismoon
