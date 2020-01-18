@@ -10,24 +10,24 @@ header:
 
 > 오랫동안 꿈을 그리는 사람은 마침내 그 꿈을 닮아간다
 
-모두를 위한 개발자를 꿈꾸는 안수빈(@subinium)입니다.
+재능보다는 노력을 믿는, 모두를 위한 개발자를 꿈꾸는 안수빈(@subinium)입니다.
 
-잘하기보다는 잘하고 싶어하는 사람을 돕고 싶습니다. 
-하지만 도울 수 있는 사람이 되기 위해 실력을 쌓고 있습니다.
+잘하기보다는 잘하고 싶어하는 사람이 목표입니다. 그래서 아이러니하게 도울 수 있는 사람이 되기 위해 실력을 쌓는 중입니다.
+평상시에는 공부한 내용을 정리하거나, 자료를 만들거나, 강의하는 프로세스를 반복하며 즐거운 날들은 보내고 있습니다.
 
 학부생 시작부터 알고리즘 대회를 준비했었고, 2019년부터 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
 Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(자료) 부문에서 상위 0.1%에 도달하였습니다.
+앞으로는 시각화와 글을 통해 더 좋은 세상을 만들고 싶습니다.
 
-AI에서는 Interpretable/Explainable AI 분야에 관심이 많고, 현재는 음성관련 딥러닝을 시작하는 단계입니다.
-앞으로 어떤 분야에서 Data를 다룰지는 매일같이 고민하고 있습니다. 
+그 외에도 AI에서는 Interpretable/Explainable AI 분야에 관심이 많고, 현재는 음성관련 딥러닝을 시작하는 단계입니다.
 
-디자인은 좋아합니다. Web에서는 UI/UX를, 행사에서는 간단한 디자인들을 하고 있습니다. 
-이렇게 쌓은 디자인 실력은 주로 Keynote와 PPT를 만드는데 쓰고 있습니다. 
-
-조만간 ML/AI도 멋진 강의 자료를 만들고 싶습니다. 이쁜 자료가 공부하기도 좋으니까요!! 
-2020년에는 책을 쓰는 것을 목표로 하고 있습니다. 책도 쓰고 강의도 하고 싶은게 너무 많네요!
+디자인은 좋아합니다. 특히 '색'을 좋아하여 Color Palette 등 색조합을 찾아보며 시간을 보내기도 합니다.
+데이터에서도 시각화를 하듯이 Web에서는 UI/UX를, 행사에서는 간단한 디자인들을 하고 있습니다. 
+이렇게 쌓은 디자인 실력으로 주로 Keynote와 PPT를 만드는데 쓰고 있습니다. '자료 정말 좋다', '자료가 진짜 이쁘다' 등의 칭찬을 좋아합니다 .
 
 강의나 발표를 좋아합니다. 제가 어울리는 곳이라면 불러주세요 :)
+
+**연락은 subinium@gmail.com**
 
 - [BOJ](https://www.acmicpc.net/user/subinium), [Codeforces](http://codeforces.com/profile/subinium)
 - [Kaggle](https://www.kaggle.com/subinium)
@@ -70,10 +70,10 @@ AI에서는 Interpretable/Explainable AI 분야에 관심이 많고, 현재는 �
 
 ## 발표
 
-- 2019 Global AI Boot Camp Busan : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019 | [info](https://festa.io/events/783)
-- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **알고리즘, 어떻게 공부할까?**, 2019 | [review](/meaningful-ps-algorithm-study/)
+- 2019 Global AI Boot Camp Busan : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019 ([info](https://festa.io/events/783))
+- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **알고리즘, 어떻게 공부할까?**, 2019 ([review](/meaningful-ps-algorithm-study/))
 - 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
-- 2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT) : **The Newbie Guide to Blogging & Visualization**, 2019 | [review](/2nd-dlcat-review/)
+- 2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT) : **The Newbie Guide to Blogging & Visualization**, 2019 ([review](/2nd-dlcat-review/))
 
 ## Activation / Project
 
