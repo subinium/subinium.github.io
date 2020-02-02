@@ -38,10 +38,11 @@ Kaggle은 Progression & Medal System과 순위로 사람들에게 동기부여�
 - *Competition, Dataset, Kernel, Discussion*
 - <em style='color:#5ac995'> Novice</em>  > <em style='color:#0bf'>Contributor</em>  > <em style='color:#95628f'>Expert</em> > <em style='color:#f96517'>Master</em> > <em style='color:#dca917'>Grandmaster</em>
 
- 각각의 단계는 메달에 따라 결정되는데 각 메달의 조건은 다음과 같습니다.
+각각의 단계는 메달에 따라 결정되는데 각 메달의 조건은 다음과 같습니다.
+
 
 <figure>
-    <img src = "https://i.imgur.com/mUyHb8P.png" height=350>
+    <img src = "https://i.imgur.com/mUyHb8P.png">
     <figcaption>앞 Level은 2개는 가입하고 정보만 채워도 됩니다.</figcaption>
 </figure>
 
@@ -60,7 +61,7 @@ Kaggle의 Kernel에는 여러가지 타입이 있습니다. 각자 조금씩 분
 
 ### Winner Solution & High Score
 
-<img src = "https://i.imgur.com/gZWQJQ2.png" height=200 />
+<img src = "https://i.imgur.com/gZWQJQ2.png"  >
 
 Kaggle에서 Solution 공유는 매우 많습니다. 이에 대한 유형은 2가지가 있습니다.
 
@@ -79,7 +80,7 @@ Kaggle에서 Solution 공유는 매우 많습니다. 이에 대한 유형은 2�
 
 ### Utils 
 
-<img src = "https://i.imgur.com/uRBESXI.png" height=200 />
+<img src = "https://i.imgur.com/uRBESXI.png"  >
 
 Utils는 포괄적인 내용입니다. **데이터 전처리/후처리와 중간 과정의 최적화**라고 표현할 수도 있을 것 같습니다.
 
@@ -91,11 +92,9 @@ Score를 매기는 metric 함수에 대한 최적화나 코드를 빠르게 돌�
 
 보통 대회 초/중반부에 많이 공유됩니다. 본인의 노력으로 충분히 구글링을 통해 만들 수 있고, 데이터 전처리나 최적화를 배울 수 있습니다.
 
-하지만 Kernel Grandmaster나 전문가들이 선수치는 경우가 많습니다.
-
 ### Pipeline
 
-<img src = "https://i.imgur.com/K8U0RBf.png" height=200>
+<img src = "https://i.imgur.com/K8U0RBf.png"  >
 
 특정 알고리즘에 대한 데이터셋 처리가 각각 다른 만큼 알고리즘 별로 Pipeline을 만들어 두면 좋습니다. 특정 알고리즘을 사용하고 싶은데 현재 데이터셋에 적용하는 방법을 몰라 고민하는 분들이 많기에 수요는 매우 많습니다.
 
@@ -107,7 +106,7 @@ Score를 매기는 metric 함수에 대한 최적화나 코드를 빠르게 돌�
 
 ### EDA & Visualization
 
-<img src = "https://i.imgur.com/YE13FsN.png" height=200>
+<img src = "https://i.imgur.com/YE13FsN.png"  >
 
 
 EDA(Explotary Data Analysis)는 **탐색적 데이터 분석** 라고하여 데이터에 대한 전체적인 분석을 통해 **데이터에 대한 전체적인 이해와 인사이트**를 찾는 과정입니다.
@@ -129,7 +128,7 @@ EDA는 초반이 중요하고, 시각화는 시간과 상관없이 잘만들면 
 
 ### Tutorial & Library & Algorithm
 
-<img src = "https://i.imgur.com/vslgKMm.png" height=200>
+<img src = "https://i.imgur.com/vslgKMm.png"  >
 
 튜토리얼은 많은 분들이 아는 Tutorial입니다.
 
@@ -149,7 +148,7 @@ EDA는 초반이 중요하고, 시각화는 시간과 상관없이 잘만들면 
 
 ### Meaningful
 
-<img src = "https://i.imgur.com/vrk74uW.png" height=200>
+<img src = "https://i.imgur.com/vrk74uW.png"  >
 
 
 특정 데이터셋을 올린 분들이나, 최근에 트렌드가 되는 내용을 Storytelling한 예시들입니다.
@@ -160,7 +159,7 @@ EDA는 초반이 중요하고, 시각화는 시간과 상관없이 잘만들면 
 
 ### Starter Code
 
-<img src = "https://i.imgur.com/rxQ99IZ.png" height=200>
+<img src = "https://i.imgur.com/rxQ99IZ.png"  > 
 
 내가 아직 Kaggle에 입문한지 얼마 되지 않은 분들에게 메달을 딸 수 있는 방법은 **My First Kernel!!** 등의 첫 커널을 만드는 것입니다. 보통 Titanic 또는 House Price에서 많이 보이는 사례입니다.
 
