@@ -282,3 +282,9 @@ Kaggle은 꼭 Competition만을 위한 공간이 아닙니다. 제가 Kaggle Ker
 본인이 생각하는 중요한 가치를 Kaggle에서 얻을 수 있기를 바랍니다.
 
 긴 글 읽어주셔서 감사합니다.
+
+---
+
+Kaggle을 위해 데이터 시각화를 공부하며 Data Visualization KR 커뮤니티를 만들었습니다. 많은 분들이 함께하면 좋겠습니다 :)
+
+- [Data Visualization KR](https://web.facebook.com/groups/2542191496047967/)
