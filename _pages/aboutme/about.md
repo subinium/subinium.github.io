@@ -63,9 +63,9 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 
 ## Lecture 
 
-- **Fast Campus** : [웹 프로그래밍 SCHOOL 12기](https://www.fastcampus.co.kr/dev_online_algo/) 자료구조/알고리즘 **강사**, 2020
-- **T아카데미 캠퍼스 강의** : [69차 | 기초 알고리즘과 코딩 입문](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2020
-- **T아카데미 캠퍼스 강의** : [65차 | 비전공자를 위한 Git과 Github 페이지 만들기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2019
+- **Fast Campus** : 웹 프로그래밍 SCHOOL 12기 자료구조/알고리즘 **강사**, 2020
+- **T아카데미 캠퍼스 강의** : [69차 기초 알고리즘과 코딩 입문](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2020
+- **T아카데미 캠퍼스 강의** : [65차 비전공자를 위한 Git과 Github 페이지 만들기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2019
 - **Fast Campus** : [알고리즘 / 기술면접 올인원 패키지 Online. : 실전 코딩테스트 대비 문제 풀이](https://www.fastcampus.co.kr/dev_online_algo/) **강사**, 2019
 
 * 학과 알고리즘 동아리 AlKor 알고리즘 문제 풀이 **강의 및 스터디 진행**, 2016~2018
