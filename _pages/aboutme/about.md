@@ -16,16 +16,15 @@ header:
 평상시에는 공부한 내용을 정리하거나, 자료를 만들거나, 강의하는 프로세스를 반복하며 즐거운 날들은 보내고 있습니다.
 
 학부생 시작부터 알고리즘 대회를 준비했었고, 2019년부터 보다 멋진 세계를 만들고자는 목표로 AI를 공부하고 있습니다.
-Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(자료) 부문에서 상위 0.1%와 **국내 2호 Master**에 도달하였습니다.
-앞으로는 시각화/글을 통해 더 많은 사람들을 돕고 싶습니다!
+Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(자료) 부문에서 상위 0.1%와 **국내 2호 Master**에 도달하였습니다. 시각화로는 책 준비 중이니 기대 부탁 드립니다 :)
 
-그 외에도 AI에서는 Interpretable/Explainable AI 분야에 관심이 많고, 현재는 음성관련 딥러닝을 시작하는 단계입니다.
+그 외에도 AI에서는 Interpretable/Explainable AI 분야에 관심이 많고, 현재는 음성관련 딥러닝을 공부하고 있습니다.
+딥러닝 중에서는 Style Transfer, GAN 등 Generate Model을 좋아합니다.
 
 디자인은 좋아합니다. 특히 '색'을 좋아하여 Color Palette 등 색조합을 찾아보며 시간을 보내기도 합니다.
-데이터에서도 시각화를 하듯이 Web에서는 UI/UX를, 행사에서는 간단한 디자인들을 하고 있습니다. 
+데이터에서도 시각화를 하듯이 Web에서는 UI/UX를, 행사에서는 간단한 디자인들을 하고 있습니다.
 이렇게 쌓은 디자인 실력으로 주로 Keynote와 PPT를 만드는데 쓰고 있습니다. '자료 정말 좋다', '자료가 진짜 이쁘다' 등의 칭찬을 좋아합니다 .
 2020에는 책을 쓰는 것을 목표로 하고 있습니다.
-
 
 강의나 발표를 좋아합니다. 제가 어울리는 곳이라면 불러주세요 :)
 
@@ -39,7 +38,7 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 
 ## Experience
 
-- **카카오 엔터프라이즈 음성처리파트 인턴**, 2020.1 ~
+- **카카오 엔터프라이즈, 음성처리파트 리서치 엔지니어 인턴**, 2020.1 ~
 
 ## Education
 
@@ -64,8 +63,9 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 
 ## Lecture 
 
-- **T아카데미 캠퍼스 강의** : 69차 [기초 알고리즘과 코딩 입문](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2020
-- **T아카데미 캠퍼스 강의** : 65차 [비전공자를 위한 Git과 Github 페이지 만들기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2019
+- **Fast Campus** : [웹 프로그래밍 SCHOOL 12기](https://www.fastcampus.co.kr/dev_online_algo/) 자료구조/알고리즘 **강사**, 2020
+- **T아카데미 캠퍼스 강의** : [69차 | 기초 알고리즘과 코딩 입문](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2020
+- **T아카데미 캠퍼스 강의** : [65차 | 비전공자를 위한 Git과 Github 페이지 만들기](https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action) **강사**, 2019
 - **Fast Campus** : [알고리즘 / 기술면접 올인원 패키지 Online. : 실전 코딩테스트 대비 문제 풀이](https://www.fastcampus.co.kr/dev_online_algo/) **강사**, 2019
 
 * 학과 알고리즘 동아리 AlKor 알고리즘 문제 풀이 **강의 및 스터디 진행**, 2016~2018
@@ -97,10 +97,10 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
   - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **운영, 디자인**, 2019
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor, **부회장** (2017), **회장** (2018)
-  - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제 및 검수**, 2017
-  - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **[출제 및 검수, 디자인, 운영](https://subinium.github.io/sgh/)**, 2018
-  - [2018 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://www.facebook.com/2018KCPC/) **출제 및 검수, 디자인, 운영**, 2018
-  - [2019 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://kcpc19.contest.codeforces.com/) **출제 및 검수, [디자인](https://www.facebook.com/shovelingdesignoper/posts/1474006526071268), 운영**, 2019
+  - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제**, 2017
+  - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **[출제, 디자인, 운영](https://subinium.github.io/sgh/)**, 2018
+  - [2018 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://www.facebook.com/2018KCPC/) **출제, 디자인, 운영**, 2018
+  - [2019 KCPC(고려대학교 교내 프로그래밍 경시대회)](https://kcpc19.contest.codeforces.com/) **출제, [디자인](https://www.facebook.com/shovelingdesignoper/posts/1474006526071268), 운영**, 2019
 
 - International Olympiad in Informatics (IOI) Training Winter Camp in Korea, **조교**, 2018
 - ACM-ICPC Asia Daejeon Regional Contest, **Staff**, 2017
@@ -113,14 +113,14 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 
 ### Community
 
-- [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) **운영진**, 2019~ (7000+)
-- [Data Visualization KR](https://www.facebook.com/groups/2542191496047967/) **개설 및 운영**, 2020~ (150+)
+- [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) **운영진**, 2019~ (7500+)
+- [Data Visualization KR](https://www.facebook.com/groups/2542191496047967/) **개설 및 운영**, 2020~ (200+)
 
 ---
 
-- **[AI]** : **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 페이지 운영 (2550+)
+- **[AI]** : **[A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)** 페이지 운영 (2600+)
 - **[Algorithm]** : **[알고리즘을 고통받는 취준생을 위한 안내서](https://www.facebook.com/algoguide/?modal=admin_todo_tour)** 페이지 운영 (**[Notion](https://www.notion.so/subinium/4e7f47700af341f4b649e4cad0c4fb30?fbclid=IwAR2EmLpbL2ACW9zgQhpfox56IPue7qEWF4AgnqgJ-A0IMJiYGWHkecFJmhw)**) (1350+)
-- **[Develope+Design]** : **[삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour)** 페이지 운영 (350+)
+- **[Develope+Design]** : **[삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour)** 페이지 운영 (400+)
 
 
 ## Press
