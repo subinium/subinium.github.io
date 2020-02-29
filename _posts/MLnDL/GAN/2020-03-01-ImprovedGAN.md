@@ -74,7 +74,9 @@ Minibatch Discriminator를 사용하면 시각적으로 매력있는 샘플을 f
 
 ### 2.3 Historical averaging
 
-dicrimnator와 generator의 손실함수 모두에 $| |\theta - \frac{1}{t} \sum^t_{i=1} \theta[i] | |^2$를 추가합니다. 
+dicrimnator와 generator의 손실함수 모두에 다음을 추가합니다.
+
+$$||\theta - \frac{1}{t} \sum^t_{i=1} \theta[i] ||^2$$
 
 $\theta$는 모델 파라미터를 나타내고, $\theta[i]$는 $i$번째 학습 과정에서의 파라미터를 의미합니다.
 
