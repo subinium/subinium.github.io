@@ -107,7 +107,7 @@ Score를 매기는 metric 함수에 대한 최적화나 코드를 빠르게 돌�
 ![](https://i.imgur.com/YE13FsN.png){:height="64px" width="64px"}
 
 
-EDA(Explotary Data Analysis)는 **탐색적 데이터 분석** 라고하여 데이터에 대한 전체적인 분석을 통해 **데이터에 대한 전체적인 이해와 인사이트**를 찾는 과정입니다.
+EDA(Exploratary Data Analysis)는 **탐색적 데이터 분석** 라고하여 데이터에 대한 전체적인 분석을 통해 **데이터에 대한 전체적인 이해와 인사이트**를 찾는 과정입니다.
 
 초반 Speed가 중요하고, 시각화 스킬이 필요합니다. 초기 선점이 중요한 이유는 EDA는 보통 처음에 잘만든 선두주자가 Upvote를 모두 얻고, 그 커널을 수정해가며 점점 키워 나중에는 Winner Takes All의 모습을 띄게 됩니다.
 
