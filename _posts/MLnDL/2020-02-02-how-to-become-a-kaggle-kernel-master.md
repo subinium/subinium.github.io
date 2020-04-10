@@ -10,6 +10,7 @@ tag :
   - expert
   - master
   - grandmaster
+  - 커널 마스터
 sidebar_main : true
 author_profile : true
 use_math : true

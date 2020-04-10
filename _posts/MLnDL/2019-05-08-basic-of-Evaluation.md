@@ -12,6 +12,10 @@ tag :
   - recall
   - f1
   - roc auc
+  - 측정법
+  - 척도
+  - 재현율
+  - 정확도
 sidebar_main : true
 author_profile : true
 use_math : true

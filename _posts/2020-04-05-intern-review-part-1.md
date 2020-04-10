@@ -6,6 +6,9 @@ tag :
   - me
   - diary
   - subinium
+  - 카카오 엔터프라이즈
+  - 인턴
+  - 딥러닝
 author_profile : true
 header:
   overlay_image : https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80

@@ -6,6 +6,7 @@ tag :
   - virtualenv
   - python
   - library
+  - 파이썬 가상환경
 sidebar_main : true
 header:
   teaser : /assets/images/category/devel.jpg

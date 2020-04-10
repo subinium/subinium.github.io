@@ -5,6 +5,8 @@ category :
 tag :
   - data
   - size
+  - 머신러닝
+  - 데이터
 sidebar_main : true
 author_profile : true
 use_math : true

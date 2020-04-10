@@ -6,6 +6,10 @@ tag :
   - kakao
   - coding test
   - recruitment
+  - 코딩테스트
+  - 후기
+  - 결과
+  - 카카오 블라인드
 author_profile: true
 sidebar_main : true
 use_math : true

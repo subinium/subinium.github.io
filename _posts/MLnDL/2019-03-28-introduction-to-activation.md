@@ -1,15 +1,14 @@
 ---
-title : Introduction to Activation Function
+title : "Introduction to Activation Function"
 
 category :
   - ML
 tag :
-  - UI/UX
-  - custumize
-  - jupyter
-  - notebook
-  - python
-  - ppt
+  - 활성화 함수
+  - activation function
+  - graph
+  - ReLU
+  - LeakyReLU
 sidebar_main : true
 author_profile : true
 use_math : true

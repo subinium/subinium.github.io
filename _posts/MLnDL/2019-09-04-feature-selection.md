@@ -7,6 +7,8 @@ tag :
   - Wrapper
   - Filter
   - Embedded
+  - 피처 선택
+  - 피처 셀렉션
 sidebar_main : true
 author_profile : true
 use_math : true

@@ -6,6 +6,9 @@ tag :
   - Missing Data
   - imputation
   - Deletion
+  - 손실값
+  - 누락값
+  - 핸들링
 sidebar_main : true
 author_profile : true
 use_math : true

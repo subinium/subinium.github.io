@@ -11,6 +11,7 @@ tag :
   - layer normalization
   - instance normalization
   - pros and cons
+  - 정규화
 sidebar_main : true
 author_profile : true
 use_math : true

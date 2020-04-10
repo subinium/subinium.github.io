@@ -6,6 +6,10 @@ tag :
   - data
   - data scale
   - basic
+  - 명목
+  - 서열
+  - 등간
+  - 비율
 sidebar_main : true
 author_profile : true
 use_math : true
