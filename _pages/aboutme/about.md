@@ -13,18 +13,18 @@ header:
 세상을 바꾸는 기술을 꿈꾸는 개발자 **안수빈(@subinium)**입니다. 
 
 학부생 시작에는 알고리즘 대회를 준비했었고, 2019년 초부터 기술로 사회에 기여하자는 새로운 목표로 AI를 공부하고 있습니다.
-AI에서도 다양한 분야에 관심을 가지다 최근에는 Audio분야를 리서치하고 있습니다. 
+AI에서도 다양한 분야에 관심을 가지다 최근에는 카카오 엔터프라이즈에서 Audio분야를 연구하고 있습니다. 
 
 구체적으로는 VAE, GAN 등 Representation Learning과 Generative Model에 초점을 두고 프로젝트를 진행하고 있습니다.
-언젠가는 XAI(Explainable AI)를 이룰 수 있지 않을까라는 기대를 합니다. 그러다 노후에는 자비스 만들고 개발자 은퇴하고 싶네요ㅎㅎ
+언젠가는 XAI(Explainable AI)를 이룰 수 있지 않을까라는 기대를 합니다. 그러다 노후에는 자비스 만들고 개발자 은퇴하고 싶네요 :)
 
-Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(자료) 부문에서 상위 0.1%와 **국내 2호 Master**에 도달하였습니다. (그리고 현재는 국내에서 1위!!) 관련으로 책을 집필 중이니 기대 부탁 드립니다 :)
+Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(자료) 부문에서 상위 0.1%와 **국내 2호 Master**에 도달하였습니다. (국내 1위) 관련으로 책을 집필 중이니 기대 부탁 드립니다! (+ 그 외에도 책들을 쓰고 있습니다. 차차 공개 예정!!)
 
 데이터에서 시각화를 하듯이 Web에서는 UI/UX를, 행사에서는 간단한 디자인들도 하고 있습니다.
-이렇게 쌓은 디자인 실력과 부족한 글솜씨로 주로 Keynote와 PPT를 만드는데 쓰고 있습니다. *'자료가 도움이 되었다', '자료가 진짜 이쁘다'* 등의 칭찬을 좋아합니다.
+이렇게 쌓은 디자인 실력과 부족한 글솜씨로 주로 Keynote와 PPT를 만듭니다. *'자료가 도움이 되었다', '자료가 진짜 이쁘다'* 등의 칭찬을 좋아합니다.
 
 온라인에서 공유하는 것도 좋아하지만, 강의나 발표, 행사들도 좋아합니다. 
-제가 어울리는 곳이라면 불러주세요 :) *(알고리즘, 데이터시각화, 딥러닝, 개발문화)*
+제가 어울리는 곳이라면 불러주세요 :) 
 
 **연락은 subinium@gmail.com**
 
@@ -37,11 +37,13 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 
 ## Experience
 
-- **카카오 엔터프라이즈, 음성처리파트 리서치 엔지니어 인턴**, 2020.1 ~
+- **카카오 엔터프라이즈 음성처리파트 리서치 엔지니어 인턴**, 2020.1 ~
 
 ## Education
 
-- **고려대학교 정보보호학부 사이버국방학과, 융합보안융합전공** 2016 ~ 2020
+- **고려대학교 정보보호학부 사이버국방학과** 2016 ~ 2020
+  - 제 1전공 : 사이버국방학과
+  - 제 2전공 : 연계보안연계전공
 - **서울과학고등학교**, 2013 ~ 2016
 - **포항제철중학교**, 2010 ~ 2013
 
@@ -53,7 +55,7 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 
 - 2019 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
 - 2018 ACM-ICPC Asia Hanoi Regional Contest **14th** place (GoInMulDaeGoSipDa)
-- 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, GoInMulDaeGoSipDa)
+- 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, 한국정보과학회장상, GoInMulDaeGoSipDa)
 - 2018 TCO(TopCoder Open) **Top 300** (winning T-shirt)
 - 2018 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **21th** place (해킹의반대말은달퀸)
 - 2018 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
@@ -91,7 +93,7 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 ### Algorithm
 
 - Site
-  - [Baeckjoon Online Judge](https://www.acmicpc.net/user/subinium) : 3000+문제 해결, 사이트 순위 15위
+  - [Baeckjoon Online Judge](https://www.acmicpc.net/user/subinium) : 3000+문제 해결, 사이트 순위 15위 (최고 12위)
   - [CodeForces](http://codeforces.com/profile/subinium) : <b style='color:purple'>candidate master </b>
 
 - 전국 대학생 프로그래밍 대회 동아리 연합 ([link](https://www.facebook.com/groups/ucpc.korea/)), **회장**, 2019~
@@ -129,12 +131,3 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 - [“제 수학 선생님은 유클리드… 가우스…”](http://news.donga.com/3/all/20090608/8741496/1), 2009
 - [공부가 즐겁다! 수학 완전정복 프로젝트](http://woman.donga.com/3/all/12/142535/1), 2010
 - [[내 생각은]열아홉 살 고등학생이 지구 위해 할 수 있는 일](http://www.donga.com/news/article/all/20150416/70732170/1), 2015
-
-## Contact
-
-- Email
-
-  - me@ansubin.com
-  - subinium@gmail.com
-
-- Facebook : [안수빈](https://www.facebook.com/subinium)
