@@ -1,11 +1,12 @@
 ---
-title : "How to Become a Kaggle Kernel Master?"
+title : "How to Become a Kaggle Kernel(Notebooks) Master?"
 category :
   - ML
 tag :
   - kaggle
   - 캐글
   - Kernel
+  - Notebooks
   - 커널
   - expert
   - master
@@ -27,6 +28,7 @@ Kaggle은 분야별로 메달과 등급이 있고, 대회가 아닌 코드 부�
 그리고 2020/01/30 에 Kaggle Kernel Master를 달성하였습니다!!
 아마 Kernel분야에서 Master는 한국에서 2번째인것 같습니다. 그 기념으로 Kaggle Kernel Master가 되는 팁을 소개합니다.
 
+> 최근 Kernel Master 명칭이 Notebooks Master로 변경되었습니다. 참고 부탁드립니다.
 
 ## Kaggle의 Progression & Medal System
 
