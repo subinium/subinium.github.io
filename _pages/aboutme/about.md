@@ -18,7 +18,7 @@ AI에서도 다양한 분야에 관심을 가지다 최근에는 카카오 엔�
 구체적으로는 VAE, GAN 등 Representation Learning과 Generative Model에 초점을 두고 프로젝트를 진행하고 있습니다.
 언젠가는 XAI(Explainable AI)를 이룰 수 있지 않을까라는 기대를 합니다. 그러다 노후에는 자비스 만들고 개발자 은퇴하고 싶네요 :)
 
-Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(자료) 부문에서 상위 0.1%와 **국내 2호 Master**에 도달하였습니다. (국내 1위) 관련으로 책을 집필 중이니 기대 부탁 드립니다! (+ 그 외에도 책들을 쓰고 있습니다. 차차 공개 예정!!)
+Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로젝트를 만들어 캐글에 공유하고 있고, 현재 커널(노트북) 부문에서 상위 0.1%와 **국내 2호 Master**에 도달하였습니다. (국내 1위) 관련으로 책을 집필 중이니 기대 부탁 드립니다! (+ 그 외에도 책들을 쓰고 있습니다. 차차 공개 예정!!)
 
 데이터에서 시각화를 하듯이 Web에서는 UI/UX를, 행사에서는 간단한 디자인들도 하고 있습니다.
 이렇게 쌓은 디자인 실력과 부족한 글솜씨로 주로 Keynote와 PPT를 만듭니다. *'자료가 도움이 되었다', '자료가 진짜 이쁘다'* 등의 칭찬을 좋아합니다.
@@ -111,7 +111,7 @@ Data Visualization 등 데이터 분석을 좋아하여 여러 시각화 프로�
 ### AI / ML
 
 - [Kaggle](https://www.kaggle.com/subinium)
-  - <b style='color:orange'>Notebook Master</b>
+  - <b style='color:orange'>Notebooks Master</b>
   - <b style='color:purple'>Discussion Expert</b>
 
 ### Community
