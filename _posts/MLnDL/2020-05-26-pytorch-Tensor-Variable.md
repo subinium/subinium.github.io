@@ -112,7 +112,7 @@ y = x.to(device. dtype=torch.float64)
 - 자료형은 `.half()`, `.float()`, `.double()`로 변경할 수 있습니다.
 - `torch.new_tensor`로 다른 정보를 유지하면서 새로운 `Tensor`를 만들 수도 있습니다.
 
-### 메서드 with underbar(\_)
+### 메서드 with underbar
 
 언더바(`_`) 하나 차이인 `torch.FloatTensor.abs_()`가 있으면 `torch.FloatTensor.abs()`가 있습니다.
 
