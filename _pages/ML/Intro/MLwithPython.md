@@ -15,7 +15,7 @@ header:
 [온라인 문서 - 한글](http://fliphtml5.com/hkuy/bdgq/basic)이 공개되어 있습니다.
 모든 소스 코드는 [역자의 깃허브](https://github.com/rickiepark/introduction_to_ml_with_python)에서 내려받을 수 있습니다.
 
-목차는 다음과 같습니다.
+목차는 다음과 같습니다. (본 내용은 **2-1**~**4-4**까지만 기록되어 있습니다.)
 
 - ~~CHAPTER 1 소개~~
 - **CHAPTER 2 지도 학습**

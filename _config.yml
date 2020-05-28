@@ -204,7 +204,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+#  - jemoji
   - jekyll-mermaid
 
 # mimic GitHub Pages with --safe
@@ -213,7 +213,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
+#  - jemoji
   - jekyll-mermaid
 
 # Archives
