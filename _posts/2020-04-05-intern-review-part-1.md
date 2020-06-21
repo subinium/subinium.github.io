@@ -1,5 +1,5 @@
 ---
-title : "개발자로 성장하기 [인턴3개월 편]"
+title : "개발자로 성장하기 [인턴3개월편]"
 category :
   - subinium
 tag :

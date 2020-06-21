@@ -1,5 +1,5 @@
 ---
-title : "Pytorch의 DataLoader parameter별 용도"
+title : "[Pytorch] DataLoader parameter별 용도"
 category :
   - ML
 tag :
