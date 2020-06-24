@@ -12,16 +12,14 @@ header:
 
 꿈꾸는 개발자 **안수빈(@subinium)**입니다.
 
-호기심을 시작으로 학부 3년간 알고리즘 대회를 준비했고, 이를 베이스로 2019년부터 AI와 개발의 세계에서 새로운 꿈들을 안고 나아가고 있습니다. 
-
+호기심을 시작으로 학부 3년간 알고리즘 대회를 준비했고, 이를 베이스로 2019년부터 AI와 개발의 세계에서 새로운 꿈들을 안고 나아가고 있습니다.
 언젠가는 XAI(Explainable AI)를 이룰 수 있지 않을까라는 기대를 합니다. 자비스(J.A.R.V.I.S.)를 목표로 열심히 달려봅시다!!
 
-**연락은 subinium@gmail.com**
+**연락은 subinium@gmail.com** 으로 부탁드립니다.
 
 - [Github](https://github.com/subinium)
 - [LinkedIn](https://www.linkedin.com/in/subin-an-841975110/)
 - [SlideShare](https://www.slideshare.net/SubinAn1)
-- [Kaggle](https://www.kaggle.com/subinium)
 
 ## Current Interest
 
@@ -41,11 +39,11 @@ header:
 
 ## Education
 
-- **고려대학교 정보보호학부 사이버국방학과**, 2016 ~ 2020
+- **고려대학교 정보보호학부 사이버국방학과** 졸업, 2016.02 ~ 2020.02
   - 제 1전공 : 사이버국방학과
   - 제 2전공 : 융합보안융합전공
-- **서울과학고등학교**, 2013 ~ 2016
-- **포항제철중학교**, 2010 ~ 2013
+- **서울과학고등학교** 졸업, 2013 ~ 2016
+- **포항제철중학교** 졸업, 2010 ~ 2013
 
 * 포스텍 영재기업인교육원 3기, 2012 ~ 2013
 * 중등수학, 경북과학고등학교 영재교육원, 2011 ~ 2012
@@ -53,14 +51,15 @@ header:
 
 ## Awards
 
-- 2019 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
-- 2018 ACM-ICPC Asia Hanoi Regional Contest **14th** place (GoInMulDaeGoSipDa)
-- 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, 한국정보과학회장상, GoInMulDaeGoSipDa)
-- 2018 TCO(TopCoder Open) **Top 300** (winning T-shirt)
-- 2018 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **21th** place (해킹의반대말은달퀸)
-- 2018 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
-- 2016 ACM-ICPC Asia Daejeon Regional Contest **10th** place (AC_FROM_ZZAM)
-- 2016 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **26th** place (WellMadeSubinium)
+- Algorithm
+  - 2019 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
+  - 2018 ACM-ICPC Asia Hanoi Regional Contest **14th** place (GoInMulDaeGoSipDa)
+  - 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, 한국정보과학회장상, GoInMulDaeGoSipDa)
+  - 2018 TCO(TopCoder Open) **Top 300** (winning T-shirt)
+  - 2018 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **21th** place (해킹의반대말은달퀸)
+  - 2018 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
+  - 2016 ACM-ICPC Asia Daejeon Regional Contest **10th** place (AC_FROM_ZZAM)
+  - 2016 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **26th** place (WellMadeSubinium)
 
 ## Lecture
 
@@ -77,10 +76,13 @@ header:
 
 ## Keynote
 
-- [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019
-- 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **알고리즘, 어떻게 공부할까?**, 2019 [(review)](/meaningful-ps-algorithm-study/)
-- 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
-- [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together/) : **The Newbie Guide to Blogging & Visualization**, 2019 [(review)](/2nd-dlcat-review/)
+- Data Visualization
+  - [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019
+- Algorithm
+  - 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **알고리즘, 어떻게 공부할까?**, 2019 [(review)](/meaningful-ps-algorithm-study/)
+- Blog
+  - 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
+  - [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together/) : **The Newbie Guide to Blogging & Visualization**, 2019 [(review)](/2nd-dlcat-review/)
 
 ## Activation / Project
 
@@ -99,10 +101,10 @@ header:
 ### Algorithm (Problem Solving)
 
 - 전국 대학생 프로그래밍 대회 동아리 연합 ([link](https://www.facebook.com/groups/ucpc.korea/)), **회장**, 2019.4~2020.4
-  - [전대프연 여름대회 UCPC 2019](https://ucpc-kr.github.io/) **주최, 운영, 디자인**, 2019 [(review)](https://subinium.github.io/UCPC-2019-review/)
+  - [전대프연 여름대회 UCPC 2019](https://github.com/ucpcc/ucpc2019-site/blob/master/01-about.md) **주최, 운영, 디자인**, 2019 [(review)](https://subinium.github.io/UCPC-2019-review/)
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor, **부회장** (2017), **회장** (2018)
-  - [2019 KCPC 고려대학교 교내 프로그래밍 경시대회](https://kcpc19.contest.codeforces.com/) **출제, [디자인](https://www.facebook.com/shovelingdesignoper/posts/1474006526071268), 운영**, 2019
+  - [2019 KCPC 고려대학교 교내 프로그래밍 경시대회](https://kcpc19.contest.codeforces.com/) **출제, 디자인, 운영**, 2019
   - [2018 KCPC 고려대학교 교내 프로그래밍 경시대회](https://www.facebook.com/2018KCPC/) **출제, 디자인, 운영**, 2018
   - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **출제, 디자인, 운영**, 2018 [(review)](https://subinium.github.io/sgh/)
   - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제**, 2017
@@ -110,8 +112,8 @@ header:
 - International Olympiad in Informatics (IOI) Training Winter Camp in Korea, **Teaching Assistant**, 2018
   
 - Site
-  - [Baeckjoon Online Judge](https://www.acmicpc.net/user/subinium) : 3000+문제 해결, 사이트 순위 15위 (최고 12위)
-  - [CodeForces](http://codeforces.com/profile/subinium) : <b style='color:purple'>candidate master </b>
+  - [Baeckjoon Online Judge](https://www.acmicpc.net/user/subinium) : 3000+문제 해결, 최고 12위
+  - [CodeForces](http://codeforces.com/profile/subinium) : <b style='color:purple'>candidate master</b>
 
 
 
