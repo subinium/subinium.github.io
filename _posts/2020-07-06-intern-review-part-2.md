@@ -1,5 +1,5 @@
 ---
-title : "개발자로 성장하기 [첫 인턴을 마치며]"
+title : "[개발자로 성장하기] 첫 인턴을 마치며"
 category :
   - subinium
 tag :
