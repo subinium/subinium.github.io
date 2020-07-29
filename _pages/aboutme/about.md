@@ -12,7 +12,7 @@ header:
 
 꿈꾸는 개발자 **안수빈(@subinium)**입니다.
 
-호기심을 시작으로 학부 3년간 알고리즘 대회를 준비했고, 이를 베이스로 2019년부터 AI와 개발의 세계에서 새로운 꿈들을 안고 나아가고 있습니다.
+학부 3년간 알고리즘 대회를 준비했고, 이를 기반으로 2019년부터 AI와 개발의 세계에서 새로운 꿈들을 안고 나아가고 있습니다.
 언젠가는 XAI(Explainable AI)를 이룰 수 있지 않을까라는 기대를 합니다. 자비스(J.A.R.V.I.S.)를 목표로 열심히 달려봅시다!!
 
 **연락은 subinium@gmail.com** 으로 부탁드립니다.
@@ -24,18 +24,24 @@ header:
 ## Current Interest
 
 - **Deep Learning**
+
   - `Explainable/Interpretable AI`
   - `Representation Learning`
+  - `Manifold Learning`
   - `Generative Model`
+
 - **Human-Computer Interaction**
   - `Data Visualization`
   - `UI/UX`
-  - `Design`
+  - `Color theory`
 
 ## Experience
 
-- **Kakao Enterprise AI기술팀/음성처리파트** 인턴, 2020.1 ~
+- **Kakao Enterprise / AI R&D / Audio Processing Part** Intern, 2020.1 ~ 2020.07
+
   - Voice Synthesis / Voice Conversion
+
+- **Seoul National Univ. / Human Computer Interaction LAB** Intern, 2020.08 ~
 
 ## Education
 
@@ -61,12 +67,16 @@ header:
   - 2016 ACM-ICPC Asia Daejeon Regional Contest **10th** place (AC_FROM_ZZAM)
   - 2016 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **26th** place (WellMadeSubinium)
 
+## Publications
+
+- **_(TBD)_**
+
 ## Lecture
 
-- **Fast Campus** 
+- **Fast Campus**
   - 웹 프로그래밍 SCHOOL 12기 자료구조/알고리즘 **강사**, 2020
   - 알고리즘 / 기술면접 올인원 패키지 Online. : 실전 코딩테스트 대비 문제 풀이 **강사**, 2019
-- **T아카데미 캠퍼스 강의** 
+- **T아카데미 캠퍼스 강의**
   - 69차 기초 알고리즘과 코딩 입문 **강사**, 2020
   - 65차 비전공자를 위한 Git과 Github 페이지 만들기 **강사**, 2019
 - ETC
@@ -101,32 +111,33 @@ header:
 ### Algorithm (Problem Solving)
 
 - 전국 대학생 프로그래밍 대회 동아리 연합 ([link](https://www.facebook.com/groups/ucpc.korea/)), **회장**, 2019.4~2020.4
+
   - [전대프연 여름대회 UCPC 2019](https://github.com/ucpcc/ucpc2019-site/blob/master/01-about.md) **주최, 운영, 디자인**, 2019 [(review)](https://subinium.github.io/UCPC-2019-review/)
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor, **부회장** (2017), **회장** (2018)
+
   - [2019 KCPC 고려대학교 교내 프로그래밍 경시대회](https://kcpc19.contest.codeforces.com/) **출제, 디자인, 운영**, 2019
   - [2018 KCPC 고려대학교 교내 프로그래밍 경시대회](https://www.facebook.com/2018KCPC/) **출제, 디자인, 운영**, 2018
   - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **출제, 디자인, 운영**, 2018 [(review)](https://subinium.github.io/sgh/)
   - 고숙한(고려대, 숙명여대, 한양대) 알고리즘 연합캠프 내부 대회 **출제**, 2017
 
 - International Olympiad in Informatics (IOI) Training Winter Camp in Korea, **Teaching Assistant**, 2018
-  
+
 - Site
-  - [Baeckjoon Online Judge](https://www.acmicpc.net/user/subinium) : 3000+문제 해결, 최고 12위
+  - [Baeckjoon Online Judge](https://www.acmicpc.net/user/subinium) : 3000+문제 해결, 최고 순위 12위
   - [CodeForces](http://codeforces.com/profile/subinium) : <b style='color:purple'>candidate master</b>
-
-
 
 ### Community
 
 - Facebook Page
+
   - [A.I. Lookbook](https://www.facebook.com/AI.Lookbook/) 운영 (2800+)
   - [알고리즘을 고통받는 취준생을 위한 안내서](https://www.facebook.com/algoguide/?modal=admin_todo_tour) 운영 (1500+)
   - [삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour) 운영 (500+)
 
 - Facebook Community
   - [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) **운영진**, 2019~
-  - [Data Visualization KR](https://www.facebook.com/groups/2542191496047967/) **개설**, 2020~ 
+  - [Data Visualization KR](https://www.facebook.com/groups/2542191496047967/) **개설 및 운영**, 2020~
 
 ## Press
 
