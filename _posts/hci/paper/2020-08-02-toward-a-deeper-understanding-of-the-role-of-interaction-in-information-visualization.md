@@ -14,7 +14,7 @@ header:
 
 InfoViz에서 Interaction의 종류 7가지
 
-[Toward a Deeper Understanding of the Role of Interaction in Information Visualization(2007)](https://www.cc.gatech.edu/~stasko/papers/infovis07-interaction.pdf) 논문에서 언급한 Information Visualization에서 7가지 Interaction에 대해 가볍게 정리해보았습니다.
+[Toward a Deeper Understanding of the Role of Interaction in Information Visualization(5007)](https://www.cc.gatech.edu/~stasko/papers/infovis07-interaction.pdf) 논문에서 언급한 Information Visualization에서 7가지 Interaction에 대해 가볍게 정리해보았습니다.
 
 - **Select**: mark something as interesting
 - **Explore**: show me something else
@@ -26,7 +26,7 @@ InfoViz에서 Interaction의 종류 7가지
 
 ## 1. Select : mark somting as interesting
 
-![figure 1](https://i.imgur.com/rgokBCw.png){:width="200px"}
+![figure 1](https://i.imgur.com/rgokBCw.png){:width="500px"}
 
 **_Select_** 는 관심이 있는 데이터(아이템)을 표시하여 추적하는 기법입니다.
 한 번에 파악하기 어려운 많은 데이터에서 보고 싶은 데이터를 쉽게 추적할 수 있습니다.
@@ -61,7 +61,7 @@ Panning이란 카메라가 정지 된 상태에서 장면 또는 장면 이동�
 
 > 이건 개인적으로 미니맵 등을 떠올리면 쉬울 것 같습니다.
 
-![figure 2](https://i.imgur.com/9FKCouR.png){:width="200px"}
+![figure 2](https://i.imgur.com/9FKCouR.png){:width="500px"}
 
 ## 3. Reconfigure : show me a different arrangement
 
@@ -72,14 +72,14 @@ Panning이란 카메라가 정지 된 상태에서 장면 또는 장면 이동�
 
 그렇기에 Reconfigure는 데이터를 여러가지 방법으로 정렬하며 특징을 찾기 위해 노력합니다.
 
-![figure 3 & 4](https://i.imgur.com/ZQC4RYO.png){:width="200px"}
+![figure 3 & 4](https://i.imgur.com/ZQC4RYO.png){:width="500px"}
 
 이런 Reconfigure는 데이터가 많아지면서 발생하는 **중첩** 문제를 해결하는 데도 사용할 수 있습니다.
 
 - 3D roatation
 - Jitter (이 개념을 명확하게 설명해주실 분 구합니다ㅠ)
 
-![figure 5](https://i.imgur.com/yVzpmS2.png){:width="200px"}
+![figure 5](https://i.imgur.com/yVzpmS2.png){:width="500px"}
 
 ## 4. Encode : show me a different representation
 
@@ -105,7 +105,7 @@ Panning이란 카메라가 정지 된 상태에서 장면 또는 장면 이동�
 
 결론적으로는 정보를 얼마나 제공할까의 인터랙티브입니다!
 
-![figure 6](https://i.imgur.com/4iAeZwP.png){:width="200px"}
+![figure 6](https://i.imgur.com/4iAeZwP.png){:width="500px"}
 
 ## 6. Filter : show me somthing conditionally
 
@@ -122,7 +122,7 @@ Panning이란 카메라가 정지 된 상태에서 장면 또는 장면 이동�
 - Fig 8과 같이 keyboard interaction도 가능합니다. (이름 필터링 like 검색 시스템)
 - QuerySketch
 
-![figure 7 & 8](https://i.imgur.com/Dwxbfz8.png){:width="200px"}
+![figure 7 & 8](https://i.imgur.com/Dwxbfz8.png){:width="500px"}
 
 ## 7. Connect : show me related items
 
@@ -130,7 +130,7 @@ Panning이란 카메라가 정지 된 상태에서 장면 또는 장면 이동�
 
 - Fig 9는 같은 데이터 다른 표현에서 좌측에 mark한 데이터를 우측 표현에서도 mark해준 예시다.
 
-![figure 9](https://i.imgur.com/lrRQdfv.png){:width="200px"}
+![figure 9](https://i.imgur.com/lrRQdfv.png){:width="500px"}
 
 ## 8. ETC techniques
 
