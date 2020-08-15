@@ -8,7 +8,7 @@ tag:
   - paper review
 author_profile: true
 header:
-  overlay_image: 
+  overlay_image: https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
   overlay_filter: 0.7
 ---
 
