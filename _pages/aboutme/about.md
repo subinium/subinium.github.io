@@ -15,7 +15,7 @@ header:
 학부 3년간 알고리즘 대회를 준비했고, 이를 기반으로 2019년부터 AI와 개발의 세계에서 새로운 꿈들을 안고 나아가고 있습니다.
 
 하지만 AI를 단순히 테크니컬하게 사용하는 것보다, AI로 사람의 마음을 움직일 수 있는 Process에 더 기여하고 싶습니다.
-아이러니하게 언젠가는 **XAI(Explainable AI)**를 이룰 수 있지 않을까라는 기대를 합니다. 
+아이러니하게 언젠가는 **XAI(Explainable AI)**를 이룰 수 있지 않을까라는 기대를 합니다.
 
 자비스(J.A.R.V.I.S.)를 목표로 열심히 달려봅시다!!
 
@@ -31,7 +31,6 @@ header:
   - `Explainable/Interpretable AI`
   - `Representation Learning`
   - `Generative Model`
-
 - **Human-Computer Interaction**
   - `Information Visualization(InfoVis)`
   - `Interaction Design`
@@ -42,7 +41,6 @@ header:
 - **Seoul National Univ. / Human Computer Interaction LAB** Intern, 2020.08 ~
 - **Kakao Enterprise / AI R&D / Audio Processing Part** Intern, 2020.1 ~ 2020.07
   - Voice Synthesis / Voice Conversion
-
 
 ## Education
 
@@ -88,7 +86,8 @@ header:
 
 ## Keynote
 
-- Data Visualization
+- Data Science
+  - [Daejeon Learning Day(DLD2020)](http://aifactory.space/dld/task/detail.do?taskId=T000036) : **How to become a Kaggle Notebooks Master**, 2020
   - [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019
 - Algorithm
   - 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **알고리즘, 어떻게 공부할까?**, 2019 [(review)](/meaningful-ps-algorithm-study/)
@@ -100,7 +99,8 @@ header:
 
 ### Data Science
 
-- [Kaggle](https://www.kaggle.com/subinium)
+- [Kaggle](https://www.kaggle.com/subinium) : Data Analysis & Data Visualization
+
   - <b style='color:orange'>Notebooks Master</b> (국내 1위)
   - <b style='color:purple'>Discussion Expert</b>
 
@@ -115,9 +115,11 @@ header:
 ### Algorithm (Problem Solving)
 
 - 전국 대학생 프로그래밍 대회 동아리 연합 ([link](https://www.facebook.com/groups/ucpc.korea/)), **회장**, 2019.4~2020.4
+
   - [전대프연 여름대회 UCPC 2019](https://github.com/ucpcc/ucpc2019-site/blob/master/01-about.md) **주최, 운영, 디자인**, 2019 [(review)](https://subinium.github.io/UCPC-2019-review/)
 
 - 고려대학교 정보보호학부 알고리즘 동아리 AlKor, **부회장** (2017), **회장** (2018)
+
   - [2019 KCPC 고려대학교 교내 프로그래밍 경시대회](https://kcpc19.contest.codeforces.com/) **출제, 디자인, 운영**, 2019
   - [2018 KCPC 고려대학교 교내 프로그래밍 경시대회](https://www.facebook.com/2018KCPC/) **출제, 디자인, 운영**, 2018
   - 숭고한(숭실대, 고려대, 한양대) 알고리즘 연합캠프 내부 대회 **출제, 디자인, 운영**, 2018 [(review)](https://subinium.github.io/sgh/)
@@ -132,11 +134,12 @@ header:
 ### Community
 
 - Facebook Page
-  - [A.I. Lookbook](https://www.facebook.com/AI.Lookbook/) 운영 (2800+)
-  - [알고리즘을 고통받는 취준생을 위한 안내서](https://www.facebook.com/algoguide/?modal=admin_todo_tour) 운영 (1500+)
-  - [삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour) 운영 (500+)
 
-- Facebook Community
+  - [A.I. Lookbook](https://www.facebook.com/AI.Lookbook/)
+  - [알고리즘을 고통받는 취준생을 위한 안내서](https://www.facebook.com/algoguide/?modal=admin_todo_tour)
+  - [삽질하는 디발자와 개자이너](https://www.facebook.com/shovelingdesignoper/?modal=admin_todo_tour)
+
+- Community
   - [캐글 코리아(Kaggle Korea)](https://www.facebook.com/groups/KaggleKoreaOpenGroup/) **운영진**, 2019~
   - [Data Visualization KR](https://www.facebook.com/groups/2542191496047967/) **개설 및 운영**, 2020~
 
@@ -145,5 +148,3 @@ header:
 - [[내 생각은]열아홉 살 고등학생이 지구 위해 할 수 있는 일](http://www.donga.com/news/article/all/20150416/70732170/1), 2015
 - [공부가 즐겁다! 수학 완전정복 프로젝트](http://woman.donga.com/3/all/12/142535/1), 2010
 - [“제 수학 선생님은 유클리드… 가우스…”](http://news.donga.com/3/all/20090608/8741496/1), 2009
-
-
