@@ -8,6 +8,8 @@ header:
 
 # An Subin (Subinium)
 
+- [English CV](https://github.com/subinium/CV/blob/master/CV.pdf)
+
 > 오랫동안 꿈을 그리는 사람은 마침내 그 꿈을 닮아간다
 
 꿈꾸는 개발자 **안수빈(@subinium)**입니다.
