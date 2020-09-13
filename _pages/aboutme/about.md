@@ -38,15 +38,18 @@ header:
 
 ## Experience
 
-- **Seoul National Univ. / Human Computer Interaction LAB** Intern, 2020.08 ~
-- **Kakao Enterprise / AI R&D / Audio Processing Part** Intern, 2020.1 ~ 2020.07
+- **서울대학교 컴퓨터학과 Human-Computer Interaction LAB** Intern, 2020.08 ~
+- **카카오 엔터프라이즈 / AI R&D / Audio Processing Part** Intern, 2020.1 ~ 2020.07
   - Voice Synthesis / Voice Conversion
 
 ## Education
 
 - **고려대학교 정보보호학부 사이버국방학과** 졸업, 2016.02 ~ 2020.02
-  - 제 1전공 : 사이버국방학과
-  - 제 2전공 : 융합보안융합전공
+  - 1전공 / 2전공 : 사이버국방학과 / 융합보안융합전공 (3.67/4.5)
+  - 전액장학금, 2016~2019
+  - [진리장학금] IT Global Leadership Program, 2016~2019
+  - 융합보안 성적장학금, (Fall2018, Spring2019)
+  - 대학봉사장학금/단대특별장학금, (Fall2018, Spring2019, Fall2019)
 - **서울과학고등학교** 졸업, 2013 ~ 2016
 - **포항제철중학교** 졸업, 2010 ~ 2013
 
@@ -61,10 +64,8 @@ header:
   - 2018 ACM-ICPC Asia Hanoi Regional Contest **14th** place (GoInMulDaeGoSipDa)
   - 2018 ACM-ICPC Asia Seoul Regional Contest **8th** place (장려상, 한국정보과학회장상, GoInMulDaeGoSipDa)
   - 2018 TCO(TopCoder Open) **Top 300** (winning T-shirt)
-  - 2018 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **21th** place (해킹의반대말은달퀸)
   - 2018 SCPC(삼성 대학생 프로그래밍 경진대회) **온사이트 본선** 진출
   - 2016 ACM-ICPC Asia Daejeon Regional Contest **10th** place (AC_FROM_ZZAM)
-  - 2016 UCPC 전국대학생프로그래밍대회동아리연합 여름대회 본선 **26th** place (WellMadeSubinium)
 
 ## Publications
 
@@ -86,14 +87,10 @@ header:
 
 ## Keynote
 
-- Data Science
-  - [Daejeon Learning Day(DLD2020)](http://aifactory.space/dld/task/detail.do?taskId=T000036) : **How to become a Kaggle Notebooks Master**, 2020
-  - [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019
-- Algorithm
-  - 서울시립대학교 제 3회 교내 알고리즘 프로그래밍 대회 : **알고리즘, 어떻게 공부할까?**, 2019 [(review)](/meaningful-ps-algorithm-study/)
-- Blog
-  - 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
-  - [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together/) : **The Newbie Guide to Blogging & Visualization**, 2019 [(review)](/2nd-dlcat-review/)
+- [Daejeon Learning Day(DLD2020)](http://aifactory.space/dld/task/detail.do?taskId=T000036) : **How to become a Kaggle Notebooks Master**, 2020
+- [2019 Global AI Boot Camp Busan](https://festa.io/events/783) : **이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들**, 2019
+- 캐글 코리아와 함께하는 제1회 청소년 데이터과학 컨퍼런스 : **학생때 블로그를 써야하는 이유**, 2019
+- [2nd 함께하는 딥러닝 컨퍼런스 (2nd DLCAT)](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together/) : **The Newbie Guide to Blogging & Visualization**, 2019 [(review)](/2nd-dlcat-review/)
 
 ## Activation / Project
 
