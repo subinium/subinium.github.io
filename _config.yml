@@ -81,7 +81,7 @@ naver_site_verification:
 twitter:
   sername:
 facebook:
-  username: &facebook "SubinAn"
+  username: &facebook "subinium"
   app_id:
   publisher:
 og_image: "/assets/images/mac_asb.jpg"
@@ -204,7 +204,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-#  - jemoji
+  #  - jemoji
   - jekyll-mermaid
 
 # mimic GitHub Pages with --safe
@@ -213,7 +213,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-#  - jemoji
+  #  - jemoji
   - jekyll-mermaid
 
 # Archives
