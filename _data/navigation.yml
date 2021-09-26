@@ -1,19 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
-  - title: "A.I. Lookbook"
-    url: "https://www.facebook.com/AI.Lookbook"
-  - title: "Algoguide"
-    url: "https://www.facebook.com/algoguide"
-  - title: "Desinoper"
-    url: "https://www.facebook.com/shovelingdesignoper"
-
-sidebar-about:
-  - title: "Who am I"
-    children:
-      - title: "Awesome Nerd, Subinium"
-        url: /about/
+    url: "https://github.com/subinium/CV/blob/master/CV.pdf"
 
 PE:
   - title: "Back to Check Table"
